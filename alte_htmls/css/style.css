@@ -1,0 +1,203 @@
+body {
+	color:  #333;
+	line-height: 20px;
+	font: 14px/28px "Lucida Grande", Arial, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+margin-top: 0px;
+padding-top: 0px;
+}
+
+#rareimers {
+position:absolute;
+top:0px;
+right:0px;
+}
+
+#headback{
+	position:  relative;
+	height:  28px;
+	overflow: hidden;
+	width:  150%;
+	background: #333;
+	top: -70px;
+	z-index: 1;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-top: 5px;
+	padding-right: 5px;
+	text-indent: 3px;
+	padding-left: 3px;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#content {
+	border-color: black;
+	border-style: solid;
+	border-width: 0px;
+	width: 80%;
+	float: right;
+	margin: 0px;
+	margin-top: 220px;
+	
+}
+
+#menu {
+border-color: red;
+border-style: solid;
+border-width: 0px;
+	float: left;
+	width: 30%;
+	height: 100%;
+	margin-right: 30px;
+	
+}
+
+#quicklinks a {
+	a {
+		color: #77a3cc;
+		text-decoration: none;
+	}
+	
+	a:hover {
+		color: #333;
+	}
+	
+}
+
+#text {
+border-color: red;
+border-style: solid;
+border-width: 0px;
+float: left;
+background-color: #fff;
+width: 500px;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #77a3cc;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+/*Menüeinträge*/
+
+ul {
+  list-style-type: none;
+}
+
+#menu li {
+	line-height: 40px;
+}
+
+.zivil, .arbeit, .www, .skurril, .insolvent, .podcast, .mehr, .links, .faq, .impressum {
+	padding-left: 30px;
+}
+
+.zivil {
+	background: url(../img/zivil_1.png) no-repeat left;
+}
+
+.zivil:hover {
+	background: url(../img/zivil_2.png) no-repeat left;
+}
+
+.arbeit {
+	background: url(../img/arbeit_1.png) no-repeat left;
+}
+
+.arbeit:hover {
+	background: url(../img/arbeit_2.png) no-repeat left;
+}
+
+.www {
+	background: url(../img/www_1.png) no-repeat left;
+}
+
+.www:hover {
+	background: url(../img/www_2.png) no-repeat left;
+}
+
+.skurril {
+	background: url(../img/skuril_1.png) no-repeat left;
+}
+
+.skurril:hover {
+	background: url(../img/skuril_2.png) no-repeat left;
+}
+
+.insolvent {
+	background: url(../img/insolvent_1.png) no-repeat left;
+}
+
+.insolvent:hover {
+	background: url(../img/insolvent_2.png) no-repeat left;
+}
+
+.podcast {
+	background: url(../img/podcast_1.png) no-repeat left;
+}
+
+.podcast:hover {
+	background: url(../img/podcast_2.png) no-repeat left;
+}
+
+.mehr {
+	background: url(../img/mehr_1.png) no-repeat left;
+}
+
+.mehr:hover {
+	background: url(../img/mehr_2.png) no-repeat left;
+}
+
+.faq {
+	background: url(../img/faq_1.png) no-repeat left;
+}
+
+.faq:hover {
+	background: url(../img/faq_2.png) no-repeat left;
+}
+
+.links {
+	background: url(../img/links_1.png) no-repeat left;
+}
+
+.links:hover {
+	background: url(../img/links_2.png) no-repeat left;
+}
+.impressum {
+	background: url(../img/links_1.png) no-repeat left;
+}
+
+.impressum:hover {
+	background: url(../img/links_2.png) no-repeat left;
+}
+
+
+/* ul entries */
+ul.entries li h3 {
+  left: 0px;
+  font-size: 14px;
+  padding: 0;
+}
+ul.entries a {
+  color: #333;
+}
+ul.entries a:hover {
+  color: #77a3cc;
+}

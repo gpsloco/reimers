@@ -1,0 +1,171 @@
+RewriteEngine on
+RewriteBase /
+# If there are caps, set HASCAPS to true and skip next rule
+RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
+ 
+# Skip this entire section if no uppercase letters in requested URL
+RewriteRule ![A-Z] - [S=28]
+ 
+# Replace single occurance of CAP with cap, then process next Rule.
+RewriteRule ^([^A]*)A(.*)$ $1a$2
+RewriteRule ^([^B]*)B(.*)$ $1b$2
+RewriteRule ^([^C]*)C(.*)$ $1c$2
+RewriteRule ^([^D]*)D(.*)$ $1d$2
+RewriteRule ^([^E]*)E(.*)$ $1e$2
+RewriteRule ^([^F]*)F(.*)$ $1f$2
+RewriteRule ^([^G]*)G(.*)$ $1g$2
+RewriteRule ^([^H]*)H(.*)$ $1h$2
+RewriteRule ^([^I]*)I(.*)$ $1i$2
+RewriteRule ^([^J]*)J(.*)$ $1j$2
+RewriteRule ^([^K]*)K(.*)$ $1k$2
+RewriteRule ^([^L]*)L(.*)$ $1l$2
+RewriteRule ^([^M]*)M(.*)$ $1m$2
+RewriteRule ^([^N]*)N(.*)$ $1n$2
+RewriteRule ^([^O]*)O(.*)$ $1o$2
+RewriteRule ^([^P]*)P(.*)$ $1p$2
+RewriteRule ^([^Q]*)Q(.*)$ $1q$2
+RewriteRule ^([^R]*)R(.*)$ $1r$2
+RewriteRule ^([^S]*)S(.*)$ $1s$2
+RewriteRule ^([^T]*)T(.*)$ $1t$2
+RewriteRule ^([^U]*)U(.*)$ $1u$2
+RewriteRule ^([^V]*)V(.*)$ $1v$2
+RewriteRule ^([^W]*)W(.*)$ $1w$2
+RewriteRule ^([^X]*)X(.*)$ $1x$2
+RewriteRule ^([^Y]*)Y(.*)$ $1y$2
+RewriteRule ^([^Z]*)Z(.*)$ $1z$2
+ 
+# If there are any uppercase letters, restart at very first RewriteRule in file.
+RewriteRule [A-Z] - [N]
+ 
+RewriteCond %{ENV:HASCAPS} TRUE
+RewriteRule ^/?(.*) /$1 [R=301,L]
+Redirect 301 /zivilrecht/2012/02/19/kindesunterhalt//2012/02/19/kindesunterhalt.html /zivilrecht/2012/02/19/kindesunterhalt/ 
+Redirect 301 /zivilrecht/2012/02/19/kindesunterhalt.html /zivilrecht/2012/02/19/kindesunterhalt/ 
+Redirect 301 /zivilrecht/2012/02/02/post11.html /zivilrecht/2012/02/02/post11/
+Redirect 301 /cms/index.php/impressum /impressum/
+Redirect 301 /Impressum /impressum/
+Redirect 301 /recht_skurriles/s_01.php /recht_skurriles/2012/04/22/umsatzsteigerung_auf_italienisch/
+Redirect 301 /cms/ /
+Redirect 301 /Arbeitsrecht/ /arbeitsrecht/
+Redirect 301 /www-recht/w_04.php /www-recht
+Redirect 301 /cms/index.php/bundesrechtsanwaltsordnung /
+Redirect 301 /impressum.php /impressum
+Redirect 301 /Podcast/ /podcast/
+Redirect 301 /mehr_u_6_tdg/ /mehr
+Redirect 301 /Links/ /links/
+Redirect 301 /recht_skurriles/2012/02/02/post02.html /recht_skurriles
+Redirect 301 /recht_skurriles/2012/02/02/post05.html /recht_skurriles
+Redirect 301 /zivilrecht/11.php /zivilrecht
+Redirect 301 /ordnungswidrigkeiten/2012/02/03/post02.html /ordnungswidrigkeiten
+Redirect 301 /zivilrecht/10.php /zivilrecht
+Redirect 301 /ordnungswidrigkeiten/2012/02/03/post01.html /ordnungswidrigkeiten
+Redirect 301 /Zivilrecht/ /zivilrecht/
+Redirect 301 /cms/index.php/site/C2 /
+Redirect 301 /zivilrecht/09.php /zivilrecht
+Redirect 301 /cms/index.php/ra/wuerzburg/faq/ /
+Redirect 301 /cms/index.php/ra/wuerzburg/recht_skuriles /recht_skurriles/
+Redirect 301 /cms/index.php/ra/wuerzburg/podcast/ /podcast/
+Redirect 301 /cms/index.php/ra/wuerzburg/arbeitsrecht/ /arbeitsrecht/
+Redirect 301 /www-recht/w_08.php /www-recht/
+Redirect 301 /Ordnungswidrigkeiten/ /ordnungswidrigkeiten/
+Redirect 301 /zivilrecht/04.php /zivilrecht/
+Redirect 301 /www-recht/w_06.php /www-recht/
+Redirect 301 /ordnungswidrigkeiten/o_05.php /ordnungswidrigkeiten/
+Redirect 301 /mehr_u_6_tdg/m_02.php /mehr/
+Redirect 301 /cms/index.php/search/ /
+Redirect 301 /cms/index.php/site/C2/ /
+Redirect 301 /faq/f_05.php /
+Redirect 301 /faq/f_02.php /
+Redirect 301 /ordnungswidrigkeiten/o_06.php /ordnungswidrigkeiten/
+Redirect 301 /ordnungswidrigkeiten/o_02.php /ordnungswidrigkeiten/
+Redirect 301 /ordnungswidrigkeiten/o_04.php /ordnungswidrigkeiten/
+Redirect 301 /recht_skurriles/s_04.php /recht_skurriles/
+Redirect 301 /arbeitsrecht/a_04.php /arbeitsrecht/
+Redirect 301 /recht_skurriles/s_02.php /recht_skurriles/
+Redirect 301 /www-recht/w_02.php /www-recht/
+Redirect 301 /arbeitsrecht/a_07.php /arbeitsrecht/
+Redirect 301 /cms/index.php/ra/wuerzburg/zivilrecht /zivilrecht/
+Redirect 301 /www-recht/w_03.php /www-recht/
+Redirect 301 /cms/index.php/ra/wuerzburg/www_recht/ /www-recht/
+Redirect 301 /cms/index.php/ra/wuerzburg/ordnungswidrigkeiten /ordnungswidrigkeiten/
+Redirect 301 /cms/index.php/mehr/bussgeld_und_blitzer/ /ordnungswidrigkeiten/2012/02/03/post04/
+Redirect 301 /www-recht/w_01.php /www-recht/
+Redirect 301 /zivilrecht/05.php /zivilrecht/
+Redirect 301 /www-recht/w_11.php /www-recht/
+Redirect 301 /cms/index.php/mehr/kuendigung_des_arbeitnehmers_vertragsstrafe_fuer_ihn/ /Arbeitsrecht/2012/02/07/post/
+Redirect 301 /recht_skurriles/2012/02/02/post.html /recht_skurriles/
+Redirect 301 /cms/index.php/mehr/internetuser_und_cannabisuser/ /recht_skurriles/
+Redirect 301 /cms/index.php/mehr/versicherung_wegen_schadensersatzanspruch_in_form_einer_mtl_unterhaltsrente/ /
+Redirect 301 /cms/index.php/mehr/kammergericht_berlin/ /
+Redirect 301 /cms/index.php/site/C4/ /
+Redirect 301 /zivilrecht/07.php /zivilrecht/
+Redirect 301 /zivilrecht/06.php /zivilrecht/
+Redirect 301 /ordnungswidrigkeiten/2012/02/03/post03.html /
+Redirect 301 /www-recht/w_05.php /www-recht/
+Redirect 301 /recht_skurriles/s_03.php /recht_skurriles/
+Redirect 301 /mehr_u_6_tdg/m_01.php /mehr/
+Redirect 301 /faq/f_04.php /
+Redirect 301 /faq/f_01.php /
+Redirect 301 /arbeitsrecht/a_08.php /arbeitsrecht/
+Redirect 301 /mehr_u_6_tdg/m_03.php /mehr/
+Redirect 301 /zivilrecht/01.php /zivilrecht/
+Redirect 301 /zivilrecht/08.php /zivilrecht/
+Redirect 301 /arbeitsrecht/a_03.php /arbeitsrecht/
+Redirect 301 /arbeitsrecht/a_05.php /arbeitsrecht/
+Redirect 301 /inter2.html /
+Redirect 301 /cms/index.php/mehr/20_jahre_betriebszugehoerigkeit_und_keine_abfindung/ /arbeitsrecht/
+Redirect 301 /cms/index.php/mehr/abmahnung_wegen_download/ /www-recht/2012/02/20/download/
+Redirect 301 /cms/index.php/mehr/willkuer_am_wuerzburger_landgericht/ /
+Redirect 301 /cms/index.php/mehr/hinweispflicht_von_gerichten/ /
+Redirect 301 /cms/index.php/ra/wuerzburg/links/ /
+Redirect 301 /cms/index.php?ACT=19&mbr=3 /
+Redirect 301 /cms/index.php/mehr/beitritt_zu_geschlossene...durchgriffshaftung_von_fi/P29/ /
+Redirect 301 /cms/index.php/ra/wuerzburg/insolvenzrecht /
+Redirect 301 /cms/index.php/mehr/beitritt_zu_geschlossene...durchgriffshaftung_von_fi/P23/ /
+Redirect 301 /cms/index.php/mehr/verjaehrung_von_gewaehrleistungsansprueche_beim_teilekauf_und_einbau/ /
+Redirect 301 /cms/index.php/mehr/kindesunterhalt_mehrbedarf_vollstreckung_aus_altem_urteil_bei_neuem_sachver/ /zivilrecht/
+Redirect 301 /cms/index.php/mehr/die_todesstrafe_verwalten/ /recht_skurriles/
+Redirect 301 /cms/index.php/site/C1/ /
+Redirect 301 /Links/www.jura.uni-sb.de/index.html /links/
+Redirect 301 /www-Recht/ /www-recht/
+Redirect 301 /miet.html /
+Redirect 301 /recht_skurriles/s_05.php /recht_skurriles/
+Redirect 301 /ordnungswidrigkeiten/o_01.php /ordnungswidrigkeiten/
+Redirect 301 /cms/index.php/mehr/beitritt_zu_geschlossenen_immobilienfonds_und_die_durchgriffshaftung_von_fi/ /
+Redirect 301 /zivilrecht/12.php /zivilrecht/
+Redirect 301 /www-recht/w_07.php /www-recht/
+Redirect 301 /ordnungswidrigkeiten/o_03.php /ordnungswidrigkeiten/
+Redirect 301 /zivilrecht/02.php /zivilrecht/
+Redirect 301 /zivilrecht/03.php /zivilrecht/
+Redirect 301 /arbeitsrecht/a_01.php /arbeitsrecht/
+Redirect 301 /arbeitsrecht/a_06.php /arbeitsrecht/
+Redirect 301 /www-recht/w_10.php /www-recht/
+Redirect 301 /faq/f_03.php /
+Redirect 301 /cms/index.php/ra/wuerzburg/mehr_u_6_tdg/ /mehr/
+Redirect 301 /zivilrecht/2012/02/02/post01.html /zivilrecht/
+Redirect 301 /recht_skurriles/2012/02/02/post04.html /recht_skurriles/
+Redirect 301 /www-recht/2012/02/02/post01.html /www-recht/
+Redirect 301 /www-recht/2012/02/02/post05.html /www-recht/
+Redirect 301 /zivilrecht/2012/02/02/post05.html /zivilrecht/
+Redirect 301 /zivilrecht/2012/02/02/post08.html /zivilrecht/
+Redirect 301 /zivilrecht/2012/02/02/post07.html /zivilrecht/
+Redirect 301 /zivilrecht/2012/02/02/post06.html /zivilrecht/
+Redirect 301 /zivilrecht/2012/02/02/post02.html /zivilrecht/
+Redirect 301 /cms/index.php/mehr/unterbrechung_der_verjaehrung/ /
+Redirect 301 /cms/index.php/mehr/kein_fahrverbot_trotz_regelmaessigem_cannabiskonsum/ /
+Redirect 301 /cms/index.php/mehr/beitritt_zu_geschlossene...durchgriffshaftung_von_fi /
+Redirect 301 /cms/index.php/insolvenzrecht /
+Redirect 301 /cms/index.php/mehr/scheinselbstaendigkeit_freier_mitarbeiter/ /
+Redirect 301 /cms/index.php/mehr/link/ /links/
+Redirect 301 /www-recht/2012/02/02/post03.html /www-recht/
+Redirect 301 /www-recht/2012/02/02/post06.html /www-recht/
+Redirect 301 /www-recht/2012/02/02/post02.html /www-recht/
+Redirect 301 /zivilrecht/2012/02/02/post03.html /zivilrecht/
+Redirect 301 /www-Recht/2012/02/20/download.html /www-recht/2012/02/20/download/
+Redirect 301 /www-recht/2012/02/20/download.html /www-recht/2012/02/20/download/
+RewriteCond %{HTTP_HOST} ^([^.]+).(de)
+RewriteRule ^(.*) http://www.%1.%2/$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(html?|php)\ HTTP/
+RewriteRule ^index\.(html?|php)$ http://www.reimers.de/ [R=301,L]
+ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8

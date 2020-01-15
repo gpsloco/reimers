@@ -1,0 +1,1598 @@
+O:9:"MagpieRSS":22:{s:6:"parser";N;s:12:"current_item";a:0:{}s:5:"items";a:15:{i:0;a:9:{s:5:"title";s:31:"Insta#FRUP. January 27 Edition.";s:4:"link";s:67:"http://expressionengine.com/blog/entry/instafrup_january_27_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2012-01-27T22:06:00+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:67:"http://expressionengine.com/blog/entry/instafrup_january_27_edition";s:4:"guid";s:164:"http://expressionengine.com/blog/entry/instafrup_january_27_edition#When:22:06:00Zhttp://expressionengine.com/blog/entry/instafrup_january_27_edition#When:22:06:00Z";s:11:"description";s:8394:"<p>The weeks continue to fly by, and you continue to make amazing things with ExpressionEngine. Remember to submit your news to the #FRUP you can do it either one of two ways. First, for convenience, you can simply send a tweet and add the hashtag #FRUP to the tweet. Just make sure that when you do this, that the tweet shows up if the hashtag &ldquo;#FRUP&rdquo; is being searched for. Twitter has a habit of not always including every tweet for a given hashtag, and we want to make sure we cover all the news we can. Second, for a guaranteed method of getting included, add your news item to the <a href="http://expressionengine.com/forums/viewthread/209705/">proper thread for the week</a>, and we&rsquo;ll be sure to include you.</p>
+
+<p>And now, for this week&rsquo;s Friday Round Up Post.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>Ben at <a href="http://www.putyourlightson.net/">Put Your Lights On</a>, released a <a href="http://www.putyourlightson.net/responsive-cp">Responsive CP</a> theme that allows your control panel to function better on mobile devices.</p>
+</li>
+<li><p>Ben also updated <a href="http://www.putyourlightson.net/developer">Developer</a>, an add-on dedicated to helping you be more productive in accessing your channels, templates, custom fields, and more, to version 1.4. This update contains every feature request submitted since it won <a href="http://devot-ee.com">Devot:ee</a>&rsquo;s accessory of 2011.</p>
+</li>
+<li><p>Lodewijk Schutte updated <a href="http://gotolow.com/addons/low-search">Low Search</a> to version 1.1.0. Check out the <a href="http://gotolow.com/addons/low-search/changelog">changelog</a> for a full list of additions.</p>
+</li>
+<li><p>Nicolas Bottari&rsquo;s <a href="http://devot-ee.com/add-ons/zenbu/">Zenbu</a> was updated to 1.5.2 and addresses bugs and support for ExpressionEngine 2.4. He also <a href="http://nicolasbottari.com/expressionengine_cms/dev/zenbu">published developer documentation</a> for Zenbu, with information for developers who wish to add Zenbu compatibility to their third-party custom fieldtypes.</p>
+</li>
+<li><p>Stephen Lewis of <a href="http://experienceinternet.co.uk/" title="I wonder if Stephen actually looks at title tags on other web sites.">Experience Internet</a> updated <a href="http://experienceinternet.co.uk/software/smartdown/">SmartDown</a>, the add-on for formatting your text using Markdown Extra and SmartyPants. Check out the <a href="http://experienceinternet.co.uk/software/smartdown/changelog/">changelog</a> for a full list of additions.</p>
+</li>
+<li><p><a href="http://twitter.com/#!/laisvis">Laisvunas</a> released <a href="http://devot-ee.com/add-ons/ajax-mailinglist">AJAX Mailinglist</a>. This plugin allows you to display a mailing list form in ExpressionEngine’s templates and submit it without reloading the page.</p>
+</li>
+<li><p><a href="http://www.electricputty.co.uk/">Electric Putty</a> has written their own documentation for third-party add-on developers to make their add-ons compatible with <a href="http://betterworkflow.electricputty.co.uk/">Better Workflow</a>. <a href="http://betterworkflow.electricputty.co.uk/api.html">Check out the documentation</a>, and be on the lookout for this great addition in Better Workflow 1.2.</p>
+</li>
+<li><p><a href="http://jmx2.com/">John Morton</a> released <a href="http://picpuller.com/">Pic Puller</a>. Care to pull in your Instagram feed into your ExpressionEngine web site? Then check out Pic Puller. It allows multiple users to pull their photos, their feed, their liked photos, their user info and more.</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/">Causing Effect&rsquo;s</a> image manipulation add-on <a href="http://www.causingeffect.com/software/expressionengine/ce-image/change-log">CE Image reached version 2.3</a>. Embed images directly into your content, override settings via config.php, and more.</p>
+</li>
+<li><p>Causing Effect also updated <a href="http://www.causingeffect.com/software/expressionengine/ce-cache/change-log">CE Cache</a>, which adds the Redis driver amongst other changes.</p>
+</li>
+<li><p><a href="http://mightybigrobot.com/">MightyBigRobot</a> released <a href="http://devot-ee.com/add-ons/field-editor">Field Editor</a>. This add-on makes it a breeze to setup new custom fields quickly and effectively, with an easy to use interface.</p>
+</li>
+<li><p><a href="http://devot-ee.com/developers/rein-de-vries">Rein de Vries</a> released <a href="http://devot-ee.com/add-ons/mailinglist-importer">Mailinglist Importer v1.0</a>. This module will extend the functionality of the Mailing List module and allow you to import and replace existing mailing lists.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://garrant.com">Garrant Consulting LLC</a> along with Market Fusion, <a href="http://philippearnoldi.com">Philippe Arnoldi Design Graphique</a>, <a href="http://jennetix.com">Jennetix</a>, and <a href="http://resmarkconsulting.com">Responsible Marketing Consulting Services</a> launched a new website for <a href="http://nycominerals.com">NYCO Minerals, Inc.</a>. Some of the add-ons used include <a href="http://booyant.com/navee">NavEE</a>, <a href="http://booyant.com/better-pages">Better Pages</a>, <a href="http://devot-ee.com/add-ons/expresso">Expresso</a>, <a href="http://pixelandtonic.com/matrix">Matrix</a>, <a href="http://gotolow.com/addons/low-reorder">Low Reorder</a>, <a href="http://devot-ee.com/add-ons/seolite">SEO Lite</a> and <a href="http://devot-ee.com/add-ons/backup-pro">Backup Pro</a>.</p>
+</li>
+<li><p><a href="http://focuslabllc.com/">Focus Lab, LLC</a> re-designed their site, and is powered by ExpressionEngine 2.4.0.</p>
+</li>
+<li><p><a href="http://www.620studio.com/">620 Studio</a> launched a new site for <a href="http://www.objetsltd.com/">Objets, LTD</a>.</p>
+</li>
+<li><p><a href="http://www.spicreative.net/">SPI Creative</a> launched the newly redesigned <a href="http://www.carthagechamber.com/">Carthage Chamber of Commerce</a></p>
+</li>
+<li><p><a href="http://www.venveo.com/">Venveo</a> recently launched a site for <a href="http://www.voicevisionivr.com/">Vision Point Systems</a>.</p>
+</li>
+</ul>
+
+<h4>Podcasts</h4>
+
+<ul>
+<li>The EE Podcast talks version control with guests <a href="http://www.ianpitts.com/">Ian Pitts</a> and <a href="http://adamwiggall.com/">Adam Wiggall</a> in <a href="http://ee-podcast.com/episodes/version-control-with-ee">Episode 61</a>.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p>Our very own <a href="http://ellislab.com/company/team/sean_smith">Sean Smith</a> started a <a href="http://toronto-ee.com/">Toronto EE Meetup Site/Group</a>.</p>
+</li>
+<li><p>Thomas Boelskifte wanted to do something amazing for this community. And, well he&rsquo;s gone and done just that. He&rsquo;s started a digital magazine known as &ldquo;exp:magazine&rdquo;. <a href="http://nordic-ee-users.com/index.php/blog/comments/expmagazine-a-new-magazine-for-the-community">Read about his thought process, and check out issue #1</a>.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li>Tyler Herman of <a href="http://couchable.co/">Couchable</a> blogged on <a href="http://couchable.co/blog/post/expressionengine-add-ons-making-clients-lives-easier">ExpressionEngine add-ons that make your client&rsquo;s lives easier</a>. It&rsquo;s a great round up of add-ons that make your clients enjoy ExpressionEngine even more.</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p><a href="http://expressionengine.com/blog/entry/expressionengine_2.4.0_released">ExpressionEngine 2.4 was released</a>! This release includes bug fixes, new features, and contributions from the EE Reactor team.</p>
+</li>
+<li><p>Marcus Neto <a href="http://expressionengine.com/blog/entry/an_interview_with_erik_reagan_of_focus_lab">interviews Erik Reagan of Focus Lab</a>.</p>
+</li>
+<li><p>For those attending An Event Apart in Atlanta this February make sure to catch up with Director of Sales and Evangelism <a href="http://ellislab.com/company/team/marcus_neto">Marcus Neto</a>.</p>
+</li>
+<li><p>A new showcase on the <a href="http://expressionengine.com/showcase/interview/it_gets_better_project">It Gets Better Project</a> has been posted.</p>
+</li>
+<li><p>There is a new CodeIgniter showcase on <a href="http://codeigniter.com/news/pancake_app">Pancake App</a>.</p>
+</li>
+</ul>
+
+<p>Thanks everyone, you all really did a lot this week!</p>";s:7:"pubdate";s:29:"Fri, 27 Jan 2012 22:06:00 GMT";s:7:"summary";s:8394:"<p>The weeks continue to fly by, and you continue to make amazing things with ExpressionEngine. Remember to submit your news to the #FRUP you can do it either one of two ways. First, for convenience, you can simply send a tweet and add the hashtag #FRUP to the tweet. Just make sure that when you do this, that the tweet shows up if the hashtag &ldquo;#FRUP&rdquo; is being searched for. Twitter has a habit of not always including every tweet for a given hashtag, and we want to make sure we cover all the news we can. Second, for a guaranteed method of getting included, add your news item to the <a href="http://expressionengine.com/forums/viewthread/209705/">proper thread for the week</a>, and we&rsquo;ll be sure to include you.</p>
+
+<p>And now, for this week&rsquo;s Friday Round Up Post.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>Ben at <a href="http://www.putyourlightson.net/">Put Your Lights On</a>, released a <a href="http://www.putyourlightson.net/responsive-cp">Responsive CP</a> theme that allows your control panel to function better on mobile devices.</p>
+</li>
+<li><p>Ben also updated <a href="http://www.putyourlightson.net/developer">Developer</a>, an add-on dedicated to helping you be more productive in accessing your channels, templates, custom fields, and more, to version 1.4. This update contains every feature request submitted since it won <a href="http://devot-ee.com">Devot:ee</a>&rsquo;s accessory of 2011.</p>
+</li>
+<li><p>Lodewijk Schutte updated <a href="http://gotolow.com/addons/low-search">Low Search</a> to version 1.1.0. Check out the <a href="http://gotolow.com/addons/low-search/changelog">changelog</a> for a full list of additions.</p>
+</li>
+<li><p>Nicolas Bottari&rsquo;s <a href="http://devot-ee.com/add-ons/zenbu/">Zenbu</a> was updated to 1.5.2 and addresses bugs and support for ExpressionEngine 2.4. He also <a href="http://nicolasbottari.com/expressionengine_cms/dev/zenbu">published developer documentation</a> for Zenbu, with information for developers who wish to add Zenbu compatibility to their third-party custom fieldtypes.</p>
+</li>
+<li><p>Stephen Lewis of <a href="http://experienceinternet.co.uk/" title="I wonder if Stephen actually looks at title tags on other web sites.">Experience Internet</a> updated <a href="http://experienceinternet.co.uk/software/smartdown/">SmartDown</a>, the add-on for formatting your text using Markdown Extra and SmartyPants. Check out the <a href="http://experienceinternet.co.uk/software/smartdown/changelog/">changelog</a> for a full list of additions.</p>
+</li>
+<li><p><a href="http://twitter.com/#!/laisvis">Laisvunas</a> released <a href="http://devot-ee.com/add-ons/ajax-mailinglist">AJAX Mailinglist</a>. This plugin allows you to display a mailing list form in ExpressionEngine’s templates and submit it without reloading the page.</p>
+</li>
+<li><p><a href="http://www.electricputty.co.uk/">Electric Putty</a> has written their own documentation for third-party add-on developers to make their add-ons compatible with <a href="http://betterworkflow.electricputty.co.uk/">Better Workflow</a>. <a href="http://betterworkflow.electricputty.co.uk/api.html">Check out the documentation</a>, and be on the lookout for this great addition in Better Workflow 1.2.</p>
+</li>
+<li><p><a href="http://jmx2.com/">John Morton</a> released <a href="http://picpuller.com/">Pic Puller</a>. Care to pull in your Instagram feed into your ExpressionEngine web site? Then check out Pic Puller. It allows multiple users to pull their photos, their feed, their liked photos, their user info and more.</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/">Causing Effect&rsquo;s</a> image manipulation add-on <a href="http://www.causingeffect.com/software/expressionengine/ce-image/change-log">CE Image reached version 2.3</a>. Embed images directly into your content, override settings via config.php, and more.</p>
+</li>
+<li><p>Causing Effect also updated <a href="http://www.causingeffect.com/software/expressionengine/ce-cache/change-log">CE Cache</a>, which adds the Redis driver amongst other changes.</p>
+</li>
+<li><p><a href="http://mightybigrobot.com/">MightyBigRobot</a> released <a href="http://devot-ee.com/add-ons/field-editor">Field Editor</a>. This add-on makes it a breeze to setup new custom fields quickly and effectively, with an easy to use interface.</p>
+</li>
+<li><p><a href="http://devot-ee.com/developers/rein-de-vries">Rein de Vries</a> released <a href="http://devot-ee.com/add-ons/mailinglist-importer">Mailinglist Importer v1.0</a>. This module will extend the functionality of the Mailing List module and allow you to import and replace existing mailing lists.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://garrant.com">Garrant Consulting LLC</a> along with Market Fusion, <a href="http://philippearnoldi.com">Philippe Arnoldi Design Graphique</a>, <a href="http://jennetix.com">Jennetix</a>, and <a href="http://resmarkconsulting.com">Responsible Marketing Consulting Services</a> launched a new website for <a href="http://nycominerals.com">NYCO Minerals, Inc.</a>. Some of the add-ons used include <a href="http://booyant.com/navee">NavEE</a>, <a href="http://booyant.com/better-pages">Better Pages</a>, <a href="http://devot-ee.com/add-ons/expresso">Expresso</a>, <a href="http://pixelandtonic.com/matrix">Matrix</a>, <a href="http://gotolow.com/addons/low-reorder">Low Reorder</a>, <a href="http://devot-ee.com/add-ons/seolite">SEO Lite</a> and <a href="http://devot-ee.com/add-ons/backup-pro">Backup Pro</a>.</p>
+</li>
+<li><p><a href="http://focuslabllc.com/">Focus Lab, LLC</a> re-designed their site, and is powered by ExpressionEngine 2.4.0.</p>
+</li>
+<li><p><a href="http://www.620studio.com/">620 Studio</a> launched a new site for <a href="http://www.objetsltd.com/">Objets, LTD</a>.</p>
+</li>
+<li><p><a href="http://www.spicreative.net/">SPI Creative</a> launched the newly redesigned <a href="http://www.carthagechamber.com/">Carthage Chamber of Commerce</a></p>
+</li>
+<li><p><a href="http://www.venveo.com/">Venveo</a> recently launched a site for <a href="http://www.voicevisionivr.com/">Vision Point Systems</a>.</p>
+</li>
+</ul>
+
+<h4>Podcasts</h4>
+
+<ul>
+<li>The EE Podcast talks version control with guests <a href="http://www.ianpitts.com/">Ian Pitts</a> and <a href="http://adamwiggall.com/">Adam Wiggall</a> in <a href="http://ee-podcast.com/episodes/version-control-with-ee">Episode 61</a>.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p>Our very own <a href="http://ellislab.com/company/team/sean_smith">Sean Smith</a> started a <a href="http://toronto-ee.com/">Toronto EE Meetup Site/Group</a>.</p>
+</li>
+<li><p>Thomas Boelskifte wanted to do something amazing for this community. And, well he&rsquo;s gone and done just that. He&rsquo;s started a digital magazine known as &ldquo;exp:magazine&rdquo;. <a href="http://nordic-ee-users.com/index.php/blog/comments/expmagazine-a-new-magazine-for-the-community">Read about his thought process, and check out issue #1</a>.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li>Tyler Herman of <a href="http://couchable.co/">Couchable</a> blogged on <a href="http://couchable.co/blog/post/expressionengine-add-ons-making-clients-lives-easier">ExpressionEngine add-ons that make your client&rsquo;s lives easier</a>. It&rsquo;s a great round up of add-ons that make your clients enjoy ExpressionEngine even more.</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p><a href="http://expressionengine.com/blog/entry/expressionengine_2.4.0_released">ExpressionEngine 2.4 was released</a>! This release includes bug fixes, new features, and contributions from the EE Reactor team.</p>
+</li>
+<li><p>Marcus Neto <a href="http://expressionengine.com/blog/entry/an_interview_with_erik_reagan_of_focus_lab">interviews Erik Reagan of Focus Lab</a>.</p>
+</li>
+<li><p>For those attending An Event Apart in Atlanta this February make sure to catch up with Director of Sales and Evangelism <a href="http://ellislab.com/company/team/marcus_neto">Marcus Neto</a>.</p>
+</li>
+<li><p>A new showcase on the <a href="http://expressionengine.com/showcase/interview/it_gets_better_project">It Gets Better Project</a> has been posted.</p>
+</li>
+<li><p>There is a new CodeIgniter showcase on <a href="http://codeigniter.com/news/pancake_app">Pancake App</a>.</p>
+</li>
+</ul>
+
+<p>Thanks everyone, you all really did a lot this week!</p>";}i:1;a:9:{s:5:"title";s:42:"An Interview with Erik Reagan of Focus Lab";s:4:"link";s:81:"http://expressionengine.com/blog/entry/an_interview_with_erik_reagan_of_focus_lab";s:2:"dc";a:2:{s:7:"creator";s:11:"Marcus Neto";s:4:"date";s:25:"2012-01-24T20:42:18+00:00";}s:8:"category";s:10:"Interviews";s:8:"comments";s:81:"http://expressionengine.com/blog/entry/an_interview_with_erik_reagan_of_focus_lab";s:4:"guid";s:192:"http://expressionengine.com/blog/entry/an_interview_with_erik_reagan_of_focus_lab#When:20:42:18Zhttp://expressionengine.com/blog/entry/an_interview_with_erik_reagan_of_focus_lab#When:20:42:18Z";s:11:"description";s:11650:"<p>Today I am proud to push submit on a blog post highlighting one of our Reactor Team members. My hope is that we will get a chance to introduce you to more of them over the coming months. This interview is with Erik Reagan of <a href="http://focuslabllc.com/">Focus Lab, LLC.</a> I chose Erik to go first as Focus Lab is launching their new website today as well. So after you finish reading this interview make sure to head on over to the new <a href="http://focuslabllc.com/">Focus Lab website</a> and see the beautiful changes that Erik and the rest of the Focus Lab team have worked hard on.</p>
+
+<p>For those of you that don&#8217;t know Erik you should know that he is a patient family man that is more than willing to help out another dev on a problem. He regularly assists people on twitter and is an active member in the weekly chats. He also teaches a class for other devs to learn how to build add-ons for EE. In general, he is a pretty awesome dude and we are glad he is part of our community. So let&#8217;s learn a bit more about Erik&#8230;</p>
+
+<center><img src="http://expressionengine.com/files/blog/erik_reagan_1.jpg" alt="Erik Reagan hard at work" width="500" alt="desc" /></center>
+
+<p><br />
+<strong>Can you tell us a little about Erik? If you were to write a bio for your about page what would be important for the reader to know?</strong></p>
+
+<p>That depends. How long is my about page? I do know that I wouldn&#8217;t bore people with industry-based info about me.</p>
+
+<p>I would start off by bragging about my family. My wife and daughter are pretty much the coolest gals around. Without their support there would be no Erik on Twitter or in the EE forums. I love them with all of my heart and really enjoy having the opportunity to provide for them.</p>
+
+<p>In high school my plan was to be a rockstar and/or studio engineer and producer for a living. After high school I went to school to be a music educator. Music has a huge impact in my family and I can&#8217;t imagine that changing anytime soon. If you haven&#8217;t noticed though, I changed my mind on the rockstar status.</p>
+
+<p>A few years ago I realized I wanted to run my own show. Make my own hours. Build a business worth investing in. My ultimate business goal is to have a company that does rock-solid work and enables employees to love their work, but more importantly love and enjoy their life.</p>
+
+<p><strong>Funny, music seems to be a common theme in the web design community. What did you study? Do you play additional instruments?</strong></p>
+
+<p>I&#8217;ve noticed that music is a common theme in the design community as well. I joked (partially) a while back that there should be an EE band at the next EECI.</p>
+
+<p>Specifically, I studied Music Education (BME) with a focus on (or &#8220;primary instrument&#8221; of) Voice. I basically sang for grades. Both of my parents are former music teachers, my grandmother is a piano teacher (she&#8217;s pretty much amazing), my father plays classical guitar, and the list goes on. I started taking piano lessons at a pretty young age, but haven&#8217;t practiced in over a decade. I can still play to a degree, but I couldn&#8217;t just hop on a stage and jam at this point. My main instruments are guitar and voice now-a-days.</p>
+
+<p>Don&#8217;t let me mislead you though - I studied music, but didn&#8217;t graduate with a degree in music. After studying music the way the professors told me to I decided I didn&#8217;t want to do that for a living. I changed my major to Computer Science after completing two semesters for my BME. That being said, I never even took a CS class. I had other things going on (like meeting my wonderful bride) that made me realize I didn&#8217;t even want to be in school at that time. So I guess I&#8217;m technically a college dropout.</p>
+
+<p><strong>Along those same lines, what are your musical tastes? Do you have some music that is your &#8220;go to&#8221; for coding marathons?</strong><br />
+My taste is pretty eclectic. As I type this I&#8217;m listening to Ahmad Jamal Trio (Jazz, for those unaware). The morning emails started off with Needtobreathe as my soundtrack. I do have a playlist called &#8220;Now This I Can Work To&#8221; but even it isn&#8217;t limited to a particular genre. Some artists in the list are Waterdeep, John Mayer, Glad, Andrew Lloyd Webber, Jake Shimabukuro, 2Cellos &amp; The Roots.</p>
+
+<p>When it comes to &#8220;coding marathons&#8221; I have a pretty refined subset of songs I listen to. They have to meet a specific criteria. They need to be pretty upbeat (if not rhythmically, then energetically). They can&#8217;t be too musically intriguing (or I&#8217;ll just want to stop and listen) and they can&#8217;t make me want to pick up an instrument. That might sound strange, but it makes for the most efficient coding sessions for me.</p>
+
+<p><strong>So how did you get your start in the World Wide Web?</strong></p>
+
+<p>When I was in 6th grade my dad was my computer teacher. In his class (and outside) he encouraged me to learn HTML (3.2 at the time). I dabbled in HTML and Javascript here and there for a few years. Somewhere along the way I started using FrontPage 98. I built my first paid website with that. It was pretty horrible, but I didn&#8217;t know any different.</p>
+
+<p>Later in high school I went into some server-side languages and Flash. I really liked Flash for a while and was coming up with random projects for it. I spent many hours in the flashkit.com forums (as a member and also a moderator) learning more than I needed to know about Flash and Actionscript. I later saw the light and put my Flash days behind me <img src="http://ellislab.com/images/smileys/smile.gif" width="19" height="19" alt="smile" style="border:0;" /></p>
+
+<p><strong>I know you are a visual individual as we&#8217;ve spoken about your love of photography before. I find it interesting that you moved into code versus design. When you think back was there anything in particular that moved you in that direction?</strong></p>
+
+<p>I left out the design history because frankly, it stunk. I know my way around Photoshop pretty well. I&#8217;m not too bad with a pencil and a piece of paper either. What I&#8217;m not good at is coming up with something on a blank canvas. I can&#8217;t create something new, or from my imagination even. Not anything pretty that is. However, if I can look at and review the lines, shapes and depth of something I&#8217;m not too bad a reproducing it.</p>
+
+<p>I like reproducing things but it&#8217;s ultimately not fulfilling.</p>
+
+<p>When it comes to code I had a knack for seeing a problem and creating a solution. I didn&#8217;t need a diagram or outline to make it happen (not all of the time at least). Because of this I drifted more toward the code rather than the design. You mentioned photography. It&#8217;s actually a similar story. My wife takes 90% of the photos in our family because she has an eye for it. I just answer the occasional technical question about ratios, depths and lighting angles.</p>
+
+<p><strong>So, now you find yourself part of a successful design studio. Can you tell me a little about how Focus Lab came about? And what your role there entails?</strong></p>
+
+<p>Focus Lab has existed for about 4 years. My business partner, Bill Kenney, and I met when I saw an ad for a Flash developer needed for a contract job. I met with Bill and our personalities instantly clicked. We were both doing freelance work as a part-time job. We talked over some details and decided to just partner up and combine clients and efforts. By April of 2010 we both had switched over to running our business full-time. At that point we renamed our business to Focus Lab, LLC and defined some clearer goals for the company. The rest, as they say, is history. Except for the future that is. That&#8217;s not history. We need to make it first.</p>
+
+<p>My role at Focus Lab (at this point at least) is hard to nail down ultimately. Being a small company we owners wear more hats than one. I suppose the most relevant one is that I&#8217;m the lead developer. I make sure that the development that goes out of our doors is solid and sharp. I also lead the EE training and consulting that we do. Ultimately I&#8217;d like to hand over the reins on the development and focus more (see what I did there?) on business development.</p>
+
+<p><strong>Is that before or after you quit your day job to be a comedian? In all seriousness though, Focus Lab is doing some amazing work. Can you give us an idea of what your process is for new clients?</strong></p>
+
+<p>Wow, thanks!</p>
+
+<p>For any project we start by asking clients to explain (or we help identify) the problem they are trying to solve. From there we work through possible solutions based on the timeframe and budget. The idea is simply that in the end they have a product that we and they are proud to showcase. There is a variety of unicorns, black magic and Monty Python references in between those steps, but that&#8217;s mostly how it goes.</p>
+
+<p><strong>So switching gears a little, how long have you been using EE? And you are now part of the Reactor Team for ExpressionEngine. How has that experience been?</strong></p>
+
+<p>I&#8217;ve been using EE for about 3 or 4 years. It started at my then day job when I was looking for a solution that allowed me to manage content for multiple sites across multiple domains but sharing content and members. As you can imagine, EE&#8217;s MSM fit the mold quite well.</p>
+
+<p>My first look at EE turned me off instantly. I didn&#8217;t get it therefore I didn&#8217;t like it. However, after going through Train-ee&#8217;s tutorials and watching some helpful screencasts I had the &#8220;ah-ha&#8221; moment I was needing. I haven&#8217;t looked back since.</p>
+
+<p>Being part of Reactor is really fun. I&#8217;m having conversations I may have not otherwise had. Most of my participation thus far has been centered around ideas and planning so the first EE release with Reactor contributions won&#8217;t have anything from me. I have some goodies in the works though. I&#8217;m really excited about the experiment as a whole and I&#8217;m thrilled to be a part of it.</p>
+
+<p><strong>What do you like to do to recharge in your off time? Any hobbies or activities that you enjoy?</strong></p>
+
+<p>Time with my beautiful wife and daughter is certainly at the top of that list. They inspire, motivate and encourage me in so many ways. I love the time I have with them and am very grateful for having them in my life.</p>
+
+<p>&nbsp;</p><center><img src="http://expressionengine.com/files/blog/erik_reagan_2.jpg" alt="Erik's Motivation" width="500" alt="desc" /></center>
+
+<p><br />
+In terms of hobbies, I mainly have three right now. I love music (as mentioned earlier) so picking up the guitar is always an instant sense of peace for me. I also love billiards. I wish I had more time to play but I still get to a table a few times a month. Lastly, as of late I&#8217;ve picked up running. It&#8217;s way more enjoyable than I would have imagined. It gives me some time to not think about much of anything.</p>
+
+<p><strong>Erik, I want to thank you for your time. Before we go is there anything else you want to share?</strong></p>
+
+<p>Sure! If anyone out there ever wants to chat with me about anything I have an open inbox. From development and business to family and faith. I love having a good conversation and learning with others.</p>
+
+<p>Also, I&#8217;ll insert the obligatory shameless plug. Keep an eye on Focus Lab this year. We have a lot of exciting things on the horizon!</p>";s:7:"pubdate";s:29:"Tue, 24 Jan 2012 20:42:18 GMT";s:7:"summary";s:11650:"<p>Today I am proud to push submit on a blog post highlighting one of our Reactor Team members. My hope is that we will get a chance to introduce you to more of them over the coming months. This interview is with Erik Reagan of <a href="http://focuslabllc.com/">Focus Lab, LLC.</a> I chose Erik to go first as Focus Lab is launching their new website today as well. So after you finish reading this interview make sure to head on over to the new <a href="http://focuslabllc.com/">Focus Lab website</a> and see the beautiful changes that Erik and the rest of the Focus Lab team have worked hard on.</p>
+
+<p>For those of you that don&#8217;t know Erik you should know that he is a patient family man that is more than willing to help out another dev on a problem. He regularly assists people on twitter and is an active member in the weekly chats. He also teaches a class for other devs to learn how to build add-ons for EE. In general, he is a pretty awesome dude and we are glad he is part of our community. So let&#8217;s learn a bit more about Erik&#8230;</p>
+
+<center><img src="http://expressionengine.com/files/blog/erik_reagan_1.jpg" alt="Erik Reagan hard at work" width="500" alt="desc" /></center>
+
+<p><br />
+<strong>Can you tell us a little about Erik? If you were to write a bio for your about page what would be important for the reader to know?</strong></p>
+
+<p>That depends. How long is my about page? I do know that I wouldn&#8217;t bore people with industry-based info about me.</p>
+
+<p>I would start off by bragging about my family. My wife and daughter are pretty much the coolest gals around. Without their support there would be no Erik on Twitter or in the EE forums. I love them with all of my heart and really enjoy having the opportunity to provide for them.</p>
+
+<p>In high school my plan was to be a rockstar and/or studio engineer and producer for a living. After high school I went to school to be a music educator. Music has a huge impact in my family and I can&#8217;t imagine that changing anytime soon. If you haven&#8217;t noticed though, I changed my mind on the rockstar status.</p>
+
+<p>A few years ago I realized I wanted to run my own show. Make my own hours. Build a business worth investing in. My ultimate business goal is to have a company that does rock-solid work and enables employees to love their work, but more importantly love and enjoy their life.</p>
+
+<p><strong>Funny, music seems to be a common theme in the web design community. What did you study? Do you play additional instruments?</strong></p>
+
+<p>I&#8217;ve noticed that music is a common theme in the design community as well. I joked (partially) a while back that there should be an EE band at the next EECI.</p>
+
+<p>Specifically, I studied Music Education (BME) with a focus on (or &#8220;primary instrument&#8221; of) Voice. I basically sang for grades. Both of my parents are former music teachers, my grandmother is a piano teacher (she&#8217;s pretty much amazing), my father plays classical guitar, and the list goes on. I started taking piano lessons at a pretty young age, but haven&#8217;t practiced in over a decade. I can still play to a degree, but I couldn&#8217;t just hop on a stage and jam at this point. My main instruments are guitar and voice now-a-days.</p>
+
+<p>Don&#8217;t let me mislead you though - I studied music, but didn&#8217;t graduate with a degree in music. After studying music the way the professors told me to I decided I didn&#8217;t want to do that for a living. I changed my major to Computer Science after completing two semesters for my BME. That being said, I never even took a CS class. I had other things going on (like meeting my wonderful bride) that made me realize I didn&#8217;t even want to be in school at that time. So I guess I&#8217;m technically a college dropout.</p>
+
+<p><strong>Along those same lines, what are your musical tastes? Do you have some music that is your &#8220;go to&#8221; for coding marathons?</strong><br />
+My taste is pretty eclectic. As I type this I&#8217;m listening to Ahmad Jamal Trio (Jazz, for those unaware). The morning emails started off with Needtobreathe as my soundtrack. I do have a playlist called &#8220;Now This I Can Work To&#8221; but even it isn&#8217;t limited to a particular genre. Some artists in the list are Waterdeep, John Mayer, Glad, Andrew Lloyd Webber, Jake Shimabukuro, 2Cellos &amp; The Roots.</p>
+
+<p>When it comes to &#8220;coding marathons&#8221; I have a pretty refined subset of songs I listen to. They have to meet a specific criteria. They need to be pretty upbeat (if not rhythmically, then energetically). They can&#8217;t be too musically intriguing (or I&#8217;ll just want to stop and listen) and they can&#8217;t make me want to pick up an instrument. That might sound strange, but it makes for the most efficient coding sessions for me.</p>
+
+<p><strong>So how did you get your start in the World Wide Web?</strong></p>
+
+<p>When I was in 6th grade my dad was my computer teacher. In his class (and outside) he encouraged me to learn HTML (3.2 at the time). I dabbled in HTML and Javascript here and there for a few years. Somewhere along the way I started using FrontPage 98. I built my first paid website with that. It was pretty horrible, but I didn&#8217;t know any different.</p>
+
+<p>Later in high school I went into some server-side languages and Flash. I really liked Flash for a while and was coming up with random projects for it. I spent many hours in the flashkit.com forums (as a member and also a moderator) learning more than I needed to know about Flash and Actionscript. I later saw the light and put my Flash days behind me <img src="http://ellislab.com/images/smileys/smile.gif" width="19" height="19" alt="smile" style="border:0;" /></p>
+
+<p><strong>I know you are a visual individual as we&#8217;ve spoken about your love of photography before. I find it interesting that you moved into code versus design. When you think back was there anything in particular that moved you in that direction?</strong></p>
+
+<p>I left out the design history because frankly, it stunk. I know my way around Photoshop pretty well. I&#8217;m not too bad with a pencil and a piece of paper either. What I&#8217;m not good at is coming up with something on a blank canvas. I can&#8217;t create something new, or from my imagination even. Not anything pretty that is. However, if I can look at and review the lines, shapes and depth of something I&#8217;m not too bad a reproducing it.</p>
+
+<p>I like reproducing things but it&#8217;s ultimately not fulfilling.</p>
+
+<p>When it comes to code I had a knack for seeing a problem and creating a solution. I didn&#8217;t need a diagram or outline to make it happen (not all of the time at least). Because of this I drifted more toward the code rather than the design. You mentioned photography. It&#8217;s actually a similar story. My wife takes 90% of the photos in our family because she has an eye for it. I just answer the occasional technical question about ratios, depths and lighting angles.</p>
+
+<p><strong>So, now you find yourself part of a successful design studio. Can you tell me a little about how Focus Lab came about? And what your role there entails?</strong></p>
+
+<p>Focus Lab has existed for about 4 years. My business partner, Bill Kenney, and I met when I saw an ad for a Flash developer needed for a contract job. I met with Bill and our personalities instantly clicked. We were both doing freelance work as a part-time job. We talked over some details and decided to just partner up and combine clients and efforts. By April of 2010 we both had switched over to running our business full-time. At that point we renamed our business to Focus Lab, LLC and defined some clearer goals for the company. The rest, as they say, is history. Except for the future that is. That&#8217;s not history. We need to make it first.</p>
+
+<p>My role at Focus Lab (at this point at least) is hard to nail down ultimately. Being a small company we owners wear more hats than one. I suppose the most relevant one is that I&#8217;m the lead developer. I make sure that the development that goes out of our doors is solid and sharp. I also lead the EE training and consulting that we do. Ultimately I&#8217;d like to hand over the reins on the development and focus more (see what I did there?) on business development.</p>
+
+<p><strong>Is that before or after you quit your day job to be a comedian? In all seriousness though, Focus Lab is doing some amazing work. Can you give us an idea of what your process is for new clients?</strong></p>
+
+<p>Wow, thanks!</p>
+
+<p>For any project we start by asking clients to explain (or we help identify) the problem they are trying to solve. From there we work through possible solutions based on the timeframe and budget. The idea is simply that in the end they have a product that we and they are proud to showcase. There is a variety of unicorns, black magic and Monty Python references in between those steps, but that&#8217;s mostly how it goes.</p>
+
+<p><strong>So switching gears a little, how long have you been using EE? And you are now part of the Reactor Team for ExpressionEngine. How has that experience been?</strong></p>
+
+<p>I&#8217;ve been using EE for about 3 or 4 years. It started at my then day job when I was looking for a solution that allowed me to manage content for multiple sites across multiple domains but sharing content and members. As you can imagine, EE&#8217;s MSM fit the mold quite well.</p>
+
+<p>My first look at EE turned me off instantly. I didn&#8217;t get it therefore I didn&#8217;t like it. However, after going through Train-ee&#8217;s tutorials and watching some helpful screencasts I had the &#8220;ah-ha&#8221; moment I was needing. I haven&#8217;t looked back since.</p>
+
+<p>Being part of Reactor is really fun. I&#8217;m having conversations I may have not otherwise had. Most of my participation thus far has been centered around ideas and planning so the first EE release with Reactor contributions won&#8217;t have anything from me. I have some goodies in the works though. I&#8217;m really excited about the experiment as a whole and I&#8217;m thrilled to be a part of it.</p>
+
+<p><strong>What do you like to do to recharge in your off time? Any hobbies or activities that you enjoy?</strong></p>
+
+<p>Time with my beautiful wife and daughter is certainly at the top of that list. They inspire, motivate and encourage me in so many ways. I love the time I have with them and am very grateful for having them in my life.</p>
+
+<p>&nbsp;</p><center><img src="http://expressionengine.com/files/blog/erik_reagan_2.jpg" alt="Erik's Motivation" width="500" alt="desc" /></center>
+
+<p><br />
+In terms of hobbies, I mainly have three right now. I love music (as mentioned earlier) so picking up the guitar is always an instant sense of peace for me. I also love billiards. I wish I had more time to play but I still get to a table a few times a month. Lastly, as of late I&#8217;ve picked up running. It&#8217;s way more enjoyable than I would have imagined. It gives me some time to not think about much of anything.</p>
+
+<p><strong>Erik, I want to thank you for your time. Before we go is there anything else you want to share?</strong></p>
+
+<p>Sure! If anyone out there ever wants to chat with me about anything I have an open inbox. From development and business to family and faith. I love having a good conversation and learning with others.</p>
+
+<p>Also, I&#8217;ll insert the obligatory shameless plug. Keep an eye on Focus Lab this year. We have a lot of exciting things on the horizon!</p>";}i:2;a:8:{s:5:"title";s:31:"ExpressionEngine 2.4.0 Released";s:4:"link";s:70:"http://expressionengine.com/blog/entry/expressionengine_2.4.0_released";s:2:"dc";a:2:{s:7:"creator";s:12:"Robin Sowell";s:4:"date";s:25:"2012-01-24T17:07:08+00:00";}s:8:"comments";s:70:"http://expressionengine.com/blog/entry/expressionengine_2.4.0_released";s:4:"guid";s:170:"http://expressionengine.com/blog/entry/expressionengine_2.4.0_released#When:17:07:08Zhttp://expressionengine.com/blog/entry/expressionengine_2.4.0_released#When:17:07:08Z";s:11:"description";s:5848:"<p>ExpressionEngine 2.4.0 is now available for <a href="https://secure.expressionengine.com/download.php">download</a>.&nbsp; This release provides a broad array of changes, including  stability and security improvements, a faster control panel, the addition of popular feature requests and new libraries and hooks for third party developers.</p>
+
+<p>This release offers improved stability and performance with over 80 bug fixes, including an obscure but theoretically possible MySQL injection exploit.&nbsp; The control panel is noticeably faster in most environments, with much snappier rendering of filterable tables.&nbsp; And an expanded approach to &#8216;Remember me&#8217; functionality that&#8217;s optimized for multiple sites and/or devices results in a nicer frontend user experience.&nbsp; In addition to improvements to general functionality, both users and developers will find lots of goodies as we continue to develop existing features and set the groundwork for upcoming additions.&nbsp; </p>
+
+<p>File management continues to improve in this release, with a number of nice additions.&nbsp; The browser has been beefed up to allow sorting and filtering by keywords, greatly improving the ease with which you can find a particular file.&nbsp; The browser has also been added to the category editor, for use when populating the category image field.&nbsp; File access via the browser has also been seen increased security checks, limiting access through the browser to the CP.</p>
+
+<p>File &#8216;credit&#8217; and &#8216;location&#8217; metadata can now be added through the file modal, and file fields can display all data associated with a given file through frontend tags.&nbsp; It&#8217;s now easy to show any of your image options with native tags.&nbsp; The ability to watermark an image without requiring resizing has also been added.</p>
+
+<p>Improvements designed to make updating and/or moving ExpressionEngine sites were also a focus of this release.&nbsp; File upload paths can now be overridden via a <a href="http://expressionengine.com/user_guide/general/hidden_configuration_variables.html#upload-preferences">hidden configuration variable</a>, making updates after a move or syncing a developer site and a production site easier.&nbsp; A third_party_path configuration variable was also added, allowing you to keep your third party add-ons folder outside of the system folder.</p>
+
+<p>A number of smaller feature requests were also addressed in this release, including the addition of an &#8216;active&#8217; status indicator to the Channel Categories tag; the ability of the Channel Categories and Category Archive tags to accept multiple channels in the channel parameter; the addition of a url_title parameter to the Channel Next and Previous tags; the expansion of improved control over pagination output to search pagination; the ability to choose a specific channel from the main control panel dropdown menu when editing and a lot more.&nbsp; Check the <a href="http://expressionengine.com/user_guide/changelog.html#version-2-4-0">Changelog</a> for a full list of what&#8217;s new!</p>
+
+<p>Developers will also find a number of significant additions in this release.&nbsp; Two new constants, URL_THEMES_THIRD and PATH_THEMES_THIRD, have been added with the goal of allowing users to fully customize the location of third party folders. These two constants point to the URL and the path of the themes/third_party/ directory. We’d like you to start using these right away and have your add-ons using them by our next major release because we’ll be introducing two new config variables that allow users to override these settings.&nbsp; In conjunction with the new third_party_path config variable, users will then be able to keep third_party folders completely out of the system/ and themes/ directory, making upgrading easier. </p>
+
+<p>It&#8217;s also not too soon to start paying attention to our new <a href="http://expressionengine.com/user_guide/cp/tools/logs/developer_log.html">Developer Log</a>.&nbsp; This feature records deprecated functions that are called during normal operation of a site.&nbsp; This allows ExpressionEngine to send a warning that functions or behaviors currently in use on a site will be removed at some point in the future, thus giving third party developers time to future proof their code. </p>
+
+<p>A new <a href="http://expressionengine.com/user_guide/development/usage/file_field.html">File field library</a> should also be of particular interest to third party developers.&nbsp; The library makes it easy for developers to use the native browser for their own needs.&nbsp; For a look at the library in action, just take a peek at how it was used to enable file browsing for the Category Image field in the control panel.&nbsp; </p>
+
+<p>EE&#8217;s Pagination library has also seen significant improvement, reducing the amount of code needed to implement pagination parsing and providing a method for handling pagination_links as a tag pair.&nbsp; All developers are encouraged to make use of the library for parsing of pagination tags.&nbsp; Hooks also received their share of love in this release, with new hooks available when deleting members, modifying template data, defining template types, and pulling in rows for the content edit page.</p>
+
+<p>Lastly, I would like to note that our PHP and MySQL version requirements will change with the 2.6.0 ExpressionEngine release, giving you at least 3 months to prepare. Our PHP version requirement will be 5.2.4 and our MySQL requirement will be 5.0.3. Making the call now allows our developers to plan new features with optimized code while still giving our users plenty of time to make sure their hosting environment is compatible with ExpressionEngine’s future needs.</p>
+
+<p>We hope you all enjoy the new release!</p>";s:7:"pubdate";s:29:"Tue, 24 Jan 2012 17:07:08 GMT";s:7:"summary";s:5848:"<p>ExpressionEngine 2.4.0 is now available for <a href="https://secure.expressionengine.com/download.php">download</a>.&nbsp; This release provides a broad array of changes, including  stability and security improvements, a faster control panel, the addition of popular feature requests and new libraries and hooks for third party developers.</p>
+
+<p>This release offers improved stability and performance with over 80 bug fixes, including an obscure but theoretically possible MySQL injection exploit.&nbsp; The control panel is noticeably faster in most environments, with much snappier rendering of filterable tables.&nbsp; And an expanded approach to &#8216;Remember me&#8217; functionality that&#8217;s optimized for multiple sites and/or devices results in a nicer frontend user experience.&nbsp; In addition to improvements to general functionality, both users and developers will find lots of goodies as we continue to develop existing features and set the groundwork for upcoming additions.&nbsp; </p>
+
+<p>File management continues to improve in this release, with a number of nice additions.&nbsp; The browser has been beefed up to allow sorting and filtering by keywords, greatly improving the ease with which you can find a particular file.&nbsp; The browser has also been added to the category editor, for use when populating the category image field.&nbsp; File access via the browser has also been seen increased security checks, limiting access through the browser to the CP.</p>
+
+<p>File &#8216;credit&#8217; and &#8216;location&#8217; metadata can now be added through the file modal, and file fields can display all data associated with a given file through frontend tags.&nbsp; It&#8217;s now easy to show any of your image options with native tags.&nbsp; The ability to watermark an image without requiring resizing has also been added.</p>
+
+<p>Improvements designed to make updating and/or moving ExpressionEngine sites were also a focus of this release.&nbsp; File upload paths can now be overridden via a <a href="http://expressionengine.com/user_guide/general/hidden_configuration_variables.html#upload-preferences">hidden configuration variable</a>, making updates after a move or syncing a developer site and a production site easier.&nbsp; A third_party_path configuration variable was also added, allowing you to keep your third party add-ons folder outside of the system folder.</p>
+
+<p>A number of smaller feature requests were also addressed in this release, including the addition of an &#8216;active&#8217; status indicator to the Channel Categories tag; the ability of the Channel Categories and Category Archive tags to accept multiple channels in the channel parameter; the addition of a url_title parameter to the Channel Next and Previous tags; the expansion of improved control over pagination output to search pagination; the ability to choose a specific channel from the main control panel dropdown menu when editing and a lot more.&nbsp; Check the <a href="http://expressionengine.com/user_guide/changelog.html#version-2-4-0">Changelog</a> for a full list of what&#8217;s new!</p>
+
+<p>Developers will also find a number of significant additions in this release.&nbsp; Two new constants, URL_THEMES_THIRD and PATH_THEMES_THIRD, have been added with the goal of allowing users to fully customize the location of third party folders. These two constants point to the URL and the path of the themes/third_party/ directory. We’d like you to start using these right away and have your add-ons using them by our next major release because we’ll be introducing two new config variables that allow users to override these settings.&nbsp; In conjunction with the new third_party_path config variable, users will then be able to keep third_party folders completely out of the system/ and themes/ directory, making upgrading easier. </p>
+
+<p>It&#8217;s also not too soon to start paying attention to our new <a href="http://expressionengine.com/user_guide/cp/tools/logs/developer_log.html">Developer Log</a>.&nbsp; This feature records deprecated functions that are called during normal operation of a site.&nbsp; This allows ExpressionEngine to send a warning that functions or behaviors currently in use on a site will be removed at some point in the future, thus giving third party developers time to future proof their code. </p>
+
+<p>A new <a href="http://expressionengine.com/user_guide/development/usage/file_field.html">File field library</a> should also be of particular interest to third party developers.&nbsp; The library makes it easy for developers to use the native browser for their own needs.&nbsp; For a look at the library in action, just take a peek at how it was used to enable file browsing for the Category Image field in the control panel.&nbsp; </p>
+
+<p>EE&#8217;s Pagination library has also seen significant improvement, reducing the amount of code needed to implement pagination parsing and providing a method for handling pagination_links as a tag pair.&nbsp; All developers are encouraged to make use of the library for parsing of pagination tags.&nbsp; Hooks also received their share of love in this release, with new hooks available when deleting members, modifying template data, defining template types, and pulling in rows for the content edit page.</p>
+
+<p>Lastly, I would like to note that our PHP and MySQL version requirements will change with the 2.6.0 ExpressionEngine release, giving you at least 3 months to prepare. Our PHP version requirement will be 5.2.4 and our MySQL requirement will be 5.0.3. Making the call now allows our developers to plan new features with optimized code while still giving our users plenty of time to make sure their hosting environment is compatible with ExpressionEngine’s future needs.</p>
+
+<p>We hope you all enjoy the new release!</p>";}i:3;a:9:{s:5:"title";s:47:"Do Re Mi #FRUP So La Ti Do. January 20 Edition.";s:4:"link";s:84:"http://expressionengine.com/blog/entry/do_re_mi_frup_so_la_ti_do._january_20_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2012-01-20T20:29:30+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:84:"http://expressionengine.com/blog/entry/do_re_mi_frup_so_la_ti_do._january_20_edition";s:4:"guid";s:198:"http://expressionengine.com/blog/entry/do_re_mi_frup_so_la_ti_do._january_20_edition#When:20:29:30Zhttp://expressionengine.com/blog/entry/do_re_mi_frup_so_la_ti_do._january_20_edition#When:20:29:30Z";s:11:"description";s:4907:"<p>Not only do you make amazing things <i>with</i> ExpressionEngine, but you make amazing things <i>about</i> ExpressionEngine. More on that in a second.</p>
+
+<p>Remember, the &ldquo;Friday Round Up Post&rdquo; is here to help promote the amazing work you do. Be sure to submit your news by means of the <a href="http://twitter.com/#!/search/%23frup">#FRUP</a> hashtag on Twitter, or by using <a href="http://expressionengine.com/forums/viewthread/209151/">this thread</a>.</p>
+
+<h4>Songs</h4>
+
+<ul>
+<li>ExpressionEngine is a powerful CMS. And apparently, it makes some of our users extremely happy. So happy, they created a <a href="http://assets2.bigbangtechnology.com/Expression%20Engine%202.mp3">song showcasing their love for it</a>.</li>
+</ul>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p><a href="http://nicolasbottari.com/">Nicolas Bottari</a> updated entry list manager, <a href="http://devot-ee.com/add-ons/zenbu">Zenbu</a>, to version 1.5.1, with per member settings, formatting options for expired or upcoming entry dates, and bug fixes.</p>
+</li>
+<li><p>Isaac Raway of <a href="http://metasushi.com/">MetaSushi, LLC</a> released <a href="http://devot-ee.com/add-ons/illuminated">Illuminated</a>. Illuminated is a high quality editing surface that supports full syntax highlighting for HTML and JavaScript code right in your publish page. For a full list of features, check out the add-on on <a href="http://devot-ee.com/add-ons/illuminated">Devote:ee</a>.</p>
+</li>
+<li><p>Ben of <a href="http://www.putyourlightson.net/">PutYourLightsOn</a> launched a new add-on called <a href="http://www.putyourlightson.net/snaptcha">Snaptcha</a>. Snaptcha is an invisible but secure CAPTCHA that works with comment, SafeCracker, and Freeform forms.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p>James Buckley launched his new site <a href="http://www.brightrocketdesign.com/">Bright Rocket Design</a>.</p>
+</li>
+<li><p><a href="http://www.brightrocketdesign.com/">James</a> also launched a new site for the <a href="http://cceh.org/">Connecticut Coalition to End Homelessness</a>.</p>
+</li>
+<li><p><a href="http://perrygarvin.com/">Perry Garvin Studio</a> launched a site for <a href="http://filmforum.org">Film Forum, Inc</a>.</p>
+</li>
+<li><p><a href="http://natetronn.com/">Nathan Doyle</a> launched  <a href="http://bigbuttguitars.com/">Big Butt Guitars</a>.</p>
+</li>
+<li><p>Paul Bridgestock of <a href="http://3easy.org/">3Easy</a> launched <a href="http://bomboclothing.com/">Bombo Clothing</a> which has an e-commerce store powered by <a href="http://www.brilliantretail.com/">BrilliantRetail</a>.</p>
+</li>
+<li><p><a href="http://www.encaffeinated.com/">Encaffeinated, Inc.</a> just updated the <a href="http://www.tuck.dartmouth.edu">Tuck School of Business at Dartmouth</a> site that they originally built in 2010 to ExpressionEngine 2! Chad mentions the use of EE Reactor member Brian Litzinger&rsquo;s script for <a href="http://devot-ee.com/add-ons/undo-gypsy">undoing Gypsy</a> as a huge help in the project.</p>
+</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li>Michael Boyink of <a href="http://www.train-ee.com/">Train-ee</a> is looking for <strong>your</strong> help. As part of putting together some new EE training materials, he&rsquo;s seeking two things. First he&rsquo;s looking for a design quote for a restaurant site, which you can <a href="http://www.train-ee.com/courseware/news/item/design-quotes-needed/">read more about here</a>. Second, he&rsquo;s looking for a restaurant client, so the course is implemented in a real world scenario. <a href="http://www.train-ee.com/courseware/news/item/restaurant-client-needed/">Read more on these requirements here</a>.</li>
+</ul>
+
+<h4>Education</h4>
+
+<ul>
+<li><a href="http://www.train-ee.com/">Train-ee</a> has two new classes in San Antonio, TX in March. Mike is offering a &ldquo;<a href="http://www.train-ee.com/courseware/classroom/detail/expressionengine-beginner-to-intermediate-training-san-antonio/">Beginner to Intermediate</a>&rdquo; course, as well as an &ldquo;<a href="http://www.train-ee.com/courseware/classroom/detail/expressionengine-add-on-development-san-antonio/">Add-on Development</a>&rdquo; course.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li>Stephen Lewis of <a href="http://experienceinternet.co.uk/" title="Matt wanted me to tell you Hi! Stephen.">Experience Internet</a> posted a blog article on <a href="http://experienceinternet.co.uk/blog/how-to-implement-a-custom-extension-hook/">How to Implement a Custom Extension Hook</a>.</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li>EllisLab has been around for ten, yes 10, yes X, years! Our fearless leader Leslie Camacho has posted an <a href="http://ellislab.com/blog/comments/ellislab_2012">overview of what&rsquo;s to come in EllisLab&rsquo;s near future</a>.</li>
+</ul>
+
+<p>Thank you all for another great week. Look forward to seeing more of your work next #FRUP!</p>";s:7:"pubdate";s:29:"Fri, 20 Jan 2012 20:29:30 GMT";s:7:"summary";s:4907:"<p>Not only do you make amazing things <i>with</i> ExpressionEngine, but you make amazing things <i>about</i> ExpressionEngine. More on that in a second.</p>
+
+<p>Remember, the &ldquo;Friday Round Up Post&rdquo; is here to help promote the amazing work you do. Be sure to submit your news by means of the <a href="http://twitter.com/#!/search/%23frup">#FRUP</a> hashtag on Twitter, or by using <a href="http://expressionengine.com/forums/viewthread/209151/">this thread</a>.</p>
+
+<h4>Songs</h4>
+
+<ul>
+<li>ExpressionEngine is a powerful CMS. And apparently, it makes some of our users extremely happy. So happy, they created a <a href="http://assets2.bigbangtechnology.com/Expression%20Engine%202.mp3">song showcasing their love for it</a>.</li>
+</ul>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p><a href="http://nicolasbottari.com/">Nicolas Bottari</a> updated entry list manager, <a href="http://devot-ee.com/add-ons/zenbu">Zenbu</a>, to version 1.5.1, with per member settings, formatting options for expired or upcoming entry dates, and bug fixes.</p>
+</li>
+<li><p>Isaac Raway of <a href="http://metasushi.com/">MetaSushi, LLC</a> released <a href="http://devot-ee.com/add-ons/illuminated">Illuminated</a>. Illuminated is a high quality editing surface that supports full syntax highlighting for HTML and JavaScript code right in your publish page. For a full list of features, check out the add-on on <a href="http://devot-ee.com/add-ons/illuminated">Devote:ee</a>.</p>
+</li>
+<li><p>Ben of <a href="http://www.putyourlightson.net/">PutYourLightsOn</a> launched a new add-on called <a href="http://www.putyourlightson.net/snaptcha">Snaptcha</a>. Snaptcha is an invisible but secure CAPTCHA that works with comment, SafeCracker, and Freeform forms.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p>James Buckley launched his new site <a href="http://www.brightrocketdesign.com/">Bright Rocket Design</a>.</p>
+</li>
+<li><p><a href="http://www.brightrocketdesign.com/">James</a> also launched a new site for the <a href="http://cceh.org/">Connecticut Coalition to End Homelessness</a>.</p>
+</li>
+<li><p><a href="http://perrygarvin.com/">Perry Garvin Studio</a> launched a site for <a href="http://filmforum.org">Film Forum, Inc</a>.</p>
+</li>
+<li><p><a href="http://natetronn.com/">Nathan Doyle</a> launched  <a href="http://bigbuttguitars.com/">Big Butt Guitars</a>.</p>
+</li>
+<li><p>Paul Bridgestock of <a href="http://3easy.org/">3Easy</a> launched <a href="http://bomboclothing.com/">Bombo Clothing</a> which has an e-commerce store powered by <a href="http://www.brilliantretail.com/">BrilliantRetail</a>.</p>
+</li>
+<li><p><a href="http://www.encaffeinated.com/">Encaffeinated, Inc.</a> just updated the <a href="http://www.tuck.dartmouth.edu">Tuck School of Business at Dartmouth</a> site that they originally built in 2010 to ExpressionEngine 2! Chad mentions the use of EE Reactor member Brian Litzinger&rsquo;s script for <a href="http://devot-ee.com/add-ons/undo-gypsy">undoing Gypsy</a> as a huge help in the project.</p>
+</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li>Michael Boyink of <a href="http://www.train-ee.com/">Train-ee</a> is looking for <strong>your</strong> help. As part of putting together some new EE training materials, he&rsquo;s seeking two things. First he&rsquo;s looking for a design quote for a restaurant site, which you can <a href="http://www.train-ee.com/courseware/news/item/design-quotes-needed/">read more about here</a>. Second, he&rsquo;s looking for a restaurant client, so the course is implemented in a real world scenario. <a href="http://www.train-ee.com/courseware/news/item/restaurant-client-needed/">Read more on these requirements here</a>.</li>
+</ul>
+
+<h4>Education</h4>
+
+<ul>
+<li><a href="http://www.train-ee.com/">Train-ee</a> has two new classes in San Antonio, TX in March. Mike is offering a &ldquo;<a href="http://www.train-ee.com/courseware/classroom/detail/expressionengine-beginner-to-intermediate-training-san-antonio/">Beginner to Intermediate</a>&rdquo; course, as well as an &ldquo;<a href="http://www.train-ee.com/courseware/classroom/detail/expressionengine-add-on-development-san-antonio/">Add-on Development</a>&rdquo; course.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li>Stephen Lewis of <a href="http://experienceinternet.co.uk/" title="Matt wanted me to tell you Hi! Stephen.">Experience Internet</a> posted a blog article on <a href="http://experienceinternet.co.uk/blog/how-to-implement-a-custom-extension-hook/">How to Implement a Custom Extension Hook</a>.</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li>EllisLab has been around for ten, yes 10, yes X, years! Our fearless leader Leslie Camacho has posted an <a href="http://ellislab.com/blog/comments/ellislab_2012">overview of what&rsquo;s to come in EllisLab&rsquo;s near future</a>.</li>
+</ul>
+
+<p>Thank you all for another great week. Look forward to seeing more of your work next #FRUP!</p>";}i:4;a:9:{s:5:"title";s:46:"May the #FRUP be with You. January 13 Edition.";s:4:"link";s:83:"http://expressionengine.com/blog/entry/may_the_frup_be_with_you._january_13_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2012-01-13T21:10:53+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:83:"http://expressionengine.com/blog/entry/may_the_frup_be_with_you._january_13_edition";s:4:"guid";s:196:"http://expressionengine.com/blog/entry/may_the_frup_be_with_you._january_13_edition#When:21:10:53Zhttp://expressionengine.com/blog/entry/may_the_frup_be_with_you._january_13_edition#When:21:10:53Z";s:11:"description";s:5063:"<p>Time for Friday Round Up, it is. Amazing things, make, you have.</p>
+
+<p>The things you make with ExpressionEngine continually blows my mind. From site launches, to extending ExpressionEngine&rsquo;s functionality, to in-depth tutorials, you all are truly amazing.</p>
+
+<p>Remember, we create these round up posts every Friday, so be sure to submit your news by means of the <a href="http://twitter.com/#!/search/%23frup">#FRUP</a> hashtag on Twitter, or by using <a href="http://expressionengine.com/forums/viewthread/208525/">this thread</a>.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>DevDemon released <a href="http://www.devdemon.com/channel_files/">Channel Files 5.0</a>. This is a major update with tons of new features.</p>
+</li>
+<li><p>Lodewijk Schutte aka Low, released <a href="http://gotolow.com/addons/low-variables">Low Variables 2.0</a>, a major update to this add-on. Get the lowdown on this release <a href="http://gotolow.com/blog/low-variables-20">here</a>.</p>
+</li>
+<li><p><a href="http://www.putyourlightson.net/">PutYourLightsOn</a> released <a href="http://www.putyourlightson.net/expresso">Expresso 1.8</a> now with full support for Low Variables, NavEE, Structure and Pages.</p>
+</li>
+<li><p><a href="http://www.putyourlightson.net/">PutYourLightsOn</a> also released version 2.4 of their <a href="http://www.putyourlightson.net/sitemap-module">Sitemap Module</a> which now includes support for Pages and Structure.</p>
+</li>
+<li><p><a href="http://www.electricputty.co.uk">Electric Putty</a> released <a href="http://betterworkflow.electricputty.co.uk/">Better Workflow 1.1.1</a> which features bug fixes and code refactoring.</p>
+</li>
+<li><p><a href="http://eeharbor.com/">EEHarbor</a> is at it again with their newest add-on <a href="http://eeharbor.com/transcribe">Transcribe</a>.
+Making creating multi-lingual sites easier. Check out the <a href="http://www.youtube.com/watch?v=XEAR0ZdGxkw">demo video</a>.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+<ul>
+<li><p><a href="http://spicreative.net/">SPI Creative</a> launched the new <a href="http://www.bgcswmo.org/">Boys &amp; Girls Club of Southwest Missouri</a>.</p>
+</li>
+<li><p><a href="http://clearbold.com">Clearbold</a> along with <a href="http://whiterhino.com">White Rhino</a> launched <a href="http://originhs.com">Origin Healthcare’s</a> new site.</p>
+</li>
+<li><p><a href="http://qbmarketing.com/">QB Marketing</a> launched a new site for <a href="http://consultpinto.com/">Malcolm Pinto Engineering</a>.</p>
+</li>
+<li><p><a href="http://www.vectorliving.com/">Allan Kukral</a> launched a redesign and upgrade of <a href="http://www.leontinelinens.com/">Leontine Linens</a>. This site made the jump from ExpressionEngine 1.6.3 to 2.3.</p>
+</li>
+<li><p><a href="http://qbmarketing.com/">QB Marketing</a> launched another site this week for <a href="http://longpondclassic.com/">Long Pond Hockey Heritage Classic</a>.</p>
+</li>
+<li><p><a href="http://www.ibgdg.com/">IBG Design Group</a> launched a re-design of <a href="http://prosymmetry.com/">ProSymmetry</a>.</p>
+</li>
+<li><p><a href="http://www.optimadesign.co.uk/">Optima Design</a> launched a Cartthrob driven e-commerce store on <a href="http://www.chiselwood.co.uk/paint/order">Chiselwood</a>.</p>
+</li>
+</ul>
+
+<h4>Podcasts</h4>
+
+<ul>
+<li>The EE Podcast released their <a href="http://ee-podcast.com/episodes/first-ee-sites">first episode of the new year</a>. Listen to EE user&rsquo;s stories about their first ExpressionEngine web sites.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><a href="http://universit-ee.com/">Universit-ee&rsquo;s</a> private tour opens next week. Sign-ups are open through this weekend.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>John Faulds wrote about <a href="http://www.johnfaulds.com.au/journal/responsive-layouts-with-expressionengine/">responsive layouts with ExpressionEngine</a>.</p>
+</li>
+<li><p><a href="http://garrettwinder.com/">Garrett Winder</a> of <a href="http://erskinedesign.com/">Erskine Design</a> wrote an article on .net magazine about <a href="http://www.netmagazine.com/tutorials/going-mobile-expressionengine">how to create a dedicated mobile site with ExpressionEngine</a>.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>We&rsquo;d like to welcome <a href="http://ellislab.com/company/team/sam_wilson">Sam Wilson</a> to the family as Experience Crafter.</p>
+</li>
+<li><p>We&rsquo;d also like to welcome <a href="http://ellislab.com/company/team/shane_eckert">Shane Eckert</a> as our newest Customer Advocate.</p>
+</li>
+<li><p>I posted to the EllisLab blog on an event I <a href="http://ellislab.com/blog/comments/the_conference_for_students_by_students">hosted at my school</a> this past week.</p>
+</li>
+<li><p>In light of the PHP framework survey from December, Derek Jones has followed up with <a href="http://ellislab.com/blog/comments/codeigniter_osl_3.0_compliance_examples">CodeIgniter OSL 3.0 Compliance Examples</a> that should help clarify the new CodeIgniter license even more.</p>
+</li>
+</ul>
+
+<p>Thanks for a great week everyone. Keep it up!</p>";s:7:"pubdate";s:29:"Fri, 13 Jan 2012 21:10:53 GMT";s:7:"summary";s:5063:"<p>Time for Friday Round Up, it is. Amazing things, make, you have.</p>
+
+<p>The things you make with ExpressionEngine continually blows my mind. From site launches, to extending ExpressionEngine&rsquo;s functionality, to in-depth tutorials, you all are truly amazing.</p>
+
+<p>Remember, we create these round up posts every Friday, so be sure to submit your news by means of the <a href="http://twitter.com/#!/search/%23frup">#FRUP</a> hashtag on Twitter, or by using <a href="http://expressionengine.com/forums/viewthread/208525/">this thread</a>.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>DevDemon released <a href="http://www.devdemon.com/channel_files/">Channel Files 5.0</a>. This is a major update with tons of new features.</p>
+</li>
+<li><p>Lodewijk Schutte aka Low, released <a href="http://gotolow.com/addons/low-variables">Low Variables 2.0</a>, a major update to this add-on. Get the lowdown on this release <a href="http://gotolow.com/blog/low-variables-20">here</a>.</p>
+</li>
+<li><p><a href="http://www.putyourlightson.net/">PutYourLightsOn</a> released <a href="http://www.putyourlightson.net/expresso">Expresso 1.8</a> now with full support for Low Variables, NavEE, Structure and Pages.</p>
+</li>
+<li><p><a href="http://www.putyourlightson.net/">PutYourLightsOn</a> also released version 2.4 of their <a href="http://www.putyourlightson.net/sitemap-module">Sitemap Module</a> which now includes support for Pages and Structure.</p>
+</li>
+<li><p><a href="http://www.electricputty.co.uk">Electric Putty</a> released <a href="http://betterworkflow.electricputty.co.uk/">Better Workflow 1.1.1</a> which features bug fixes and code refactoring.</p>
+</li>
+<li><p><a href="http://eeharbor.com/">EEHarbor</a> is at it again with their newest add-on <a href="http://eeharbor.com/transcribe">Transcribe</a>.
+Making creating multi-lingual sites easier. Check out the <a href="http://www.youtube.com/watch?v=XEAR0ZdGxkw">demo video</a>.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+<ul>
+<li><p><a href="http://spicreative.net/">SPI Creative</a> launched the new <a href="http://www.bgcswmo.org/">Boys &amp; Girls Club of Southwest Missouri</a>.</p>
+</li>
+<li><p><a href="http://clearbold.com">Clearbold</a> along with <a href="http://whiterhino.com">White Rhino</a> launched <a href="http://originhs.com">Origin Healthcare’s</a> new site.</p>
+</li>
+<li><p><a href="http://qbmarketing.com/">QB Marketing</a> launched a new site for <a href="http://consultpinto.com/">Malcolm Pinto Engineering</a>.</p>
+</li>
+<li><p><a href="http://www.vectorliving.com/">Allan Kukral</a> launched a redesign and upgrade of <a href="http://www.leontinelinens.com/">Leontine Linens</a>. This site made the jump from ExpressionEngine 1.6.3 to 2.3.</p>
+</li>
+<li><p><a href="http://qbmarketing.com/">QB Marketing</a> launched another site this week for <a href="http://longpondclassic.com/">Long Pond Hockey Heritage Classic</a>.</p>
+</li>
+<li><p><a href="http://www.ibgdg.com/">IBG Design Group</a> launched a re-design of <a href="http://prosymmetry.com/">ProSymmetry</a>.</p>
+</li>
+<li><p><a href="http://www.optimadesign.co.uk/">Optima Design</a> launched a Cartthrob driven e-commerce store on <a href="http://www.chiselwood.co.uk/paint/order">Chiselwood</a>.</p>
+</li>
+</ul>
+
+<h4>Podcasts</h4>
+
+<ul>
+<li>The EE Podcast released their <a href="http://ee-podcast.com/episodes/first-ee-sites">first episode of the new year</a>. Listen to EE user&rsquo;s stories about their first ExpressionEngine web sites.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><a href="http://universit-ee.com/">Universit-ee&rsquo;s</a> private tour opens next week. Sign-ups are open through this weekend.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>John Faulds wrote about <a href="http://www.johnfaulds.com.au/journal/responsive-layouts-with-expressionengine/">responsive layouts with ExpressionEngine</a>.</p>
+</li>
+<li><p><a href="http://garrettwinder.com/">Garrett Winder</a> of <a href="http://erskinedesign.com/">Erskine Design</a> wrote an article on .net magazine about <a href="http://www.netmagazine.com/tutorials/going-mobile-expressionengine">how to create a dedicated mobile site with ExpressionEngine</a>.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>We&rsquo;d like to welcome <a href="http://ellislab.com/company/team/sam_wilson">Sam Wilson</a> to the family as Experience Crafter.</p>
+</li>
+<li><p>We&rsquo;d also like to welcome <a href="http://ellislab.com/company/team/shane_eckert">Shane Eckert</a> as our newest Customer Advocate.</p>
+</li>
+<li><p>I posted to the EllisLab blog on an event I <a href="http://ellislab.com/blog/comments/the_conference_for_students_by_students">hosted at my school</a> this past week.</p>
+</li>
+<li><p>In light of the PHP framework survey from December, Derek Jones has followed up with <a href="http://ellislab.com/blog/comments/codeigniter_osl_3.0_compliance_examples">CodeIgniter OSL 3.0 Compliance Examples</a> that should help clarify the new CodeIgniter license even more.</p>
+</li>
+</ul>
+
+<p>Thanks for a great week everyone. Keep it up!</p>";}i:5;a:9:{s:5:"title";s:33:"A New #FRUP. January 6th Edition.";s:4:"link";s:70:"http://expressionengine.com/blog/entry/a_new_frup._january_6th_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2012-01-06T22:26:37+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:70:"http://expressionengine.com/blog/entry/a_new_frup._january_6th_edition";s:4:"guid";s:170:"http://expressionengine.com/blog/entry/a_new_frup._january_6th_edition#When:22:26:37Zhttp://expressionengine.com/blog/entry/a_new_frup._january_6th_edition#When:22:26:37Z";s:11:"description";s:2730:"<p>Welcome to the first #FRUP of the year. If you have news you want us to include, remember to add it on Twitter with the &ldquo;#FRUP&rdquo; hashtag, or <a href="http://expressionengine.com/forums/viewthread/207954/">this thread</a>.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><a href="http://www.eevolution.co.uk/">EEvolution</a> released <a href="http://www.eevolution.co.uk/products/evo-careerjet">Evo CareerJet 1.0</a>, which allows you to build a job site by integrating with the CareerJet API.</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li>Static Interactive launched <a href="http://www.greenwoodspacetravelsupply.com/">Greenwood Space Travel Supply Co</a>.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p>Isaac Raway deployed his new ExpressionEngine add-ons website <a href="http://metasushi.com/">Metasushi</a>. He has plans to do a series of tutorial posts covering regular site development as well as add-on development in the near future.</p>
+</li>
+<li><p>Greg Salt launched the beta of <a href="http://projectcerberus.com/">Project Cerberus</a>, a web service to help in the fight against spam.</p>
+</li>
+<li><p>Bjørn Børresen was hired by Envato to do a video tutorial on “<a href="http://marketplace.tutsplus.com/item/how-to-create-an-expressionengine-theme/1033806">How to Create an ExpressionEngine Theme</a>”.</p>
+</li>
+<li><p>January 17th is the Twin Cities ExpressionEngine User Group meetup where the topic at hand is &ldquo;<a href="http://twincities-ee.com/news/january-2012/">Selling &amp; Quoting ExpressionEngine Projects, Add-on Development, Metadata Management</a>.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Rob of Blue Dreamer wrote about <a href="http://www.blue-dreamer.co.uk/blog/entry/reducing-database-queries-in-expressionengine">how to reduce database queries in ExpressionEngine</a>.</p>
+</li>
+<li><p>Nick Benson talks &ldquo;<a href="http://pressenter.com/news/optimizing-javascript-css-in-expressionengine-with-minimee-head-js/">Optimizing JavaScript &amp; CSS in ExpressionEngine with Minimee &amp; Head JS</a>&rdquo;.</p>
+</li>
+<li><p>Nick also wrote on &ldquo;<a href="http://pressenter.com/news/managing-metadata-in-expressionengine-with-seo-lite/">Managing Metadata in ExpressionEngine with SEO Lite</a>&rdquo;.</p>
+</li>
+<li><p>Ryan Battles wrote an article on EE Insider about &ldquo;<a href="http://eeinsider.com/articles/using-cache-wisely-with-expressionengine/">Using Cache Wisely with ExpressionEngine</a>&rdquo;.</p>
+</li>
+<li><p>The Good Lab goes over <a href="http://www.thegoodlab.com/articles/infinite-scroll-with-ee">implementing infinite scroll within ExpressionEngine</a>.</p>
+</li>
+</ul>
+
+<p>Thanks guys for all your submissions. Keep them coming for next week!</p>";s:7:"pubdate";s:29:"Fri, 06 Jan 2012 22:26:37 GMT";s:7:"summary";s:2730:"<p>Welcome to the first #FRUP of the year. If you have news you want us to include, remember to add it on Twitter with the &ldquo;#FRUP&rdquo; hashtag, or <a href="http://expressionengine.com/forums/viewthread/207954/">this thread</a>.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><a href="http://www.eevolution.co.uk/">EEvolution</a> released <a href="http://www.eevolution.co.uk/products/evo-careerjet">Evo CareerJet 1.0</a>, which allows you to build a job site by integrating with the CareerJet API.</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li>Static Interactive launched <a href="http://www.greenwoodspacetravelsupply.com/">Greenwood Space Travel Supply Co</a>.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p>Isaac Raway deployed his new ExpressionEngine add-ons website <a href="http://metasushi.com/">Metasushi</a>. He has plans to do a series of tutorial posts covering regular site development as well as add-on development in the near future.</p>
+</li>
+<li><p>Greg Salt launched the beta of <a href="http://projectcerberus.com/">Project Cerberus</a>, a web service to help in the fight against spam.</p>
+</li>
+<li><p>Bjørn Børresen was hired by Envato to do a video tutorial on “<a href="http://marketplace.tutsplus.com/item/how-to-create-an-expressionengine-theme/1033806">How to Create an ExpressionEngine Theme</a>”.</p>
+</li>
+<li><p>January 17th is the Twin Cities ExpressionEngine User Group meetup where the topic at hand is &ldquo;<a href="http://twincities-ee.com/news/january-2012/">Selling &amp; Quoting ExpressionEngine Projects, Add-on Development, Metadata Management</a>.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Rob of Blue Dreamer wrote about <a href="http://www.blue-dreamer.co.uk/blog/entry/reducing-database-queries-in-expressionengine">how to reduce database queries in ExpressionEngine</a>.</p>
+</li>
+<li><p>Nick Benson talks &ldquo;<a href="http://pressenter.com/news/optimizing-javascript-css-in-expressionengine-with-minimee-head-js/">Optimizing JavaScript &amp; CSS in ExpressionEngine with Minimee &amp; Head JS</a>&rdquo;.</p>
+</li>
+<li><p>Nick also wrote on &ldquo;<a href="http://pressenter.com/news/managing-metadata-in-expressionengine-with-seo-lite/">Managing Metadata in ExpressionEngine with SEO Lite</a>&rdquo;.</p>
+</li>
+<li><p>Ryan Battles wrote an article on EE Insider about &ldquo;<a href="http://eeinsider.com/articles/using-cache-wisely-with-expressionengine/">Using Cache Wisely with ExpressionEngine</a>&rdquo;.</p>
+</li>
+<li><p>The Good Lab goes over <a href="http://www.thegoodlab.com/articles/infinite-scroll-with-ee">implementing infinite scroll within ExpressionEngine</a>.</p>
+</li>
+</ul>
+
+<p>Thanks guys for all your submissions. Keep them coming for next week!</p>";}i:6;a:9:{s:5:"title";s:34:"Let it #FRUP. December 23 Edition.";s:4:"link";s:71:"http://expressionengine.com/blog/entry/let_it_frup._december_23_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2011-12-23T20:54:21+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:71:"http://expressionengine.com/blog/entry/let_it_frup._december_23_edition";s:4:"guid";s:172:"http://expressionengine.com/blog/entry/let_it_frup._december_23_edition#When:20:54:21Zhttp://expressionengine.com/blog/entry/let_it_frup._december_23_edition#When:20:54:21Z";s:11:"description";s:4682:"<p>It&rsquo;s time for the Friday Round Up Post! As usual, our amazing community has created so much awesome, we just had to share it with the world.</p>
+
+<p>Remember if <strong>you</strong> have something you want to show off, do <a href="http://expressionengine.com/forums/viewthread/207228/">let us know</a>. Does your news item fit in 140 characters or less? Then Tweet it and add the #FRUP hashtag, and we&rsquo;ll include it in the round up. So, you really have no excuse for not including your news.</p>
+
+<p>And now, your weekly #FRUP:</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>Yuri Salimovskiy of <a href="http://www.intoeetive.com/">intoEEtive</a> announced that <a href="http://www.intoeetive.com/index.php/comments/snippet-editor">Snippet Editor</a> now lives on <a href="https://github.com/intoeetive/snippet_editor.ee2_addon">github</a> and is free!</p>
+</li>
+<li><p>Solspace has a 25% sale on <a href="http://www.solspace.com/software">all of their software</a> until December 28th.</p>
+</li>
+<li><p>Jack McDade posted a <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=-IORk9Dljyc">sneak peak</a> of his upcoming e-commerce module Striper. Striper uses the powerful <a href="https://stripe.com/">Stripe</a> payment gateway.</p>
+</li>
+<li><p>ExpressionEngine add-on curator Devot:ee posted their annual <a href="http://devot-ee.com/academee-awards/2011/">&ldquo;AcademEE&rdquo; awards</a>. Congratulations to all the winners!</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://www.train-ee.com/">Michael Boyink</a> <a href="http://www.thevillapassalacqua.com/">was</a> <a href="http://www.thevillabellini.com/">really</a>, <a href="http://www.weddingslakecomo.com/">really</a> <a href="http://www.luxury-italian-villas.com/">working</a> <a href="http://www.lakecomovillarentals.com/">hard</a> and just launched a five site MSM build. He says it was a re-work of what he thinks was his first ExpressionEngine site ever. Very nice!</p>
+</li>
+<li><p><a href="http://www.moonbeetle.com/">Moonbeetle</a> launched <a href="http://www.fabricecollignon.be/">Fabrice Collignon</a> this week, and now I have a craving for dessert.</p>
+</li>
+<li><p>The great folks at <a href="http://www.viget.com/">Viget Labs</a> launched <a href="http://ultimatvodka.com/">Ultimat Vodka</a>, with EE expert <a href="http://trevordavis.net/">Trevor Davis</a> handling the ExpressionEngine side of things.</p>
+</li>
+<li><p><a href="http://www.exclaimsolutions.com/">exclaim solutions</a> recently launched two new ExpressionEngine sites! One for the <a href="http://www.exclaimsolutions.com/work/annual_report_for_the_canada_media_fund/">Canada Media Fund</a> and one for <a href="http://www.exclaimsolutions.com/work/whaleback_systems_wesite_design/">Whaleback Systems</a>. Keep up the awesome work!</p>
+</li>
+</ul>
+
+<h4>EE Podcast</h4>
+
+<ul>
+<li>The EE Podcast&rsquo;s &ldquo;<a href="http://ee-podcast.com/episodes/2011-year-in-review">2011 Year in Review</a>&rdquo; episode (#59) was released this week! Join Lea and Emily for a round up of ExpressionEngine events in 2011.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Ryan Battles, the mastermind behind EE Spotlight, and co-mastermind of Director-ee, posted a new tutorial: &ldquo;<a href="http://ee-spotlight.com/tutorials/a-better-way-to-ftp-your-expressionengine-site-use-zip-files">A Better Way to FTP Your ExpressionEngine Site: Use Zip Files</a>.&rdquo; Follow along with Ryan as he shows you how to efficiently FTP your files to the server.</p>
+</li>
+<li><p>Derek Allard posts a <a href="http://derekallard.com/blog/post/member-banning-expressionengine-snippet">member banning snippet</a> on his blog. Easily ban spammers with this simple snippet.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>We just sent out the December edition of our newsletter &ldquo;PixelBuzz&rdquo;! Haven&rsquo;t subscribed yet? <a href="http://ellislab.com/connect">Make sure you do</a> to keep up on all the latest happenings at EllisLab. In case you missed this months issue, we&rsquo;ve <a href="http://ellislabinc.createsend3.com/t/ViewEmail/r/FB3E9655BC3559E3/9C896D1133A3CF33FE6194DE962A274B">made it availalbe</a> for you to check out.</p>
+</li>
+<li><p>Our Product Evangelist, Marcus Neto, will be <a href="http://www.meetup.com/Bay-County-Florida-Web-Professionals/events/44897872/">presenting at the January meeting</a> of the Bay County Florida Web Pros to talk to them about the power of ExpressionEngine.</p>
+</li>
+</ul>
+
+<p>We know most of you will be enjoying some time with your families over the next couple of weeks. Enjoy the time off, and we look forward to seeing more of the great stuff you do!</p>";s:7:"pubdate";s:29:"Fri, 23 Dec 2011 20:54:21 GMT";s:7:"summary";s:4682:"<p>It&rsquo;s time for the Friday Round Up Post! As usual, our amazing community has created so much awesome, we just had to share it with the world.</p>
+
+<p>Remember if <strong>you</strong> have something you want to show off, do <a href="http://expressionengine.com/forums/viewthread/207228/">let us know</a>. Does your news item fit in 140 characters or less? Then Tweet it and add the #FRUP hashtag, and we&rsquo;ll include it in the round up. So, you really have no excuse for not including your news.</p>
+
+<p>And now, your weekly #FRUP:</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>Yuri Salimovskiy of <a href="http://www.intoeetive.com/">intoEEtive</a> announced that <a href="http://www.intoeetive.com/index.php/comments/snippet-editor">Snippet Editor</a> now lives on <a href="https://github.com/intoeetive/snippet_editor.ee2_addon">github</a> and is free!</p>
+</li>
+<li><p>Solspace has a 25% sale on <a href="http://www.solspace.com/software">all of their software</a> until December 28th.</p>
+</li>
+<li><p>Jack McDade posted a <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=-IORk9Dljyc">sneak peak</a> of his upcoming e-commerce module Striper. Striper uses the powerful <a href="https://stripe.com/">Stripe</a> payment gateway.</p>
+</li>
+<li><p>ExpressionEngine add-on curator Devot:ee posted their annual <a href="http://devot-ee.com/academee-awards/2011/">&ldquo;AcademEE&rdquo; awards</a>. Congratulations to all the winners!</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://www.train-ee.com/">Michael Boyink</a> <a href="http://www.thevillapassalacqua.com/">was</a> <a href="http://www.thevillabellini.com/">really</a>, <a href="http://www.weddingslakecomo.com/">really</a> <a href="http://www.luxury-italian-villas.com/">working</a> <a href="http://www.lakecomovillarentals.com/">hard</a> and just launched a five site MSM build. He says it was a re-work of what he thinks was his first ExpressionEngine site ever. Very nice!</p>
+</li>
+<li><p><a href="http://www.moonbeetle.com/">Moonbeetle</a> launched <a href="http://www.fabricecollignon.be/">Fabrice Collignon</a> this week, and now I have a craving for dessert.</p>
+</li>
+<li><p>The great folks at <a href="http://www.viget.com/">Viget Labs</a> launched <a href="http://ultimatvodka.com/">Ultimat Vodka</a>, with EE expert <a href="http://trevordavis.net/">Trevor Davis</a> handling the ExpressionEngine side of things.</p>
+</li>
+<li><p><a href="http://www.exclaimsolutions.com/">exclaim solutions</a> recently launched two new ExpressionEngine sites! One for the <a href="http://www.exclaimsolutions.com/work/annual_report_for_the_canada_media_fund/">Canada Media Fund</a> and one for <a href="http://www.exclaimsolutions.com/work/whaleback_systems_wesite_design/">Whaleback Systems</a>. Keep up the awesome work!</p>
+</li>
+</ul>
+
+<h4>EE Podcast</h4>
+
+<ul>
+<li>The EE Podcast&rsquo;s &ldquo;<a href="http://ee-podcast.com/episodes/2011-year-in-review">2011 Year in Review</a>&rdquo; episode (#59) was released this week! Join Lea and Emily for a round up of ExpressionEngine events in 2011.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Ryan Battles, the mastermind behind EE Spotlight, and co-mastermind of Director-ee, posted a new tutorial: &ldquo;<a href="http://ee-spotlight.com/tutorials/a-better-way-to-ftp-your-expressionengine-site-use-zip-files">A Better Way to FTP Your ExpressionEngine Site: Use Zip Files</a>.&rdquo; Follow along with Ryan as he shows you how to efficiently FTP your files to the server.</p>
+</li>
+<li><p>Derek Allard posts a <a href="http://derekallard.com/blog/post/member-banning-expressionengine-snippet">member banning snippet</a> on his blog. Easily ban spammers with this simple snippet.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>We just sent out the December edition of our newsletter &ldquo;PixelBuzz&rdquo;! Haven&rsquo;t subscribed yet? <a href="http://ellislab.com/connect">Make sure you do</a> to keep up on all the latest happenings at EllisLab. In case you missed this months issue, we&rsquo;ve <a href="http://ellislabinc.createsend3.com/t/ViewEmail/r/FB3E9655BC3559E3/9C896D1133A3CF33FE6194DE962A274B">made it availalbe</a> for you to check out.</p>
+</li>
+<li><p>Our Product Evangelist, Marcus Neto, will be <a href="http://www.meetup.com/Bay-County-Florida-Web-Professionals/events/44897872/">presenting at the January meeting</a> of the Bay County Florida Web Pros to talk to them about the power of ExpressionEngine.</p>
+</li>
+</ul>
+
+<p>We know most of you will be enjoying some time with your families over the next couple of weeks. Enjoy the time off, and we look forward to seeing more of the great stuff you do!</p>";}i:7;a:9:{s:5:"title";s:29:"A #FRUP. December 16 Edition.";s:4:"link";s:66:"http://expressionengine.com/blog/entry/a_frup._december_16_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2011-12-16T20:50:58+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:66:"http://expressionengine.com/blog/entry/a_frup._december_16_edition";s:4:"guid";s:162:"http://expressionengine.com/blog/entry/a_frup._december_16_edition#When:20:50:58Zhttp://expressionengine.com/blog/entry/a_frup._december_16_edition#When:20:50:58Z";s:11:"description";s:2592:"<p>It&rsquo;s time for another #FRUP! Remember to submit your news on Twitter via the #FRUP hashtag, or <a href="http://expressionengine.com/forums/viewthread/206839/">this thread</a> for the next round up post.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>The wonderful people at <a href="http://www.solspace.com/">Solspace</a> have introduced the &ldquo;<a href="http://www.solspace.com/blog/entry/bundle_and_save1/">Fuser Bundle</a>&rdquo; for a limited time. This bundle includes their popular add-ons &ldquo;<a href="http://www.solspace.com/software/detail/friends/">Friends</a>&rdquo; and &ldquo;<a href="http://www.solspace.com/software/detail/user/">User</a>&rdquo; for more than 40% off! It&rsquo;s a great deal, and totally worth checking out.</p>
+</li>
+<li><p><a href="http://chrismonnat.com/">Chris Monnat</a> released <a href="http://chrismonnat.com/code/dashee/">dashEE 1.4</a>. This update includes configurable columns, member layouts, and bug fixes.</p>
+</li>
+<li><p><a href="http://gwcode.com/">Leon Dijk</a> released <a href="http://gwcode.com/add-ons/gwcode-haschildren">GWcode HasChildren</a>, an extension that checks if a category has child categories.</p>
+</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p><a href="http://onebrightlight.com/blog/starting-a-new-chapter/">Christopher Kennedy</a> announced that he&rsquo;s <a href="http://onebrightlight.com/blog/starting-a-new-chapter/">dedicating 100% of his time</a> to his ExpressionEngine development and design shop One Bright Light Designs. Congrats to Chris for making this move!</p>
+</li>
+<li><p>Focus Lab, LLC posted their <a href="http://focuslabllc.com/blog/2011-recap">2011 Recap</a>. A great reflection on some of the amazing things they did this year.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://qbmarketing.com/">Jean St-Amand</a> launched real estate site <a href="http://fhconstruction.ca/">FH Construction</a>.</p>
+</li>
+<li><p><a href="http://emtwowebstudios.com/">Emtwo, LLC</a> launched <a href="http://www.crosstac.com/">Crosstac</a> built on ExpressionEngine and BrilliantRetail.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li>The Good Lab talks &ldquo;<a href="http://www.thegoodlab.com/articles/running-up-the-expressionengine-learning-curve">Running up the ExpressionEngine Learning Curve</a>&rdquo;.</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li>Some great changes happened this week which you can read about in Marcus&#8217; Blog Post <a href="http://expressionengine.com/blog/entry/product_evangelist">Product Evangelist</a></li>
+</ul>
+
+<p>Thanks for a great week everyone!</p>";s:7:"pubdate";s:29:"Fri, 16 Dec 2011 20:50:58 GMT";s:7:"summary";s:2592:"<p>It&rsquo;s time for another #FRUP! Remember to submit your news on Twitter via the #FRUP hashtag, or <a href="http://expressionengine.com/forums/viewthread/206839/">this thread</a> for the next round up post.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>The wonderful people at <a href="http://www.solspace.com/">Solspace</a> have introduced the &ldquo;<a href="http://www.solspace.com/blog/entry/bundle_and_save1/">Fuser Bundle</a>&rdquo; for a limited time. This bundle includes their popular add-ons &ldquo;<a href="http://www.solspace.com/software/detail/friends/">Friends</a>&rdquo; and &ldquo;<a href="http://www.solspace.com/software/detail/user/">User</a>&rdquo; for more than 40% off! It&rsquo;s a great deal, and totally worth checking out.</p>
+</li>
+<li><p><a href="http://chrismonnat.com/">Chris Monnat</a> released <a href="http://chrismonnat.com/code/dashee/">dashEE 1.4</a>. This update includes configurable columns, member layouts, and bug fixes.</p>
+</li>
+<li><p><a href="http://gwcode.com/">Leon Dijk</a> released <a href="http://gwcode.com/add-ons/gwcode-haschildren">GWcode HasChildren</a>, an extension that checks if a category has child categories.</p>
+</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p><a href="http://onebrightlight.com/blog/starting-a-new-chapter/">Christopher Kennedy</a> announced that he&rsquo;s <a href="http://onebrightlight.com/blog/starting-a-new-chapter/">dedicating 100% of his time</a> to his ExpressionEngine development and design shop One Bright Light Designs. Congrats to Chris for making this move!</p>
+</li>
+<li><p>Focus Lab, LLC posted their <a href="http://focuslabllc.com/blog/2011-recap">2011 Recap</a>. A great reflection on some of the amazing things they did this year.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://qbmarketing.com/">Jean St-Amand</a> launched real estate site <a href="http://fhconstruction.ca/">FH Construction</a>.</p>
+</li>
+<li><p><a href="http://emtwowebstudios.com/">Emtwo, LLC</a> launched <a href="http://www.crosstac.com/">Crosstac</a> built on ExpressionEngine and BrilliantRetail.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li>The Good Lab talks &ldquo;<a href="http://www.thegoodlab.com/articles/running-up-the-expressionengine-learning-curve">Running up the ExpressionEngine Learning Curve</a>&rdquo;.</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li>Some great changes happened this week which you can read about in Marcus&#8217; Blog Post <a href="http://expressionengine.com/blog/entry/product_evangelist">Product Evangelist</a></li>
+</ul>
+
+<p>Thanks for a great week everyone!</p>";}i:8;a:9:{s:5:"title";s:18:"Product Evangelist";s:4:"link";s:57:"http://expressionengine.com/blog/entry/product_evangelist";s:2:"dc";a:2:{s:7:"creator";s:11:"Marcus Neto";s:4:"date";s:25:"2011-12-15T14:07:53+00:00";}s:8:"category";s:4:"News";s:8:"comments";s:57:"http://expressionengine.com/blog/entry/product_evangelist";s:4:"guid";s:144:"http://expressionengine.com/blog/entry/product_evangelist#When:14:07:53Zhttp://expressionengine.com/blog/entry/product_evangelist#When:14:07:53Z";s:11:"description";s:5047:"<p>This past summer there was a thread in the forums titled <i>The State of EE</i>. We see these threads occasionally, and we encourage them. We learn quite a bit about the communities&#8217; desires from them. But in <a href="http://expressionengine.com/forums/viewreply/933794/">this particular one</a>, Mike Hughes stated the following:</p>
+
+<blockquote><p>One thing I feel EllisLab and EE would benefit from is having a Product Evangelist. Everyone knows that anyone that has used EE swears up and down by it (for the most part) but that’s not necessarily the Product Evangelist I’m talking about.&nbsp; EL needs someone who’s sole purpose is to get out and talk to large organizations and explain the benefits of the platform straight from the horses mouth so we, as developers, aren’t facing a total uphill battle as Paul Burton described of having a great solution that has zero penetration in the minds of the decision makers.&nbsp; Obviously there would need to be a strategy in place to make sure this person (these people) attend the right conferences and meet with the right people but I really believe this would help.</p>
+</blockquote>
+
+<p>Something resonated in my mind as I read this. Years ago I was speaking at an IBM conference, and one of the IBM guys got up to talk to the speakers. His title was Product Evangelist. I remember distinctly thinking that one day I wanted to have that title. It fits with my work experience perfectly. For those of you that are unfamiliar with the Product Evangelist role, it is a cross between an educator and a business development role. It is a position that usually means the person filling it is just crazy in love with the product that they are representing. Guy Kawasaki <a href="http://blog.guykawasaki.com/2006/01/the_art_of_evan.html">wrote a blog post awhile back</a> describing it as:</p>
+
+<blockquote><p>&#8220;Evangelist&#8221; isn&#8217;t simply a job title. It&#8217;s a way of life. It means that the evangelist totally loves the product and sees it as a way to bring the &#8220;good news.&#8221; A love of the cause is the second most important determinant of the success of an evangelist&#8212;second only to the quality of the cause itself. No matter how great the person, if he doesn&#8217;t love the cause, he cannot be a good evangelist for it.</p>
+</blockquote>
+
+<p>So we have made the decision to make some changes to the organization at EllisLab. Effective immediately, I will be the Product Evangelist / Director of Business Development. As such my goal will be to proselytize the good news of the EllisLab products. I will be responsible for:</p>
+
+<ul>
+	<li>helping the community sell more ExpressionEngine projects. Need someone to talk to a prospect to alleviate some obstacles they have with using EE? I&#8217;m your guy. Unsure of how to present EE in a sales situation? Let&#8217;s talk.</li>
+	<li>giving demos and talking to people about how ExpressionEngine might fit their project.</li>
+	<li>funneling people to the awesome community of add-on developers when helping them think through how to approach a project. So if you are an add-on developer, make sure I know about the products you are bringing to the community. I regularly talk about and show add-ons when giving demos.</li>
+	<li>continue in the role of making sure our website has new content that promotes developers and designers in our community. This covers the Pro Network, Showcase and Blog. So if you are doing something cool with EE, let me know.</li>
+	<li>speaking with designers and developers outside of our community in an effort to expand the Web Design community&#8217;s knowledge of EE</li>
+	<li>speaking with business people about the benefits of using EE over other Enterprise or Open Source systems</li>
+	<li>advocate on behalf of the community internally for certain features to be added to the core. Do you have a favorite feature? Make your case with me.</li>
+	<li>speaking at and encouraging others in our community to speak at conferences</li>
+	<li>attending conferences to take part in the web design communities&#8217; conversation</li>
+	<li>help with the overall marketing strategy for EllisLab</li>
+</ul>
+
+<p>As I now move into this new role, our own Kevin Smith has been tapped to become our new Director of Services. Kevin has been a champion for our customers in the support forums and an agent of innovation within EllisLab. He brings with him a fresh vision of support for ExpressionEngine and MojoMotor, and we&#8217;re excited about the new services you&#8217;ll be able to take advantage of over the next year. Keep your eyes on this blog for announcements in the coming months.</p>
+
+<p>I am encouraged by what I see for our community in 2012 and I hope you are too. If there is anything you can think of that you feel will be of benefit don&#8217;t hesitate to email me. I think you can see by this role change that we are inclined to listen <img src="http://ellislab.com/images/smileys/wink.gif" width="19" height="19" alt="wink" style="border:0;" /></p>";s:7:"pubdate";s:29:"Thu, 15 Dec 2011 14:07:53 GMT";s:7:"summary";s:5047:"<p>This past summer there was a thread in the forums titled <i>The State of EE</i>. We see these threads occasionally, and we encourage them. We learn quite a bit about the communities&#8217; desires from them. But in <a href="http://expressionengine.com/forums/viewreply/933794/">this particular one</a>, Mike Hughes stated the following:</p>
+
+<blockquote><p>One thing I feel EllisLab and EE would benefit from is having a Product Evangelist. Everyone knows that anyone that has used EE swears up and down by it (for the most part) but that’s not necessarily the Product Evangelist I’m talking about.&nbsp; EL needs someone who’s sole purpose is to get out and talk to large organizations and explain the benefits of the platform straight from the horses mouth so we, as developers, aren’t facing a total uphill battle as Paul Burton described of having a great solution that has zero penetration in the minds of the decision makers.&nbsp; Obviously there would need to be a strategy in place to make sure this person (these people) attend the right conferences and meet with the right people but I really believe this would help.</p>
+</blockquote>
+
+<p>Something resonated in my mind as I read this. Years ago I was speaking at an IBM conference, and one of the IBM guys got up to talk to the speakers. His title was Product Evangelist. I remember distinctly thinking that one day I wanted to have that title. It fits with my work experience perfectly. For those of you that are unfamiliar with the Product Evangelist role, it is a cross between an educator and a business development role. It is a position that usually means the person filling it is just crazy in love with the product that they are representing. Guy Kawasaki <a href="http://blog.guykawasaki.com/2006/01/the_art_of_evan.html">wrote a blog post awhile back</a> describing it as:</p>
+
+<blockquote><p>&#8220;Evangelist&#8221; isn&#8217;t simply a job title. It&#8217;s a way of life. It means that the evangelist totally loves the product and sees it as a way to bring the &#8220;good news.&#8221; A love of the cause is the second most important determinant of the success of an evangelist&#8212;second only to the quality of the cause itself. No matter how great the person, if he doesn&#8217;t love the cause, he cannot be a good evangelist for it.</p>
+</blockquote>
+
+<p>So we have made the decision to make some changes to the organization at EllisLab. Effective immediately, I will be the Product Evangelist / Director of Business Development. As such my goal will be to proselytize the good news of the EllisLab products. I will be responsible for:</p>
+
+<ul>
+	<li>helping the community sell more ExpressionEngine projects. Need someone to talk to a prospect to alleviate some obstacles they have with using EE? I&#8217;m your guy. Unsure of how to present EE in a sales situation? Let&#8217;s talk.</li>
+	<li>giving demos and talking to people about how ExpressionEngine might fit their project.</li>
+	<li>funneling people to the awesome community of add-on developers when helping them think through how to approach a project. So if you are an add-on developer, make sure I know about the products you are bringing to the community. I regularly talk about and show add-ons when giving demos.</li>
+	<li>continue in the role of making sure our website has new content that promotes developers and designers in our community. This covers the Pro Network, Showcase and Blog. So if you are doing something cool with EE, let me know.</li>
+	<li>speaking with designers and developers outside of our community in an effort to expand the Web Design community&#8217;s knowledge of EE</li>
+	<li>speaking with business people about the benefits of using EE over other Enterprise or Open Source systems</li>
+	<li>advocate on behalf of the community internally for certain features to be added to the core. Do you have a favorite feature? Make your case with me.</li>
+	<li>speaking at and encouraging others in our community to speak at conferences</li>
+	<li>attending conferences to take part in the web design communities&#8217; conversation</li>
+	<li>help with the overall marketing strategy for EllisLab</li>
+</ul>
+
+<p>As I now move into this new role, our own Kevin Smith has been tapped to become our new Director of Services. Kevin has been a champion for our customers in the support forums and an agent of innovation within EllisLab. He brings with him a fresh vision of support for ExpressionEngine and MojoMotor, and we&#8217;re excited about the new services you&#8217;ll be able to take advantage of over the next year. Keep your eyes on this blog for announcements in the coming months.</p>
+
+<p>I am encouraged by what I see for our community in 2012 and I hope you are too. If there is anything you can think of that you feel will be of benefit don&#8217;t hesitate to email me. I think you can see by this role change that we are inclined to listen <img src="http://ellislab.com/images/smileys/wink.gif" width="19" height="19" alt="wink" style="border:0;" /></p>";}i:9;a:9:{s:5:"title";s:43:"It&#8217;s #FRUPtastic! December 9 Edition.";s:4:"link";s:72:"http://expressionengine.com/blog/entry/its_fruptastic_december_9_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2011-12-09T20:43:06+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:72:"http://expressionengine.com/blog/entry/its_fruptastic_december_9_edition";s:4:"guid";s:174:"http://expressionengine.com/blog/entry/its_fruptastic_december_9_edition#When:20:43:06Zhttp://expressionengine.com/blog/entry/its_fruptastic_december_9_edition#When:20:43:06Z";s:11:"description";s:6790:"<p>You&rsquo;ve made it to the end of the week! It&rsquo;s time to round up what you did. Trust me, there&rsquo;s a lot.</p>
+
+<p>As you know, we want to talk about you and the amazing things you do. But, the only way we can do that is if you tell us. So, remember to add the hashtag #FRUP to your news on Twitter or add it to <a href="http://expressionengine.com/forums/viewthread/206316">this thread</a> for the next round up.</p>
+
+<p>And now, the moment you&rsquo;ve been waiting for, the FRUP:</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p><a href="http://nicolasbottari.com/">Nicolas Bottari</a> released <a href="http://nicolasbottari.com/expressionengine_cms/zenbu">Zenbu 1.5.0</a> with a number of new features. Some of which include native EE thumbnail, Solspace Calendar, and Better Workflow support, searching through all basic custom field data and title, a Zenbu framework for fieldtype developers, Zenbu hooks, and bug/performance fixes. The full and extensive <a href="http://nicolasbottari.com/expressionengine_cms/changelog/zenbu#1.5.0">changelog can be found here</a>.</p>
+</li>
+<li><p><a href="http://exp-resso.com/">&#123;exp:resso&#125;</a> has released <a href="http://exp-resso.com/store">Store 1.3.0</a>. This release includes awesome new shipping options. For a detailed list of changes check out the <a href="http://exp-resso.com/store/release-notes">changelog</a>.</p>
+</li>
+<li><p><a href="http://www.intoeetive.com/">Yuri Salimovskiy</a> of intoEEtive has a <a href="http://www.intoeetive.com/index.php/delicious-bundle-sale">special sale going on</a>. 11 great add-ons for $99. That&rsquo;s a 58% discount!</p>
+</li>
+<li><p>Along with a sale, Yuri has released <a href="http://www.intoeetive.com/index.php/comments/social-update">Social Update</a>. Social Update lets you automatically send updates to Twitter and Facebook when an ExpressionEngine entry is published.</p>
+</li>
+<li><p>Finally, Yuri released <a href="http://www.intoeetive.com/index.php/comments/snippet-editor">Snippet Editor</a>, a revision system for snippets and global variables.</p>
+</li>
+<li><p><a href="http://confluxgroup.com/">Conflux Group, Inc</a>. posted a <a href="http://confluxgroup.com/blog/post/introducing-safecracker-swipe">preview of their upcoming add-on, SafeCracker Swipe</a>. This extension works with SafeCracker and fixes a potential workflow issue that may arise. It creates a session entry queue, that stores all the entries created by a user before they login or register. Then, when they login or register the entries&#8217; author gets reassigned to the logged in user.</p>
+</li>
+<li><p>Rob Hodges of <a href="http://www.electricputty.co.uk/">Electric Putty</a> announced the release of <a href="http://betterworkflow.electricputty.co.uk/">Better Workflow version 1.1</a>. This new version provides support for Zenbu and MX Google Maps, as well as a brand new accessory that shows entries that are pending approval.</p>
+</li>
+<li><p><a href="http://www.devdemon.com/">DevDemon</a> is offering 15% off all their add-ons through December 16th with coupon code CHRISTMAS11.</p>
+</li>
+<li><p><a href="http://www.vayadesign.net/">VayaDesign</a> has a sale on all <a href="http://www.vayadesign.net/code/addon/switchboard">Switchboard</a> licenses for the remainder of December. It&rsquo;s a 50% discount, so quite a great bargain!&nbsp; Switchboard is a live search engine for the EE control panel and received a major update earlier this month.</p>
+</li>
+<li><p><a href="http://www.bluestatedigital.com/">Blue State Digital</a> released their first EE2 plug-in, <a href="https://github.com/bluestatedigital/SocialEEsta">SocialEEsta</a>, which makes it really easy to add social sharing buttons to your website. Version 1.0 supports Facebook’s Like/Share button, Twitter’s Tweet and Follow buttons, and Google’s +1 Button. BSD SocialEEsta is free and available on <a href="http://devot-ee.com/add-ons/bsd-socialeesta">devot:ee</a> and the project is on <a href="https://github.com/bluestatedigital/SocialEEsta">GitHub</a>.</p>
+</li>
+<li><p>My  <a href="http://cl.ly/CSps">Sassy CP</a> style gets an update switching out the pink images to match the rest of the override.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://twitter.com/jeromecoupe">Jérôme Coupé</a> launched a responsive version of the <a href="http://www.antarcticstation.org/">Belgian Antarctic Station website</a>. Great work!</p>
+</li>
+<li><p><a href="http://www.digitaaldier.nl/">Steven Langbroek</a> of Digitaal Dier also launched a responsive site, <a href="http://www.debouwmeestermobiliteit.nl/">De Bouwmeester Mobiliteit</a>. Looks awesome!</p>
+</li>
+</ul>
+
+<h4>Job Openings</h4>
+
+<ul>
+<li><a href="http://www.authenticjobs.com/jobs/10843/php-developer">Pixel and Tonic</a> is still looking for another asset to add to the team.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><a href="http://shotwellcompany.com/">The Shotwell Company, LLC</a> has a brand new site! Looking good guys!</li>
+</ul>
+
+<h4>EE Podcast</h4>
+
+<ul>
+<li><p><a href="http://ee-podcast.com/episodes/ee1-to-ee2-with-ryan-masuga">Episode 58</a> was released with guest Ryan Masuga. Lea and Emily talk to Ryan about upgrading ExpressionEngine 1 sites to ExpressionEngine 2.</p>
+</li>
+<li><p>The next episode, <a href="http://ee-podcast.com/schedule">59</a>, will be a review of this past year. Look for it December 22nd.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>The Meta Q has an article on <a href="http://themetaq.com/articles/an-introduction-to-safecracker">getting started with SafeCracker</a>.</p>
+</li>
+<li><p>The Meta Q <a href="http://themetaq.com/articles/when-not-to-use-expressionengine">talks with Carl Crawley on his experiences with ExpressionEngine</a>.</p>
+</li>
+<li><p>EE Insider posted on <a href="http://eeinsider.com/articles/how-to-find-an-expressionengine-freelancer/">&ldquo;How to Find an ExpressionEngine Freelancer&rdquo;</a>.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>This week <a href="http://expressionengine.com/blog/entry/an_interview_with_simon_collison">Marcus interviewed Simon Collison</a>.</p>
+</li>
+<li><p>ExpressionEngine 1 is <a href="http://expressionengine.com/blog/entry/expressionengine_1.x_end_of_public_support_announcement">no longer included in new license purchases</a>.</p>
+</li>
+<li><p>We posted a <a href="http://ellislab.com/blog/comments/php_framework_usage_survey">PHP Framework usage survey</a> that we need your help on.</p>
+</li>
+<li><p>There is still some time left to fill out the <a href="http://www.alistapart.com/articles/the-ala-2011-web-design-survey/">A List Apart Web Design Survey</a>.</p>
+</li>
+</ul>
+
+<p>Thanks everyone for making this a great week! We&rsquo;re always blown away by what you can do. See you next week!</p>";s:7:"pubdate";s:29:"Fri, 09 Dec 2011 20:43:06 GMT";s:7:"summary";s:6790:"<p>You&rsquo;ve made it to the end of the week! It&rsquo;s time to round up what you did. Trust me, there&rsquo;s a lot.</p>
+
+<p>As you know, we want to talk about you and the amazing things you do. But, the only way we can do that is if you tell us. So, remember to add the hashtag #FRUP to your news on Twitter or add it to <a href="http://expressionengine.com/forums/viewthread/206316">this thread</a> for the next round up.</p>
+
+<p>And now, the moment you&rsquo;ve been waiting for, the FRUP:</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p><a href="http://nicolasbottari.com/">Nicolas Bottari</a> released <a href="http://nicolasbottari.com/expressionengine_cms/zenbu">Zenbu 1.5.0</a> with a number of new features. Some of which include native EE thumbnail, Solspace Calendar, and Better Workflow support, searching through all basic custom field data and title, a Zenbu framework for fieldtype developers, Zenbu hooks, and bug/performance fixes. The full and extensive <a href="http://nicolasbottari.com/expressionengine_cms/changelog/zenbu#1.5.0">changelog can be found here</a>.</p>
+</li>
+<li><p><a href="http://exp-resso.com/">&#123;exp:resso&#125;</a> has released <a href="http://exp-resso.com/store">Store 1.3.0</a>. This release includes awesome new shipping options. For a detailed list of changes check out the <a href="http://exp-resso.com/store/release-notes">changelog</a>.</p>
+</li>
+<li><p><a href="http://www.intoeetive.com/">Yuri Salimovskiy</a> of intoEEtive has a <a href="http://www.intoeetive.com/index.php/delicious-bundle-sale">special sale going on</a>. 11 great add-ons for $99. That&rsquo;s a 58% discount!</p>
+</li>
+<li><p>Along with a sale, Yuri has released <a href="http://www.intoeetive.com/index.php/comments/social-update">Social Update</a>. Social Update lets you automatically send updates to Twitter and Facebook when an ExpressionEngine entry is published.</p>
+</li>
+<li><p>Finally, Yuri released <a href="http://www.intoeetive.com/index.php/comments/snippet-editor">Snippet Editor</a>, a revision system for snippets and global variables.</p>
+</li>
+<li><p><a href="http://confluxgroup.com/">Conflux Group, Inc</a>. posted a <a href="http://confluxgroup.com/blog/post/introducing-safecracker-swipe">preview of their upcoming add-on, SafeCracker Swipe</a>. This extension works with SafeCracker and fixes a potential workflow issue that may arise. It creates a session entry queue, that stores all the entries created by a user before they login or register. Then, when they login or register the entries&#8217; author gets reassigned to the logged in user.</p>
+</li>
+<li><p>Rob Hodges of <a href="http://www.electricputty.co.uk/">Electric Putty</a> announced the release of <a href="http://betterworkflow.electricputty.co.uk/">Better Workflow version 1.1</a>. This new version provides support for Zenbu and MX Google Maps, as well as a brand new accessory that shows entries that are pending approval.</p>
+</li>
+<li><p><a href="http://www.devdemon.com/">DevDemon</a> is offering 15% off all their add-ons through December 16th with coupon code CHRISTMAS11.</p>
+</li>
+<li><p><a href="http://www.vayadesign.net/">VayaDesign</a> has a sale on all <a href="http://www.vayadesign.net/code/addon/switchboard">Switchboard</a> licenses for the remainder of December. It&rsquo;s a 50% discount, so quite a great bargain!&nbsp; Switchboard is a live search engine for the EE control panel and received a major update earlier this month.</p>
+</li>
+<li><p><a href="http://www.bluestatedigital.com/">Blue State Digital</a> released their first EE2 plug-in, <a href="https://github.com/bluestatedigital/SocialEEsta">SocialEEsta</a>, which makes it really easy to add social sharing buttons to your website. Version 1.0 supports Facebook’s Like/Share button, Twitter’s Tweet and Follow buttons, and Google’s +1 Button. BSD SocialEEsta is free and available on <a href="http://devot-ee.com/add-ons/bsd-socialeesta">devot:ee</a> and the project is on <a href="https://github.com/bluestatedigital/SocialEEsta">GitHub</a>.</p>
+</li>
+<li><p>My  <a href="http://cl.ly/CSps">Sassy CP</a> style gets an update switching out the pink images to match the rest of the override.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><p><a href="http://twitter.com/jeromecoupe">Jérôme Coupé</a> launched a responsive version of the <a href="http://www.antarcticstation.org/">Belgian Antarctic Station website</a>. Great work!</p>
+</li>
+<li><p><a href="http://www.digitaaldier.nl/">Steven Langbroek</a> of Digitaal Dier also launched a responsive site, <a href="http://www.debouwmeestermobiliteit.nl/">De Bouwmeester Mobiliteit</a>. Looks awesome!</p>
+</li>
+</ul>
+
+<h4>Job Openings</h4>
+
+<ul>
+<li><a href="http://www.authenticjobs.com/jobs/10843/php-developer">Pixel and Tonic</a> is still looking for another asset to add to the team.</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><a href="http://shotwellcompany.com/">The Shotwell Company, LLC</a> has a brand new site! Looking good guys!</li>
+</ul>
+
+<h4>EE Podcast</h4>
+
+<ul>
+<li><p><a href="http://ee-podcast.com/episodes/ee1-to-ee2-with-ryan-masuga">Episode 58</a> was released with guest Ryan Masuga. Lea and Emily talk to Ryan about upgrading ExpressionEngine 1 sites to ExpressionEngine 2.</p>
+</li>
+<li><p>The next episode, <a href="http://ee-podcast.com/schedule">59</a>, will be a review of this past year. Look for it December 22nd.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>The Meta Q has an article on <a href="http://themetaq.com/articles/an-introduction-to-safecracker">getting started with SafeCracker</a>.</p>
+</li>
+<li><p>The Meta Q <a href="http://themetaq.com/articles/when-not-to-use-expressionengine">talks with Carl Crawley on his experiences with ExpressionEngine</a>.</p>
+</li>
+<li><p>EE Insider posted on <a href="http://eeinsider.com/articles/how-to-find-an-expressionengine-freelancer/">&ldquo;How to Find an ExpressionEngine Freelancer&rdquo;</a>.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>This week <a href="http://expressionengine.com/blog/entry/an_interview_with_simon_collison">Marcus interviewed Simon Collison</a>.</p>
+</li>
+<li><p>ExpressionEngine 1 is <a href="http://expressionengine.com/blog/entry/expressionengine_1.x_end_of_public_support_announcement">no longer included in new license purchases</a>.</p>
+</li>
+<li><p>We posted a <a href="http://ellislab.com/blog/comments/php_framework_usage_survey">PHP Framework usage survey</a> that we need your help on.</p>
+</li>
+<li><p>There is still some time left to fill out the <a href="http://www.alistapart.com/articles/the-ala-2011-web-design-survey/">A List Apart Web Design Survey</a>.</p>
+</li>
+</ul>
+
+<p>Thanks everyone for making this a great week! We&rsquo;re always blown away by what you can do. See you next week!</p>";}i:10;a:9:{s:5:"title";s:32:"An interview with Simon Collison";s:4:"link";s:71:"http://expressionengine.com/blog/entry/an_interview_with_simon_collison";s:2:"dc";a:2:{s:7:"creator";s:11:"Marcus Neto";s:4:"date";s:25:"2011-12-06T18:20:16+00:00";}s:8:"category";s:10:"Interviews";s:8:"comments";s:71:"http://expressionengine.com/blog/entry/an_interview_with_simon_collison";s:4:"guid";s:172:"http://expressionengine.com/blog/entry/an_interview_with_simon_collison#When:18:20:16Zhttp://expressionengine.com/blog/entry/an_interview_with_simon_collison#When:18:20:16Z";s:11:"description";s:8951:"<p>Our community is rich with designers and developers that change the online world. In a recent internal discussion we decided that we were going to start introducing you to designers and developers that we feel are making an impact from our community. This particular interview is with <a href="http://colly.com/">Simon Collison</a>. Simon wears many hats in the online world from designer, thinker, writer, speaker, conference organizer, and more. He was nice enough to take a few minutes from planning the upcoming <a href="http://2012.newadventuresconf.com/">New Adventures Conference</a> to tell us a bit more about Colly.</p>
+
+<p><strong>When you look back at 2011 and the strides that have been made in Web Design what blows you away?</strong></p>
+
+<p>I think we measure the advancement of web design not with trends or tools, but in the bigger more holistic ways we design and build. Most evident to me is how we&#8217;re maturing fast, and how much we care as a community about the work we create, and the audiences we&#8217;re trying to reach. We&#8217;ve moved up yet another level, crafting thoughtful experiences, coming to terms with the ebb and flow of the web and it&#8217;s unique properties. We&#8217;ve started defining our own vocabulary with elegant terms and techniques such as Responsive Web Design.</p>
+
+<p>RWD is perhaps the most explored technique of the last year or so. By default, the browser is a responsive tool, and you could argue that we&#8217;ve always been responsive in our approaches. Then again, we embraced the fixed-width layout when in actual fact we can achieve so much more by implementing flexible layouts that really make sense of the web environment. I love the innovative uses of RWD, and how people take that, and push it even further. I also love how we&#8217;ve begun to care about storytelling on the web, and how we can use clever parallax scrolling, movement, typography, and narratives to deliver beautiful, wholly engaging and surprising experiences. We&#8217;re getting to grips with the unique visual language of the web, and that&#8217;s affording big opportunities for those prepared to take risks and try stuff.</p><center><a href="http://natecroft.com/" title="Mr Simon Collision - Photo by Nate Croft"><img src="http://farm6.staticflickr.com/5251/5402583081_3b127f143e_z.jpg" width="480" alt="Mr Simon Collision - Photo by Nate Croft" style="margin-bottom:15px;"></a></center>
+
+<p><br />
+<strong>You made a huge change when you started New Adventures in Web Design. What made you move in that direction after becoming a highly successful creative/web designer? </strong></p>
+
+<p>I left Erskine at the start of 2010 because I needed a change, and wanted to learn new things, take risks, and see what happened. I didn&#8217;t want to become a businessman, but that was happening, and I felt suffocated. I also wasn&#8217;t a very good leader to be honest. I fell in to some incredible projects, and good work is still the backbone.</p>
+
+<p>One outcome of leaving was being asked to do a lot more speaking at events. Through that, I saw a lot of events, some that inspired and moved the web forward, and some that were in decline, or just plain useless. I knew I could do it, and what I would improve if I had the chance.</p>
+
+<p>Throughout 2010 I spent time with lots of really intelligent designers and we were talking about the maturing web industry, and what we can each do to move it forward. After the excellent EECI San Francisco, I came home and decided I wanted to do my bit to facilitate this ongoing design dialogue. It was a scary thought to organise a huge conference, but I sort of did it without thinking. Nottingham is underserved by such events, yet it&#8217;s surrounded by many populous cities chock-full of practitioners who really care - a ready audience. Even so, attendees come from all over the world. There were problems and unexpected hurdles, but the generosity of everyone involved made it a huge success. Every attendee, sponsor and speaker wanted it to work out, so they all went above and beyond. I&#8217;m very grateful for that, and it&#8217;s indicative of the positive nature of the web industry I think.</p>
+
+<p>Ultimately, it&#8217;s only a part of what I do, and it&#8217;s much easier to organise the second time around. Expectations go up, costs increase, but much of the logistics are now proven, flexible. I also have Greg Wood working with me on the event which helps a great deal. It&#8217;s actually a huge amount of fun to pull it all together.</p>
+
+<p><strong>If you were to talk to that new person that just got his first HTML/CSS book. What would you tell them? What advice would you give him to help them?</strong></p>
+
+<p>I&#8217;d remind them that learning HTML and CSS is a key skill, but not to get too hung up on that. They are tools, the scaffold for our ideas. We need HTML and CSS to bring our ideas to fruition, but the bigger goal is to create meaningful work, to design ideas and communicate to the appropriate audiences. Don&#8217;t lean on the tools. Get to know them, care about them, be a craftsman and push these languages, but remember the most important thing: we have a responsibility to communicate to audiences effectively, to inspire, surprise, and delight. These things are really important.</p>
+
+<p><strong>If you were to talk to that new person that just got his first copy of Photoshop/Fireworks. What would you tell them? What advice would you give him to help them?</strong></p>
+
+<p>I&#8217;d tell them to get the fastest Mac possible if they intend to do anything with Photoshop. If you spend all day pushing it to the max like I often do, it&#8217;s all about processor power. I&#8217;d make sure they were up to speed with masks and layer techniques, that they knew all the best shortcuts, that they can manipulate opacities, transforms, and that they have the appropriate colour setup. Photoshop is definitely brilliant and powerful, but not the greatest web design tool. Again, Photoshop and Fireworks are just tools. If they don&#8217;t work for you, try something else. At the very least, don&#8217;t let the limitations of these applications get in the way of your bigger ideas. Remember to design real living behavioural and navigable experiences in the browser when relevant, or prototype with paper. Keep your process mixed up and flexible.</p>
+
+<p><strong>So you&#8217;ve had quite the career thus far. Started a design studio, become a highly sought after speaker, organized a conference, written books, designed, coded etc (add to this if I have missed anything). Do you prefer one over the other? Or does doing all of these things satisfy some internal craving to always be doing something different?</strong></p>
+
+<p>I can&#8217;t settle. Never could. I&#8217;ve always moved on when I got too comfortable or needed to change things. I&#8217;m not afraid to take gambles to shake things up and create new opportunities and directions. The risks are high, but I work hard and explore relationships so that exciting things tend to keep coming my way.</p>
+
+<p>Since returning to freelance in early 2010, I&#8217;ve focused on front-end design, and rarely worry about the back-end. I collaborate with smart people on most projects, so others with specific skills can fill in the blanks. I tend to do a lot more writing these days as I have a lot going on in my brain. I&#8217;ve also been traveling the world doing presentations and workshops, which I find incredibly rewarding. These things are great opportunities to meet people, share ideas, and keep learning from others. For the same reasons, I started the New Adventures events, to encourage the design dialogue, get people together to share and learn. It feels good to be facilitating something meaningful like that.</p>
+
+<p>I think speaking and writing are key for me as they force me to draw conclusions around my lines of inquiry; to boil stuff down so that I can share my findings or ideas with audiences. Of course, you can only do this for so long before you lose touch, so I&#8217;m planning to step back a bit in 2012 and focus on projects and keep learning. I can then write and speak more about new things in a year or so. That&#8217;s the plan.</p>
+
+<p><strong>You go by the moniker Colly. I&#8217;ve always wanted to know if you have ever owned a Collie? <img src="http://ellislab.com/images/smileys/smile.gif" width="19" height="19" alt="smile" style="border:0;" /></strong></p>
+
+<p>Ha! No. Collies are very intelligent, lively, demanding animals in need of big open spaces and sheep to chase. Alas, I don&#8217;t have the time to entertain a lively dog, nor do I have fields of sheep. Dogs are out of the question as I travel for maybe half of the year. So, for now it&#8217;s Bearface (the cat), and no dogs. One day, I swear I will have a Collie.</p>
+
+<p><strong>Thanks for your time Simon. I really appreciate it.</strong></p>";s:7:"pubdate";s:29:"Tue, 06 Dec 2011 18:20:16 GMT";s:7:"summary";s:8951:"<p>Our community is rich with designers and developers that change the online world. In a recent internal discussion we decided that we were going to start introducing you to designers and developers that we feel are making an impact from our community. This particular interview is with <a href="http://colly.com/">Simon Collison</a>. Simon wears many hats in the online world from designer, thinker, writer, speaker, conference organizer, and more. He was nice enough to take a few minutes from planning the upcoming <a href="http://2012.newadventuresconf.com/">New Adventures Conference</a> to tell us a bit more about Colly.</p>
+
+<p><strong>When you look back at 2011 and the strides that have been made in Web Design what blows you away?</strong></p>
+
+<p>I think we measure the advancement of web design not with trends or tools, but in the bigger more holistic ways we design and build. Most evident to me is how we&#8217;re maturing fast, and how much we care as a community about the work we create, and the audiences we&#8217;re trying to reach. We&#8217;ve moved up yet another level, crafting thoughtful experiences, coming to terms with the ebb and flow of the web and it&#8217;s unique properties. We&#8217;ve started defining our own vocabulary with elegant terms and techniques such as Responsive Web Design.</p>
+
+<p>RWD is perhaps the most explored technique of the last year or so. By default, the browser is a responsive tool, and you could argue that we&#8217;ve always been responsive in our approaches. Then again, we embraced the fixed-width layout when in actual fact we can achieve so much more by implementing flexible layouts that really make sense of the web environment. I love the innovative uses of RWD, and how people take that, and push it even further. I also love how we&#8217;ve begun to care about storytelling on the web, and how we can use clever parallax scrolling, movement, typography, and narratives to deliver beautiful, wholly engaging and surprising experiences. We&#8217;re getting to grips with the unique visual language of the web, and that&#8217;s affording big opportunities for those prepared to take risks and try stuff.</p><center><a href="http://natecroft.com/" title="Mr Simon Collision - Photo by Nate Croft"><img src="http://farm6.staticflickr.com/5251/5402583081_3b127f143e_z.jpg" width="480" alt="Mr Simon Collision - Photo by Nate Croft" style="margin-bottom:15px;"></a></center>
+
+<p><br />
+<strong>You made a huge change when you started New Adventures in Web Design. What made you move in that direction after becoming a highly successful creative/web designer? </strong></p>
+
+<p>I left Erskine at the start of 2010 because I needed a change, and wanted to learn new things, take risks, and see what happened. I didn&#8217;t want to become a businessman, but that was happening, and I felt suffocated. I also wasn&#8217;t a very good leader to be honest. I fell in to some incredible projects, and good work is still the backbone.</p>
+
+<p>One outcome of leaving was being asked to do a lot more speaking at events. Through that, I saw a lot of events, some that inspired and moved the web forward, and some that were in decline, or just plain useless. I knew I could do it, and what I would improve if I had the chance.</p>
+
+<p>Throughout 2010 I spent time with lots of really intelligent designers and we were talking about the maturing web industry, and what we can each do to move it forward. After the excellent EECI San Francisco, I came home and decided I wanted to do my bit to facilitate this ongoing design dialogue. It was a scary thought to organise a huge conference, but I sort of did it without thinking. Nottingham is underserved by such events, yet it&#8217;s surrounded by many populous cities chock-full of practitioners who really care - a ready audience. Even so, attendees come from all over the world. There were problems and unexpected hurdles, but the generosity of everyone involved made it a huge success. Every attendee, sponsor and speaker wanted it to work out, so they all went above and beyond. I&#8217;m very grateful for that, and it&#8217;s indicative of the positive nature of the web industry I think.</p>
+
+<p>Ultimately, it&#8217;s only a part of what I do, and it&#8217;s much easier to organise the second time around. Expectations go up, costs increase, but much of the logistics are now proven, flexible. I also have Greg Wood working with me on the event which helps a great deal. It&#8217;s actually a huge amount of fun to pull it all together.</p>
+
+<p><strong>If you were to talk to that new person that just got his first HTML/CSS book. What would you tell them? What advice would you give him to help them?</strong></p>
+
+<p>I&#8217;d remind them that learning HTML and CSS is a key skill, but not to get too hung up on that. They are tools, the scaffold for our ideas. We need HTML and CSS to bring our ideas to fruition, but the bigger goal is to create meaningful work, to design ideas and communicate to the appropriate audiences. Don&#8217;t lean on the tools. Get to know them, care about them, be a craftsman and push these languages, but remember the most important thing: we have a responsibility to communicate to audiences effectively, to inspire, surprise, and delight. These things are really important.</p>
+
+<p><strong>If you were to talk to that new person that just got his first copy of Photoshop/Fireworks. What would you tell them? What advice would you give him to help them?</strong></p>
+
+<p>I&#8217;d tell them to get the fastest Mac possible if they intend to do anything with Photoshop. If you spend all day pushing it to the max like I often do, it&#8217;s all about processor power. I&#8217;d make sure they were up to speed with masks and layer techniques, that they knew all the best shortcuts, that they can manipulate opacities, transforms, and that they have the appropriate colour setup. Photoshop is definitely brilliant and powerful, but not the greatest web design tool. Again, Photoshop and Fireworks are just tools. If they don&#8217;t work for you, try something else. At the very least, don&#8217;t let the limitations of these applications get in the way of your bigger ideas. Remember to design real living behavioural and navigable experiences in the browser when relevant, or prototype with paper. Keep your process mixed up and flexible.</p>
+
+<p><strong>So you&#8217;ve had quite the career thus far. Started a design studio, become a highly sought after speaker, organized a conference, written books, designed, coded etc (add to this if I have missed anything). Do you prefer one over the other? Or does doing all of these things satisfy some internal craving to always be doing something different?</strong></p>
+
+<p>I can&#8217;t settle. Never could. I&#8217;ve always moved on when I got too comfortable or needed to change things. I&#8217;m not afraid to take gambles to shake things up and create new opportunities and directions. The risks are high, but I work hard and explore relationships so that exciting things tend to keep coming my way.</p>
+
+<p>Since returning to freelance in early 2010, I&#8217;ve focused on front-end design, and rarely worry about the back-end. I collaborate with smart people on most projects, so others with specific skills can fill in the blanks. I tend to do a lot more writing these days as I have a lot going on in my brain. I&#8217;ve also been traveling the world doing presentations and workshops, which I find incredibly rewarding. These things are great opportunities to meet people, share ideas, and keep learning from others. For the same reasons, I started the New Adventures events, to encourage the design dialogue, get people together to share and learn. It feels good to be facilitating something meaningful like that.</p>
+
+<p>I think speaking and writing are key for me as they force me to draw conclusions around my lines of inquiry; to boil stuff down so that I can share my findings or ideas with audiences. Of course, you can only do this for so long before you lose touch, so I&#8217;m planning to step back a bit in 2012 and focus on projects and keep learning. I can then write and speak more about new things in a year or so. That&#8217;s the plan.</p>
+
+<p><strong>You go by the moniker Colly. I&#8217;ve always wanted to know if you have ever owned a Collie? <img src="http://ellislab.com/images/smileys/smile.gif" width="19" height="19" alt="smile" style="border:0;" /></strong></p>
+
+<p>Ha! No. Collies are very intelligent, lively, demanding animals in need of big open spaces and sheep to chase. Alas, I don&#8217;t have the time to entertain a lively dog, nor do I have fields of sheep. Dogs are out of the question as I travel for maybe half of the year. So, for now it&#8217;s Bearface (the cat), and no dogs. One day, I swear I will have a Collie.</p>
+
+<p><strong>Thanks for your time Simon. I really appreciate it.</strong></p>";}i:11;a:9:{s:5:"title";s:33:"Double #FRUP. December 2 Edition.";s:4:"link";s:70:"http://expressionengine.com/blog/entry/double_frup._december_2_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2011-12-02T20:16:44+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:70:"http://expressionengine.com/blog/entry/double_frup._december_2_edition";s:4:"guid";s:170:"http://expressionengine.com/blog/entry/double_frup._december_2_edition#When:20:16:44Zhttp://expressionengine.com/blog/entry/double_frup._december_2_edition#When:20:16:44Z";s:11:"description";s:7068:"<p>Well, you&rsquo;ve had two whole weeks to create amazing things, and well, you did just that.</p>
+
+<p>We&rsquo;re here to help promote you! And we can only do that, if you give us content to promote. So, be sure to add anything you did with ExpressionEngine to either the <a href="http://twitter.com/#!/search/%23FRUP">#FRUP hash</a> on Twitter, or <a href="http://expressionengine.com/forums/viewthread/205815/">this thread</a>. Make sure you get your submissions in by Friday morning at the latest to ensure a spot in the round up.</p>
+
+<p>Here&rsquo;s the round up for the past two weeks:</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>Chris Monnat&rsquo;s add-on <a href="http://chrismonnat.com/code/dashee/">dashEE</a> has been updated!&nbsp; dashEE lets you customize the widgets on the ExpressionEngine Control Panel home page.</p>
+</li>
+<li><p>Dom Stubbs released <a href="http://www.vayadesign.net/code/addon/switchboard">Switchboard 1.2</a> which adds a ton of new features! Switchboard is a live search engine for your control panel. It includes results for your entries, add-ons, fields, templates and lots more.</p>
+</li>
+<li><p>Brian Litzinger released <a href="http://boldminded.com/add-ons/snippet-sync/">Snippet Sync 1.3</a>, which adds support for MSM. Snippet Sync lets you manage all your snippets on the file system just like a normal template.</p>
+</li>
+<li><p>Brian also released <a href="http://boldminded.com/add-ons/wyvern/">Wyvern 1.3</a>. It now includes support for Google Fonts and Typekit within the editing area. Brian claims it&rsquo;s the only WYSIWYG editor for ExpressionEngine to support these features. Wyvern is a WYSIWYG editor for ExpressionEngine built on top of CKeditor.</p>
+</li>
+<li><p>Aaron Waldon of Causing Effect was on a roll with two new add-ons and an update to one of his popular add-ons. <a href="http://www.causingeffect.com/software/expressionengine/ce-cache">CE Cache</a> is the first new one he released. CE Cache allows you to store and retrieve parts of your templates (fragment caching) so they don’t have to run each time the page is loaded.</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/software/expressionengine/ce-string">CE String</a> is his second new one which is an string manipulation tool for use in your ExpressionEngine templates.</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/software/expressionengine/ce-image">CE Image</a> got some fancy new features in version 2.2.1.</p>
+</li>
+</ul>
+
+<h4>Job Openings</h4>
+
+<ul>
+<li><p><a href="http://pixelandtonic.com/">Pixel and Tonic</a> is looking for a new playa. More specifically a PHP Developer. Is that you? Then you should definitely <a href="http://www.authenticjobs.com/jobs/10843/php-developer">apply for this awesome job</a>.</p>
+</li>
+<li><p><a href="http://director-ee.com/">Director-ee</a> has a job posting for <a href="http://director-ee.com/jobs/listing/expressionengine_site_build">building out an ExpressionEngine site</a>.</p>
+</li>
+<li><p><a href="http://director-ee.com/">Director-ee</a> also has a posting for a <a href="http://director-ee.com/jobs/listing/web_application_developer">Web/Application Developer</a> at <a href="http://www.caddis.co/">Caddis Interactive</a>.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><a href="http://digitalevangelist.net/">Steven Grant</a> launched <a href="http://praisegathering.org.uk/">Praise Gathering</a>.</li>
+<li><a href="http://www.burodmg.nl/">Jelle Dijkstra</a> launched <a href="http://www.openhaard.net/">Outdoor Hunting Lifestyle</a>.</li>
+</ul>
+
+<h4>Events</h4>
+
+<ul>
+<li><p>If you live in Nashville, Tennessee like our very own James Mathias and Kevin Smith, then you&rsquo;ll want to join this new <a href="http://www.nashvilleee.com/">ExpressionEngine Meetup</a>.</p>
+</li>
+<li><p>Live in the DC/Metro area? Then the <a href="http://www.meetup.com/dceers/">DCEERs Meetup</a> is for you. Coming up December 6th, <a href="http://trevordavis.net">Trevor Davis</a> of <a href="http://viget.com">Viget Labs</a> will talk on ExpressionEngine, Git, and Maintaining Current Builds.</p>
+</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p><a href="http://www.am-impact.nl/">a&amp;m impact</a>&rsquo;s ExpressionEngine built site <a href="http://www.mijncobb.nl/">COBB</a> won CSS Winner.com&rsquo;s <a href="http://www.csswinner.com/details/mijncobb.nl/1381/">winner of the day</a>. Great job guys!</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/">Causing Effect</a> home to many great add-ons, migrated their site from CodeIgniter to ExpressionEngine.</p>
+</li>
+</ul>
+
+<h4>EE Podcast</h4>
+
+<ul>
+<li><a href="http://ee-podcast.com/episodes/all-about-variables">Episode 57</a> was released last week, and they talk all about variables!</li>
+<li>Episode 58 will be out <a href="http://ee-podcast.com/schedule">December 8</a>, where hosts Lea Alcantara and Emily Lewis talk with Ryan Masuga on updating from EE1 to EE2.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Couchable wrote an article on &ldquo;<a href="http://couchable.co/blog/post/responsive-images-in-expressionengine">Responsive Images In ExpressionEngine</a>&rdquo;. This article will go over how to create correctly sized images based on the platform, thus reducing file sizes.</p>
+</li>
+<li><p>Stephen Lewis of <a href="http://experienceinternet.co.uk/" title="You know…the guy with all those clever sayings in his title attributes.">Experience Internet </a> wrote &ldquo;<a href="http://experienceinternet.co.uk/blog/add-on-developers-guide-to-abdicating-responsibility">The Add-on Developer’s Guide to Abdicating Responsibility</a>&rdquo; showing just how important adding hooks in your add-on is.</p>
+</li>
+<li><p>Ever had a large .sql file that is too big to upload? Then The Meta Q has the <a href="http://themetaq.com/articles/uploading-large-sql-files">the solution for you</a>!</p>
+</li>
+<li><p>Michael Leigeber of <a href="http://www.scriptiny.com/">Scriptiny</a> posted an <a href="http://www.scriptiny.com/2011/12/introduction-expressionengine-review/">Introduction to ExpressionEngine 2 and a Review</a>.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>December 5th is right around the corner. In case you forgot, that date means ExpressionEngine 1.x will no longer be included as a license option for new purchases.</p>
+</li>
+<li><p>For the good of our community be sure to take the <a href="http://ellislab.com/blog/comments/please_take_the_ala_web_design_survey#disqus_thread">A List Apart Survey</a>.</p>
+</li>
+<li><p>In the latest edition of <a href="http://ellislab.com/connect">PixelBuzz</a> it was noted I&rsquo;ve been tasked with building out a How-to video library for your benefit. Take a look at <a href="http://vimeo.com/ellislab">what we have</a> and let us know your thoughts by sending feedback to <a href="mailto:feedback@ellislab.com?subject=How-to%20Video%20Feedback">feedback@ellislab.com</a>.</p>
+</li>
+</ul>
+
+<p>From everyone here at EllisLab, thanks for submitting your news!&nbsp; We love seeing what you&rsquo;re up to.</p>
+
+<p>Until next week&hellip;</p>";s:7:"pubdate";s:29:"Fri, 02 Dec 2011 20:16:44 GMT";s:7:"summary";s:7068:"<p>Well, you&rsquo;ve had two whole weeks to create amazing things, and well, you did just that.</p>
+
+<p>We&rsquo;re here to help promote you! And we can only do that, if you give us content to promote. So, be sure to add anything you did with ExpressionEngine to either the <a href="http://twitter.com/#!/search/%23FRUP">#FRUP hash</a> on Twitter, or <a href="http://expressionengine.com/forums/viewthread/205815/">this thread</a>. Make sure you get your submissions in by Friday morning at the latest to ensure a spot in the round up.</p>
+
+<p>Here&rsquo;s the round up for the past two weeks:</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>Chris Monnat&rsquo;s add-on <a href="http://chrismonnat.com/code/dashee/">dashEE</a> has been updated!&nbsp; dashEE lets you customize the widgets on the ExpressionEngine Control Panel home page.</p>
+</li>
+<li><p>Dom Stubbs released <a href="http://www.vayadesign.net/code/addon/switchboard">Switchboard 1.2</a> which adds a ton of new features! Switchboard is a live search engine for your control panel. It includes results for your entries, add-ons, fields, templates and lots more.</p>
+</li>
+<li><p>Brian Litzinger released <a href="http://boldminded.com/add-ons/snippet-sync/">Snippet Sync 1.3</a>, which adds support for MSM. Snippet Sync lets you manage all your snippets on the file system just like a normal template.</p>
+</li>
+<li><p>Brian also released <a href="http://boldminded.com/add-ons/wyvern/">Wyvern 1.3</a>. It now includes support for Google Fonts and Typekit within the editing area. Brian claims it&rsquo;s the only WYSIWYG editor for ExpressionEngine to support these features. Wyvern is a WYSIWYG editor for ExpressionEngine built on top of CKeditor.</p>
+</li>
+<li><p>Aaron Waldon of Causing Effect was on a roll with two new add-ons and an update to one of his popular add-ons. <a href="http://www.causingeffect.com/software/expressionengine/ce-cache">CE Cache</a> is the first new one he released. CE Cache allows you to store and retrieve parts of your templates (fragment caching) so they don’t have to run each time the page is loaded.</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/software/expressionengine/ce-string">CE String</a> is his second new one which is an string manipulation tool for use in your ExpressionEngine templates.</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/software/expressionengine/ce-image">CE Image</a> got some fancy new features in version 2.2.1.</p>
+</li>
+</ul>
+
+<h4>Job Openings</h4>
+
+<ul>
+<li><p><a href="http://pixelandtonic.com/">Pixel and Tonic</a> is looking for a new playa. More specifically a PHP Developer. Is that you? Then you should definitely <a href="http://www.authenticjobs.com/jobs/10843/php-developer">apply for this awesome job</a>.</p>
+</li>
+<li><p><a href="http://director-ee.com/">Director-ee</a> has a job posting for <a href="http://director-ee.com/jobs/listing/expressionengine_site_build">building out an ExpressionEngine site</a>.</p>
+</li>
+<li><p><a href="http://director-ee.com/">Director-ee</a> also has a posting for a <a href="http://director-ee.com/jobs/listing/web_application_developer">Web/Application Developer</a> at <a href="http://www.caddis.co/">Caddis Interactive</a>.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li><a href="http://digitalevangelist.net/">Steven Grant</a> launched <a href="http://praisegathering.org.uk/">Praise Gathering</a>.</li>
+<li><a href="http://www.burodmg.nl/">Jelle Dijkstra</a> launched <a href="http://www.openhaard.net/">Outdoor Hunting Lifestyle</a>.</li>
+</ul>
+
+<h4>Events</h4>
+
+<ul>
+<li><p>If you live in Nashville, Tennessee like our very own James Mathias and Kevin Smith, then you&rsquo;ll want to join this new <a href="http://www.nashvilleee.com/">ExpressionEngine Meetup</a>.</p>
+</li>
+<li><p>Live in the DC/Metro area? Then the <a href="http://www.meetup.com/dceers/">DCEERs Meetup</a> is for you. Coming up December 6th, <a href="http://trevordavis.net">Trevor Davis</a> of <a href="http://viget.com">Viget Labs</a> will talk on ExpressionEngine, Git, and Maintaining Current Builds.</p>
+</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li><p><a href="http://www.am-impact.nl/">a&amp;m impact</a>&rsquo;s ExpressionEngine built site <a href="http://www.mijncobb.nl/">COBB</a> won CSS Winner.com&rsquo;s <a href="http://www.csswinner.com/details/mijncobb.nl/1381/">winner of the day</a>. Great job guys!</p>
+</li>
+<li><p><a href="http://www.causingeffect.com/">Causing Effect</a> home to many great add-ons, migrated their site from CodeIgniter to ExpressionEngine.</p>
+</li>
+</ul>
+
+<h4>EE Podcast</h4>
+
+<ul>
+<li><a href="http://ee-podcast.com/episodes/all-about-variables">Episode 57</a> was released last week, and they talk all about variables!</li>
+<li>Episode 58 will be out <a href="http://ee-podcast.com/schedule">December 8</a>, where hosts Lea Alcantara and Emily Lewis talk with Ryan Masuga on updating from EE1 to EE2.</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Couchable wrote an article on &ldquo;<a href="http://couchable.co/blog/post/responsive-images-in-expressionengine">Responsive Images In ExpressionEngine</a>&rdquo;. This article will go over how to create correctly sized images based on the platform, thus reducing file sizes.</p>
+</li>
+<li><p>Stephen Lewis of <a href="http://experienceinternet.co.uk/" title="You know…the guy with all those clever sayings in his title attributes.">Experience Internet </a> wrote &ldquo;<a href="http://experienceinternet.co.uk/blog/add-on-developers-guide-to-abdicating-responsibility">The Add-on Developer’s Guide to Abdicating Responsibility</a>&rdquo; showing just how important adding hooks in your add-on is.</p>
+</li>
+<li><p>Ever had a large .sql file that is too big to upload? Then The Meta Q has the <a href="http://themetaq.com/articles/uploading-large-sql-files">the solution for you</a>!</p>
+</li>
+<li><p>Michael Leigeber of <a href="http://www.scriptiny.com/">Scriptiny</a> posted an <a href="http://www.scriptiny.com/2011/12/introduction-expressionengine-review/">Introduction to ExpressionEngine 2 and a Review</a>.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>December 5th is right around the corner. In case you forgot, that date means ExpressionEngine 1.x will no longer be included as a license option for new purchases.</p>
+</li>
+<li><p>For the good of our community be sure to take the <a href="http://ellislab.com/blog/comments/please_take_the_ala_web_design_survey#disqus_thread">A List Apart Survey</a>.</p>
+</li>
+<li><p>In the latest edition of <a href="http://ellislab.com/connect">PixelBuzz</a> it was noted I&rsquo;ve been tasked with building out a How-to video library for your benefit. Take a look at <a href="http://vimeo.com/ellislab">what we have</a> and let us know your thoughts by sending feedback to <a href="mailto:feedback@ellislab.com?subject=How-to%20Video%20Feedback">feedback@ellislab.com</a>.</p>
+</li>
+</ul>
+
+<p>From everyone here at EllisLab, thanks for submitting your news!&nbsp; We love seeing what you&rsquo;re up to.</p>
+
+<p>Until next week&hellip;</p>";}i:12;a:9:{s:5:"title";s:43:"The #FRUP is Upon You. November 18 Edition.";s:4:"link";s:80:"http://expressionengine.com/blog/entry/the_frup_is_upon_you._november_18_edition";s:2:"dc";a:2:{s:7:"creator";s:11:"Kyle Cotter";s:4:"date";s:25:"2011-11-18T19:04:52+00:00";}s:8:"category";s:14:"Round Up Posts";s:8:"comments";s:80:"http://expressionengine.com/blog/entry/the_frup_is_upon_you._november_18_edition";s:4:"guid";s:190:"http://expressionengine.com/blog/entry/the_frup_is_upon_you._november_18_edition#When:19:04:52Zhttp://expressionengine.com/blog/entry/the_frup_is_upon_you._november_18_edition#When:19:04:52Z";s:11:"description";s:5564:"<p>You continually contribute to this community, and we&rsquo;re here to make sure the world hears about it! It&rsquo;s time for your weekly #FRUP.</p>
+
+<p>Remember, if you want us to spread something you&rsquo;ve created, then add it to the <a href="http://twitter.com/#!/search/%23FRUP">#FRUP</a> on Twitter, or to the <a href="http://expressionengine.com/forums/viewthread/204813/">thread for the next edition</a>.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>John de Beer released <a href="http://www.debeer.com/index.php/hookan#rel">HooKan Permissions Manager</a> version 1.0. New in version 1.0 is the ability to manage EE Discussion Forum permissions, along with your other EE Permissions all in one location.</p>
+</li>
+<li><p>Eric Lamb of <a href="http://mithra62.com/">mithra62</a> launched <a href="http://devot-ee.com/add-ons/export-it">Export It</a>. Export It provides a CP export panel (for exporting channel entries, comments, members and mailing lists) as well as a REST API to do REST calls against an EE site.</p>
+</li>
+<li><p>Johan Strömqvist released <a href="http://devot-ee.com/add-ons/get-thumbnail">Get Thumbnail</a> which let&rsquo;s you get the path to any auto-generated thumbnail from a default &ldquo;File&rdquo; field within your channel entries tag that you&rsquo;ve defined yourself.</p>
+</li>
+<li><p>BarrettNewton released <a href="http://devot-ee.com/add-ons/affiliator">Affiliator</a>, which allows you to add affiliate marketing capabilities to your ExpressionEngine website.</p>
+</li>
+<li><p>BarrettNewton also released <a href="http://devot-ee.com/add-ons/profileedit">Profile:Edit</a> where you can easily manage and edit member data.</p>
+</li>
+<li><p>Low released updates to <a href="http://gotolow.com/addons/low-search">Low Search</a> and <a href="http://gotolow.com/addons/low-alphabet">Low Alphabet</a>.</p>
+</li>
+<li><p>Jesse Bunch loves version control, and well, the built in template editor doesn&rsquo;t really fit the version control flow. Introducing <a href="http://devot-ee.com/add-ons/disable-template-editor">Disable Template Editor</a>. An add-on that does just that, disables the template editor. Now, no more worrying about templates being updated outside of your version control workflow.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li>Jelle Dijkstra <a href="http://www.burodmg.nl/">released his new</a> site running ExpressionEngine!</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li>Zac Gordon of <a href="http://dabrook.org/">Dabrook.org</a> posted an amazing <a href="http://dabrook.org/courses/expressionengine/">free video course on ExpressionEngine</a>! With 13 sessions, and 26 videos, learn how to build a Freelance Portfolio web site with ExpressionEngine.</li>
+</ul>
+
+<h4>Events</h4>
+
+<ul>
+<li><p>Remember that new <a href="http://twincities-ee.com/">ExpressionEngine User Group</a> we featured last week? Well, they had their first meetup this week, and <a href="http://twincities-ee.com/news/november-2011-recap/">posted a recap </a> for those who weren&rsquo;t able to make  it out. Nick Benson talked on &ldquo;Building a Simple, Responsive Website with ExpressionEngine&rdquo;.</p>
+</li>
+<li><p>On December 12th through 28th, join Creat//ee at their &ldquo;<a href="http://www.creat-ee.com/classes/more/advanced_expressionengine_2.0">Advanced ExpressionEngine 2.0 course</a>&rdquo;. This course will tackle a series of advanced and complex techniques for those already familiar with the basics of ExpressionEngine.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Jesse Bunch talks &ldquo;<a href="http://getbunch.com/post/12702917040/expressionengine-version-control">ExpressionEngine + Version Control</a>&rdquo;. He goes over how the ExpressionEngine template editor can cause issues with your version control setup, and why it led him to creating the &ldquo;<a href="https://github.com/bunchjesse/Disable-Template-Editor">Disable Template Editor</a>&rdquo; extension.</p>
+</li>
+<li><p><a href="http://themetaq.com/">The Meta Q</a> is quite the resource for ExpressionEngine articles! This week they posted <a href="http://themetaq.com/articles/seo-for-expressionengine-it-all-comes-down-to-flexibility">SEO for EE: It all comes down to flexibility</a>. In this article they highlight Lee Goldberg&rsquo;s <a href="http://expressionengine.com/blog/entry/outstanding_search_engine_optimization_with_expressionengine">post on the ExpressionEngine blog</a> dealing with ExpressionEngine and SEO.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>If you haven&rsquo;t noticed, we kind of want you. A lot. EllisLab has two, that&rsquo;s right, two, job openings that have your name on it!</p>
+
+<ul>
+<li>We&rsquo;re looking for a <a href="http://expressionengine.com/blog/entry/seeking_customer_focused_designer">Customer Focused Designer</a></li>
+<li>And a <a href="http://expressionengine.com/blog/entry/new_job_opening_customer_advocate">Customer Advocate</a></li>
+</ul>
+</li>
+<li><p>The one and only Leslie Camacho elaborates on the exquisite <a href="http://expressionengine.com/blog/entry/expressionengine_reactor_for_developers_by_developers">ExpressionEngine Reactor team</a>.</p>
+</li>
+<li><p>Just a reminder support will be closed on Thursday, November 24th and Friday, November 25th for the Thanksgiving holiday. We&rsquo;ll return in full force on Monday, November 28th. (That also means no #FRUP until December 2nd.)</p>
+</li>
+</ul>
+
+<p>From everyone at EllisLab, we hope you enjoy the days off next week, and we look forward to seeing the outstanding work you continue to put out.</p>";s:7:"pubdate";s:29:"Fri, 18 Nov 2011 19:04:52 GMT";s:7:"summary";s:5564:"<p>You continually contribute to this community, and we&rsquo;re here to make sure the world hears about it! It&rsquo;s time for your weekly #FRUP.</p>
+
+<p>Remember, if you want us to spread something you&rsquo;ve created, then add it to the <a href="http://twitter.com/#!/search/%23FRUP">#FRUP</a> on Twitter, or to the <a href="http://expressionengine.com/forums/viewthread/204813/">thread for the next edition</a>.</p>
+
+<h4>Add-ons</h4>
+
+<ul>
+<li><p>John de Beer released <a href="http://www.debeer.com/index.php/hookan#rel">HooKan Permissions Manager</a> version 1.0. New in version 1.0 is the ability to manage EE Discussion Forum permissions, along with your other EE Permissions all in one location.</p>
+</li>
+<li><p>Eric Lamb of <a href="http://mithra62.com/">mithra62</a> launched <a href="http://devot-ee.com/add-ons/export-it">Export It</a>. Export It provides a CP export panel (for exporting channel entries, comments, members and mailing lists) as well as a REST API to do REST calls against an EE site.</p>
+</li>
+<li><p>Johan Strömqvist released <a href="http://devot-ee.com/add-ons/get-thumbnail">Get Thumbnail</a> which let&rsquo;s you get the path to any auto-generated thumbnail from a default &ldquo;File&rdquo; field within your channel entries tag that you&rsquo;ve defined yourself.</p>
+</li>
+<li><p>BarrettNewton released <a href="http://devot-ee.com/add-ons/affiliator">Affiliator</a>, which allows you to add affiliate marketing capabilities to your ExpressionEngine website.</p>
+</li>
+<li><p>BarrettNewton also released <a href="http://devot-ee.com/add-ons/profileedit">Profile:Edit</a> where you can easily manage and edit member data.</p>
+</li>
+<li><p>Low released updates to <a href="http://gotolow.com/addons/low-search">Low Search</a> and <a href="http://gotolow.com/addons/low-alphabet">Low Alphabet</a>.</p>
+</li>
+<li><p>Jesse Bunch loves version control, and well, the built in template editor doesn&rsquo;t really fit the version control flow. Introducing <a href="http://devot-ee.com/add-ons/disable-template-editor">Disable Template Editor</a>. An add-on that does just that, disables the template editor. Now, no more worrying about templates being updated outside of your version control workflow.</p>
+</li>
+</ul>
+
+<h4>Site Launches</h4>
+
+<ul>
+<li>Jelle Dijkstra <a href="http://www.burodmg.nl/">released his new</a> site running ExpressionEngine!</li>
+</ul>
+
+<h4>Community News</h4>
+
+<ul>
+<li>Zac Gordon of <a href="http://dabrook.org/">Dabrook.org</a> posted an amazing <a href="http://dabrook.org/courses/expressionengine/">free video course on ExpressionEngine</a>! With 13 sessions, and 26 videos, learn how to build a Freelance Portfolio web site with ExpressionEngine.</li>
+</ul>
+
+<h4>Events</h4>
+
+<ul>
+<li><p>Remember that new <a href="http://twincities-ee.com/">ExpressionEngine User Group</a> we featured last week? Well, they had their first meetup this week, and <a href="http://twincities-ee.com/news/november-2011-recap/">posted a recap </a> for those who weren&rsquo;t able to make  it out. Nick Benson talked on &ldquo;Building a Simple, Responsive Website with ExpressionEngine&rdquo;.</p>
+</li>
+<li><p>On December 12th through 28th, join Creat//ee at their &ldquo;<a href="http://www.creat-ee.com/classes/more/advanced_expressionengine_2.0">Advanced ExpressionEngine 2.0 course</a>&rdquo;. This course will tackle a series of advanced and complex techniques for those already familiar with the basics of ExpressionEngine.</p>
+</li>
+</ul>
+
+<h4>Must Read</h4>
+
+<ul>
+<li><p>Jesse Bunch talks &ldquo;<a href="http://getbunch.com/post/12702917040/expressionengine-version-control">ExpressionEngine + Version Control</a>&rdquo;. He goes over how the ExpressionEngine template editor can cause issues with your version control setup, and why it led him to creating the &ldquo;<a href="https://github.com/bunchjesse/Disable-Template-Editor">Disable Template Editor</a>&rdquo; extension.</p>
+</li>
+<li><p><a href="http://themetaq.com/">The Meta Q</a> is quite the resource for ExpressionEngine articles! This week they posted <a href="http://themetaq.com/articles/seo-for-expressionengine-it-all-comes-down-to-flexibility">SEO for EE: It all comes down to flexibility</a>. In this article they highlight Lee Goldberg&rsquo;s <a href="http://expressionengine.com/blog/entry/outstanding_search_engine_optimization_with_expressionengine">post on the ExpressionEngine blog</a> dealing with ExpressionEngine and SEO.</p>
+</li>
+</ul>
+
+<h4>From EllisLab</h4>
+
+<ul>
+<li><p>If you haven&rsquo;t noticed, we kind of want you. A lot. EllisLab has two, that&rsquo;s right, two, job openings that have your name on it!</p>
+
+<ul>
+<li>We&rsquo;re looking for a <a href="http://expressionengine.com/blog/entry/seeking_customer_focused_designer">Customer Focused Designer</a></li>
+<li>And a <a href="http://expressionengine.com/blog/entry/new_job_opening_customer_advocate">Customer Advocate</a></li>
+</ul>
+</li>
+<li><p>The one and only Leslie Camacho elaborates on the exquisite <a href="http://expressionengine.com/blog/entry/expressionengine_reactor_for_developers_by_developers">ExpressionEngine Reactor team</a>.</p>
+</li>
+<li><p>Just a reminder support will be closed on Thursday, November 24th and Friday, November 25th for the Thanksgiving holiday. We&rsquo;ll return in full force on Monday, November 28th. (That also means no #FRUP until December 2nd.)</p>
+</li>
+</ul>
+
+<p>From everyone at EllisLab, we hope you enjoy the days off next week, and we look forward to seeing the outstanding work you continue to put out.</p>";}i:13;a:9:{s:5:"title";s:54:"ExpressionEngine Reactor, For Developers by Developers";s:4:"link";s:92:"http://expressionengine.com/blog/entry/expressionengine_reactor_for_developers_by_developers";s:2:"dc";a:2:{s:7:"creator";s:14:"Leslie Camacho";s:4:"date";s:25:"2011-11-18T16:56:39+00:00";}s:8:"category";s:4:"News";s:8:"comments";s:92:"http://expressionengine.com/blog/entry/expressionengine_reactor_for_developers_by_developers";s:4:"guid";s:214:"http://expressionengine.com/blog/entry/expressionengine_reactor_for_developers_by_developers#When:16:56:39Zhttp://expressionengine.com/blog/entry/expressionengine_reactor_for_developers_by_developers#When:16:56:39Z";s:11:"description";s:4139:"<p>It&#8217;s our pleasure to formally introduce the ExpressionEngine Reactor team to the Community. In a nutshell, the EE Reactor team is a group of devs who can contribute directly to ExpressionEngine using a system modeled off Open Source contributions. For EllisLab, it is modeled from the CodeIgniter Reactor team. We&#8217;ll go into more detail about what EE Reactor is but first let&#8217;s meet the team.</p>
+<p>Greg Ferrell, <a href="http://solspace.com">Solspace.com</a><br />
+Leevi Graham, <a href="http://newism.com.au/">Newism</a> &amp; <a href="http://ee-garage.com/">EE-Garage</a><br />
+Brian Litzinger, <a href="http://boldminded.com">BoldMinded</a> &amp; <a href="http://nerdery.com">The Nerdery</a><br />
+Jack McDade, <a href="http://jackmcdade.com">JackMcDade.com</a><br />
+Erik Reagan, <a href="http://focuslabllc.com/">Focus Lab, <span class="caps">LLC</span></a><br />
+Rob Sanchez, <a href="http://mightybigrobot.com">MightyBigRobot</a> &amp; <a href="http://cartthrob.com">CartThrob</a></p>
+<p>EE Reactor got its start from <a href="http://twitter.com/#!/stinhambo/status/98892086438408192">a tweet by longtime Communty member @stinhambo</a>:</p>
+<blockquote><p>@EllisLab I&#8217;ll call for an #eecms Reactor group again… There are plenty of devs hungry to contribute to the core.</p>
+</blockquote>
+<p>I was skeptical that people would want to contribute to a commercial product in a similar fashion to an open source project, but after encouragement from the #eecms Community (@mediagirl in particular) I put out a feeler on Twitter and immediately received responses from developers wanting to participate. Professionally speaking, it is hard for me to remember a time I was more thankful about being wrong.</p>
+<p>I took the idea to the EE dev team, we hashed out a plan, and started interviewing people to be the first team to try this grand experiment.</p>
+<p>I discovered that people contribute to projects for three basic reasons. First, because they love the project. Second, because they benefit directly by such contributions. And thirdly, because they geniunely want to help others succeed.</p>
+<p>All six members of EE Reactor have a long history of doing incredible work in our community, making a living from their work, and helping others succeed. We&#8217;re humbled that they want to do this directly for ExpressionEngine.</p>
+<p>In this way, EE Reactor is no different than any open source project. People contribute to Open Source because they love it, it helps make them successful, and they want others to succeed. The primary difference is that the owners of open source projects make their living from services (more or less) and EllisLab makes its living from product sales.</p>
+<p>Is that one difference a deal killer for this type of contribution? That&#8217;s what the EE Reactor experiment is going to find out. We&#8217;re going to keep the team at six members until we have a release or two out there and can evaluate whether it is working or not. If it works, we&#8217;ll look at how we can responsibly expand the program to the list of developers interested in contributing.</p>
+<p>Though the EE Reactor team can contribute to any area of EE, we&#8217;ve all agreed that we&#8217;re going to start with Reactor focusing on code that makes life better for the the EE dev community. &#8220;For Developers by Developers&#8221; describes the initial approach perfectly. This is an area that the EE Reactor team knows intimately and there is a clear path they can dig into that fits perfectly with EllisLab&#8217;s dev team&#8217;s plans for EE.</p>
+<p>As of the time of publication, the EE Reactor Team has nine confirmed contributions scheduled for release in EE 2.4 (late January). If you want an inside look at some of those contributions along with other items slated for EE 2.4, <a href="http://ellislab.com/connect">subscribe to the EllisLab Newsletter</a> for a first look in the December issue.</p>
+<p>Steven, I owe you a beer &amp; thanks to you and everyone helped get this project going. As always, we&#8217;re here to serve you and make your professional lives better.</p>";s:7:"pubdate";s:29:"Fri, 18 Nov 2011 16:56:39 GMT";s:7:"summary";s:4139:"<p>It&#8217;s our pleasure to formally introduce the ExpressionEngine Reactor team to the Community. In a nutshell, the EE Reactor team is a group of devs who can contribute directly to ExpressionEngine using a system modeled off Open Source contributions. For EllisLab, it is modeled from the CodeIgniter Reactor team. We&#8217;ll go into more detail about what EE Reactor is but first let&#8217;s meet the team.</p>
+<p>Greg Ferrell, <a href="http://solspace.com">Solspace.com</a><br />
+Leevi Graham, <a href="http://newism.com.au/">Newism</a> &amp; <a href="http://ee-garage.com/">EE-Garage</a><br />
+Brian Litzinger, <a href="http://boldminded.com">BoldMinded</a> &amp; <a href="http://nerdery.com">The Nerdery</a><br />
+Jack McDade, <a href="http://jackmcdade.com">JackMcDade.com</a><br />
+Erik Reagan, <a href="http://focuslabllc.com/">Focus Lab, <span class="caps">LLC</span></a><br />
+Rob Sanchez, <a href="http://mightybigrobot.com">MightyBigRobot</a> &amp; <a href="http://cartthrob.com">CartThrob</a></p>
+<p>EE Reactor got its start from <a href="http://twitter.com/#!/stinhambo/status/98892086438408192">a tweet by longtime Communty member @stinhambo</a>:</p>
+<blockquote><p>@EllisLab I&#8217;ll call for an #eecms Reactor group again… There are plenty of devs hungry to contribute to the core.</p>
+</blockquote>
+<p>I was skeptical that people would want to contribute to a commercial product in a similar fashion to an open source project, but after encouragement from the #eecms Community (@mediagirl in particular) I put out a feeler on Twitter and immediately received responses from developers wanting to participate. Professionally speaking, it is hard for me to remember a time I was more thankful about being wrong.</p>
+<p>I took the idea to the EE dev team, we hashed out a plan, and started interviewing people to be the first team to try this grand experiment.</p>
+<p>I discovered that people contribute to projects for three basic reasons. First, because they love the project. Second, because they benefit directly by such contributions. And thirdly, because they geniunely want to help others succeed.</p>
+<p>All six members of EE Reactor have a long history of doing incredible work in our community, making a living from their work, and helping others succeed. We&#8217;re humbled that they want to do this directly for ExpressionEngine.</p>
+<p>In this way, EE Reactor is no different than any open source project. People contribute to Open Source because they love it, it helps make them successful, and they want others to succeed. The primary difference is that the owners of open source projects make their living from services (more or less) and EllisLab makes its living from product sales.</p>
+<p>Is that one difference a deal killer for this type of contribution? That&#8217;s what the EE Reactor experiment is going to find out. We&#8217;re going to keep the team at six members until we have a release or two out there and can evaluate whether it is working or not. If it works, we&#8217;ll look at how we can responsibly expand the program to the list of developers interested in contributing.</p>
+<p>Though the EE Reactor team can contribute to any area of EE, we&#8217;ve all agreed that we&#8217;re going to start with Reactor focusing on code that makes life better for the the EE dev community. &#8220;For Developers by Developers&#8221; describes the initial approach perfectly. This is an area that the EE Reactor team knows intimately and there is a clear path they can dig into that fits perfectly with EllisLab&#8217;s dev team&#8217;s plans for EE.</p>
+<p>As of the time of publication, the EE Reactor Team has nine confirmed contributions scheduled for release in EE 2.4 (late January). If you want an inside look at some of those contributions along with other items slated for EE 2.4, <a href="http://ellislab.com/connect">subscribe to the EllisLab Newsletter</a> for a first look in the December issue.</p>
+<p>Steven, I owe you a beer &amp; thanks to you and everyone helped get this project going. As always, we&#8217;re here to serve you and make your professional lives better.</p>";}i:14;a:9:{s:5:"title";s:34:"New Job Opening: Customer Advocate";s:4:"link";s:72:"http://expressionengine.com/blog/entry/new_job_opening_customer_advocate";s:2:"dc";a:2:{s:7:"creator";s:11:"Kevin Smith";s:4:"date";s:25:"2011-11-14T22:41:36+00:00";}s:8:"category";s:4:"News";s:8:"comments";s:72:"http://expressionengine.com/blog/entry/new_job_opening_customer_advocate";s:4:"guid";s:174:"http://expressionengine.com/blog/entry/new_job_opening_customer_advocate#When:22:41:36Zhttp://expressionengine.com/blog/entry/new_job_opening_customer_advocate#When:22:41:36Z";s:11:"description";s:448:"<p>EllisLab is a web application company devoted to making our users’ online lives better with powerful software that solves real-world problems. Our Customer Advocates are a team of friendly, customer-focused people who help our Community succeed with our world-class web publishing platforms ExpressionEngine and MojoMotor.</p>
+
+<p>Read <a href="http://ellislab.com/blog/comments/new_job_opening_customer_advocate">the full job posting</a>.</p>";s:7:"pubdate";s:29:"Mon, 14 Nov 2011 22:41:36 GMT";s:7:"summary";s:448:"<p>EllisLab is a web application company devoted to making our users’ online lives better with powerful software that solves real-world problems. Our Customer Advocates are a team of friendly, customer-focused people who help our Community succeed with our world-class web publishing platforms ExpressionEngine and MojoMotor.</p>
+
+<p>Read <a href="http://ellislab.com/blog/comments/new_job_opening_customer_advocate">the full job posting</a>.</p>";}}s:7:"channel";a:5:{s:5:"title";s:7:"EE Blog";s:4:"link";s:33:"http://expressionengine.com/blog/";s:11:"description";s:21:"ExpressionEngine Blog";s:2:"dc";a:3:{s:8:"language";s:2:"en";s:6:"rights";s:14:"Copyright 2012";s:4:"date";s:25:"2012-01-27T22:06:00+00:00";}s:7:"tagline";s:21:"ExpressionEngine Blog";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"utf-8";s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:13:"current_field";s:0:"";s:17:"current_namespace";b:0;s:4:"etag";b:0;s:5:"ERROR";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:13:"last_modified";s:31:"Fri, 27 Jan 2012 22:08:01 GMT
+";}

@@ -1,0 +1,616 @@
+O:9:"magpierss":23:{s:6:"parser";N;s:12:"current_item";a:0:{}s:5:"items";a:15:{i:0;a:9:{s:5:"title";s:23:"Monday Round Up June 27";s:4:"link";s:63:"http://expressionengine.com/blog/entry/monday_round_up_june_27/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.16081";s:9:"published";s:20:"2011-06-27T21:09:19Z";s:7:"updated";s:20:"2011-06-27T21:25:20Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:14:"Leslie Doherty";s:10:"author_uri";s:19:"http://ellislab.com";s:12:"atom_content";s:4762:"
+        <p>When is the #FRUP a #MRUP? When it&#8217;s summer and someone takes a Friday off work. </p>
+
+<p>I hear it&#8217;s summer in many parts of the Country. I say &#8220;I hear&#8221; because in Seattle we&#8217;re still waiting for summer to arrive. While we wait and continue working without all that distracting fun-in-the-sun, here is the newest Round Up Post. (Want something featured? <a href="http://expressionengine.com/forums/viewthread/192661/">The best way is to let me know.</a>)</p>
+
+<p><strong>Add-Ons</strong><br />
+<a href="http://devot-ee.com/add-ons/google-custom-search/">Google Custom Search</a> now available from Amphibian Design.</p>
+
+<p>Solspace Facebook <a href="http://solsp.ac/e8od">Connect 2.0</a> released. New API, easier to use, and now supports several social plugins </p>
+
+<p><a href="http://www.devdemon.com/channel_images/">Channel Images 5</a> gets a complete new design and bunch of new features.</p>
+
+<p>Stephen Lewis released Crumbly, a new EE2 module which makes adding breadcrumbs to your website super-easy. <a href="http://experienceinternet.co.uk/software/crumbly/">Full details are here</a>, along with a <a href="http://experienceinternet.co.uk/blog/introducing-crumbly">background blog post here</a>.</p>
+
+<p>“<a href="https://addons.mozilla.org/en-US/firefox/addon/expressionengine-detector/">ExpressionEngine Detector</a>” Firefox Addon also got officially approved by mozilla.</p>
+
+<p><a href="http://experienceinternet.co.uk/software/testee/">Testee</a> is released for unit testing and TDD for ExpressionEngine addons.</p>
+
+<p><strong>Articles</strong><br />
+Focus Lab writes an article about <a href="http://focuslabllc.com/blog/utilizing-the-template-debugger-in-expressionengine-add-ons">helping developers debug templates</a>.</p>
+
+<p>A new series of posts on Integrating ExpressionEngine with Third-Party APIs. <a href="http://experienceinternet.co.uk/blog/integrating-ee-with-apis-1-of-4">Part one is here</a>, <a href="http://bit.ly/kiIBvx">Part two is here</a>.</p>
+
+<p><strong>Videos</strong></p>
+
+<p>Ryan Irelan now has a <a href="http://mijingo.com/products/screencasts/upgrading-expressionengine/">free video on Upgrading ExpressionEngine</a>. With the release of EE 2.2 it’s important that everyone knows how to properly plan, perform and test an EE upgrade.</p>
+
+<p>And Brad, from Dev Demon, created a <a href="http://www.devdemon.com/blog/how_to_make_quick_jquery_gallery_with_channel_images_5_in_expressionengine/">seventeen minute long video tutorial on how to make a jQuery Gallery with Channel Images</a>.</p>
+
+<p><br />
+<strong>Events</strong><br />
+<a href="http://www.creat-ee.com/classes/more/introduction_to_expressionengine_20/">Intro to ExpressionEngine Two</a> free seminar on June 30, 2pm - 3pm EST by Create-EE.</p>
+
+<p><strong>Announcements from the Community</strong><br />
+<a href="http://seesparkbox.com/">Spark Box</a>, an ExpressionEngine website, gets featured in NetMag in July! Congrats!</p>
+
+<p>From Ryan, &#8220;<a href="http://ee-spotlight.com">EE Spotlight</a> is a source for ExpressionEngine Tips, Tutorials, Reviews, and News.&nbsp; The aim is to not only be a source of information, but more importantly an easy place for others to post articles of their own, creating links back to their own site in the author bio, and increasing the networking within the community.&nbsp; Dare I say it, but almost a NetTuts+ type of site focused on ExpressionEngine. And now, EE Spotlight is running an AppleTV giveaway for anyone who submits an ExpressionEngine-related review before July 15th. <a href="http://ee-spotlight.com/news/write_a_review_for_ee_spotlight_win_an_apple_tv">More info here</a>. </p>
+
+<p><br />
+<strong>Podcasts</strong><br />
+The EE Podcast is back! <a href="http://ee-podcast.com/">Here is Episode #46 on teaching</a>.</p>
+
+<p><strong>From EllisLab</strong><br />
+You&#8217;ve asked for some limited supported way to remove index.php and we have set that up in our docs. <a href="http://expressionengine.com/user_guide/general/remove_index.php.html">You can follow these steps for removing index.php from your URL</a>.</p>
+
+<p>You have the ability to give feedback via the new EllisLab feedback page. Please be sure to <a href="http://ellislab.com/feedback/">let us know what you&#8217;re looking for</a>. </p>
+
+<p>As you know, ExpressionEngine 2.2 was released last week. Behind the scenes we&#8217;re making improvements and taking feedback as always. <a href="http://expressionengine.com/forums/viewthread/192292/">Here is the information on the hotfix and version states</a>. </p>
+
+<p>Have a good productive week and enjoy this coming Holiday weekend! Your next Friday Round Up Post is July 8th. Let me know what to feature!
+</p>      ";}i:1;a:9:{s:5:"title";s:30:"ExpressionEngine 2.2 Released!";s:4:"link";s:69:"http://expressionengine.com/blog/entry/expressionengine_2.2_released/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15972";s:9:"published";s:20:"2011-06-22T15:55:23Z";s:7:"updated";s:20:"2011-06-22T17:02:24Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:12:"Robin Sowell";s:10:"author_uri";s:21:"http://media-cow.com/";s:12:"atom_content";s:3645:"
+        <p>We are pleased to announce that ExpressionEngine 2.2 is now available for <a href="https://secure.expressionengine.com/download.php">download</a>.&nbsp; This is a major release and brings improvements on a number of fronts: a new file module (and related enhancements), speed/code optimization, a developer friendly authorization library, 180+ bug fixes, CP user experience tweaks, and improved documentation. This is a recommended upgrade for all ExpressionEngine installations.&nbsp; See the <a href="http://expressionengine.com/user_guide/changelog.html">changelog</a> for a full list of changes.&nbsp; If you&#8217;re updating from the current stable version (2.1.3), remember to check the version notes for all relevant versions (2.1.4, 2.1.5 and 2.2).&nbsp; Want more details before you hit the installer?&nbsp; Then read on for the juicy details!</p>
+
+<p>Feature wise, we&#8217;ve continued to make big improvements to file handling.&nbsp; There are plenty of small tweaks (limiting a file field to a single directory) as well as a couple of big changes.&nbsp; The File Manager now allows you to edit files to include a caption as well as assign them to categories.&nbsp; The new <a href="http://expressionengine.com/user_guide/modules/file/index.html">File Module</a> provides tags to display your files using tags- independent of categories. </p>
+
+<p>The Comment Control Panel received a significant performance overhaul and will load faster and handle significantly more comments. </p>
+
+<p>ExpressionEngine 2.2 eliminates redundant cookies and now features salted passwords for better security.</p>
+
+<p>ExpressionEngine 2.2 squashes over 60 bugs. For ExpressionEngine installs moving from 2.1.3 to 2.2, that means a sum total of 180+ bugs dead. In addition to fixing bugs, we&#8217;ve also been working on formalizing our bug response policy to ensure problems are addressed in a timely manner.&nbsp; Expect an update on that prior to the next ExpressionEngine release. </p>
+
+<p>Developers can start using the Authentication library, which simplifies user authentication and aligns ExpressionEngine development closer to PHP 5 coding practices.&nbsp; In order to help simplify you speeding your application up, we&#8217;ve added getter and setter methods for accessing the Sessions Library $cache property.&nbsp; The <a href="http://expressionengine.com/blog/entry/expressionengine_2.2_add-on_developer_preview/">Developer preview</a> invitation was a first step to ensure third party developers remain in the loop on such changes. The Developer Preview program also provides a direct way for devs to request hooks in subsequent releases. </p>
+
+<p>Password salting/hashing has been rewritten from the ground up and provides access to the most secure password hashing algorithm your host provides.&nbsp; This includes md5, sha1, sha256 and sha512.&nbsp; A special thanks to Ty Wangsness from eMarketSouth for presenting his ideas and working with us so that we can continue to keep ExpressionEngine ahead of the curve when it comes to password security.</p>
+
+<p>Documentation has been improved and simplified in areas that could be common sources of confusion. We increased our stated PHP memory requirements to 32M to ensure smooth sailing with add-ons. And there&#8217;s now a single set of version update instructions to follow - build updates are a thing of the past!</p>
+
+<p>Overall, 2.2 represents a lot of changes and improvements. We&#8217;ve spent the last six months overhauling EllisLab to deliver the EE you want and need. It&#8217;s a pleasure working for you. Please let us know what you need next. 
+</p>      ";}i:2;a:9:{s:5:"title";s:35:"ExpressionEngine 2.2 is on Schedule";s:4:"link";s:75:"http://expressionengine.com/blog/entry/expressionengine_2.2_is_on_schedule/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15947";s:9:"published";s:20:"2011-06-20T15:20:36Z";s:7:"updated";s:20:"2011-06-20T21:43:37Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:11:"Marcus Neto";s:10:"author_uri";s:31:"http://www.expressionengine.com";s:12:"atom_content";s:941:"
+        <p>Many of you wanted us to let you know if we are still on target to release ExpressionEngine 2.2 on June 22nd. The answer is yes. We will be releasing 2.2 this Wednesday. </p>
+
+<p>As a teaser, ExpressionEngine 2.2 has a completely rewritten File Manager. The File Manager now has more functionality as part of that rewrite. The dev team continued efforts to tune ExpressionEngine and improve performance.&nbsp; Additionally, the dev team has added new Config Overrides that were requested and continued integrating SafeCracker further into the system.&nbsp; The login routine was also updated to salt and rehash all passwords with a SHA-2 hash function if available, which is part of our continuing efforts to keep ExpressionEngine secure.</p>
+
+<p>The dev team also reports that there are over 60 bug fixes included in 2.2.</p>
+
+<p>So, mark it on your calendars: ExpressionEngine 2.2 comes out this Wednesday, June 22.</p>
+
+      ";}i:3;a:9:{s:5:"title";s:50:"Friday Round Up Post henceforth known as the #FRUP";s:4:"link";s:89:"http://expressionengine.com/blog/entry/friday_round_up_post_henceforth_known_as_the_frup/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15916";s:9:"published";s:20:"2011-06-10T22:14:10Z";s:7:"updated";s:20:"2011-06-10T22:25:11Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:14:"Leslie Doherty";s:10:"author_uri";s:19:"http://ellislab.com";s:12:"atom_content";s:4526:"
+        <p>We&#8217;ve saved up some of the great things from the #eecms community.&nbsp; Don&#8217;t forget to get your news in to us for next week! (Tweet #eecms #frup, Email, or Comment. Be included!) </p>
+
+<p><br />
+<strong>Add-Ons</strong><br />
+<a href="http://www.putyourlightson.net/projects/developer">Developer</a> allows you to quickly access your site templates, custom fields, channels, categories, member groups, upload preferences and general configuration.</p>
+
+<p>Electric Labs gives us a beta <a href="http://labs.electricputty.co.uk/post/beta_betta_workflow/">betta workflow</a>.</p>
+
+<p>Dev Demon released <a href="http://www.devdemon.com/channel_polls/">Polls 2.5</a>.</p>
+
+<p>There&#8217;s now a <a href="http://devot-ee.com/add-ons/disqus/">Disqus plugin</a> thanks to Marc Tanis.</p>
+
+<p><a href="http://eeharbor.com/safeharbor">Safe Harbor 1.2</a> is out which now includes the ability to store ExpressionEngine Backups on Amazon S3.&nbsp; We also added the ability to search your backups and download a single file from them.</p>
+
+<p>Chris Ruzin gives us the <a href="http://devot-ee.com/add-ons/crz-keyboard-shortcuts/">CRZ Keyboard Shotrcuts</a> accessory to create keyboard shortcuts for locations and some URL-based actions (like logout) in the CP.</p>
+
+<p><a href="http://www.electricfunction.com/dbfcU">Membrr</a> (subscription membership website addon) is on sale now for $95 (35% off) until Jun17th! </p>
+
+<p><a href="http://gwcode.com/add-ons/gwcode-categories">GWcode Categories</a> is now updated to version 1.6.1 and also available for EE 1 now.</p>
+
+<p><a href="http://www.kevincupp.com/2011/05/09/purge.html">Purge</a> is available. This add-on send a purge request to the Varnish caching proxy upon entry submission/deletion.</p>
+
+<p><br />
+<strong>Articles</strong><br />
+<a href="http://codeigniter.com/forums/viewthread/188275/#890874">Nathan Pitman shares how he integrated EE with CI on a single site</a>.</p>
+
+<p>Mike Boyink begs developers to <a href="http://boyink.com/write/show-dont-tell/">show, not tell</a> about your favorite addons and Mores Soda <a href="http://moresoda.co.uk/blog/article/our-must-have-add-on-for-expressionengine">shows us how to implement morePreview</a>.</p>
+
+<p><a href="http://www.wearepapertiger.com/blog/create-an-automatically-updated-xml-sitemap-with-expressionengine">Create an automatically updated XML sitemap with ExpressionEngine</a> by Paper Tiger.</p>
+
+<p><a href="http://www.kevincupp.com/2011/05/22/marking-ee-sites-fly-with-varnish.html">Kevin Cupp talks about Making EE Sites Fly with Varnish</a>.</p>
+
+<p><br />
+<strong>Events</strong><br />
+<a href="http://www.meetup.com/ExpressionEngine-Adventure/San-Francisco-CA/203331/">San Francisco EE meetup Wednesday, June 15th</a>.</p>
+
+<p>Help get a meetup for <a href="http://www.meetup.com/dfw-expressionengine/">EE users set up in DFW!</a></p>
+
+<p><br />
+<strong>Announcements from the Community</strong><br />
+<a href="http://universit-ee.com/">Universit-EE</a> is coming soon! </p>
+
+<p><a href="http://www.takeflightcreative.com">Take Flight Creative</a> relaunched on EE recently.</p>
+
+<p>Launched on EE by Driver Web: <a href="http://www.onlyjuice.com.au/">http://www.onlyjuice.com.au/</a> and <a href="http://www.alice-springs.com.au/">http://www.alice-springs.com.au/</a>.</p>
+
+<p><br />
+<strong>Podcasts</strong><br />
+The <a href="http://ee-podcast.com/">EE podcast</a> is doing a &#8220;Guess The Host&#8221; contest with great prizes. Y&#8217;all should play!</p>
+
+<p><a href="http://htm-ale.com/episodes/9-16toads">Paul Burton talks with htm-ale</a> about working for yourself.</p>
+
+<p><br />
+<strong>&#8220;Future Entries show=&#8220;YES!&#8221;</strong><br />
+As you know, we&#8217;re pushing hard here at EllisLab to get out the next release. If you were at <a href="http://environmentsforhumans.com/2011/engine-summit/">Engine Summit</a> earlier this week you know <a href="http://eeinsider.com/blog/ee-2.2-slated-for-june-22-release/">EE 2.2 is slated for a June 22nd release date</a>. </p>
+
+<p>In addition, our CCO is <a href="http://ellislab.com/blog/comments/getting_started/">requesting your input on our Control Panel</a>. It&#8217;s time, y&#8217;all. With excitement and anticipation, we&#8217;re rapidly moving forward as a company, as makers. Were crafting a product we can be proud of and that you can utilize. Together, we can make ExpressionEngine be the most effective web building application on the planet. That&#8217;s right: We dream big.
+</p>      ";}i:4;a:9:{s:5:"title";s:46:"ExpressionEngine 2.2, Add-on Developer Preview";s:4:"link";s:85:"http://expressionengine.com/blog/entry/expressionengine_2.2_add-on_developer_preview/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15885";s:9:"published";s:20:"2011-06-02T14:29:41Z";s:7:"updated";s:20:"2011-07-06T15:50:42Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:11:"Marcus Neto";s:10:"author_uri";s:31:"http://www.expressionengine.com";s:12:"atom_content";s:4199:"
+        <p>I have had discussions with many of you (add-on developers) over the last couple of months and one of the things that you have asked for is a clear path to getting preview copies of ExpressionEngine so that you can adjust your add-ons prior to a major release.</p>
+
+<p>This year we want to have an official Developer Program, but while we work that out we want to make sure everyone that needs it has access to a Developer Preview, starting immediately with EE 2.2.</p>
+
+<p>This is specifically for EE Add-on Developers only. If you develop add-ons for EE publicly or privately, you qualify to participate. To get the EE 2.2 Dev Preview, please:</p>
+
+<p>1. Complete this <a href="http://static.expressionengine.com/pro_net/nda_3rdparty_lite.pdf">NDA</a> and make sure to name similar to firstnamelastname.fileextension<br />
+2. <a href="mailto:marcus.neto@ellislab.com">Email Marcus</a> with the subject “EE2.2 Dev Preview” from an email associated with an ExpressionEngine.com account that has support access and/or a Commercial license.<br />
+3. Include a link to your add-on site or otherwise provide proof to us that you are an add-on developer.<br />
+3. We’ll send you a link to grab the EE 2.2 Developer Preview copy.</p>
+
+<p>If you develop add-ons, here is why you want a copy (the following courtesy of Greg Aker).</p>
+
+<p>“We have made some significant changes in user auth, refined sessions, and completed even more work on the File Manager.</p>
+
+<p>General changes:
+</p><ul>
+<li>Added a temporary workaround that broke some addons using $this→EE→load→_ci_view_path</li>
+<li>Added getters/setters for the session cache</li>
+<li>Added an auth library that handles all user authentication.</li>
+<li>More File Manager refinements, including resizing on the publish page and renaming duplicate files.</li>
+</ul><p>
+Going forward, we would like to be a little more strict on enforcing public/private/protected class vars and methods. This is unfortunately a slow process in moving a PHP4 codebase to PHP5, so if you are using these, please let us know what getters/setters you might need. However, if you’re looking over code and see either:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #007700">var&nbsp;</span><span style="color: #0000BB">$_foo&nbsp;</span>
+</span>
+</code></div>
+
+<p>or</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #007700">function&nbsp;</span><span style="color: #0000BB">_foo</span><span style="color: #007700">()&nbsp;</span>
+</span>
+</code></div>
+
+<p>assume they are private.</p>
+
+<p>We’re planning to take a hard look at hooks with an eye toward adding in needed ones- though as always, we’ll proceed with caution. We’ll be evaluating the ideas in these threads that we already know about:</p>
+
+<p><a href="http://expressionengine.com/forums/viewthread/185398/P18/">http://expressionengine.com/forums/viewthread/185398/P18/</a><br />
+<a href="http://www.solspace.com/docs/detail/date_field_filter_extension_hook/">http://www.solspace.com/docs/detail/date_field_filter_extension_hook/</a></p>
+
+<p>We’re also considering:<br />
+a. Adding a hook to login (if it doesn’t already exist) so members can use facebook/twitter/LDAP/AD Auth if they want.<br />
+b. Adding a hook that allows manipulation of file metadata prior to insert in order to add extra data.</p>
+
+<p>Any additional ideas, or elaborations on the above ideas, are welcome. We’d like to get the hooks squared away early in the sprint and another developer build out sooner rather than later. Which is a long way of saying- the sooner you chime in on the above, the more likely it will impact the code this sprint.</p>
+
+<p>The public release of ExpressionEngine 2.2 is tentatively slated for late June and we have a code freeze planned for June 9 (one week from today). Anything that doesn’t make it into EE 2.2 will be considered for EE 2.2.x updates and/or EE 2.3.</p>
+
+<p>Thanks in advance for your participation and if you have specific suggestions of what you want to see in a developer program, please <a href="mailto:marcus.neto@ellislab.com">let me know</a>.</p>
+
+<p>&nbsp;</p>      ";}i:5;a:9:{s:5:"title";s:61:"Version 1.7.1 Build 20110520 Security and Maintenance Release";s:4:"link";s:101:"http://expressionengine.com/blog/entry/version_1.7.1_build_20110520_security_and_maintenance_release/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15839";s:9:"published";s:20:"2011-05-20T16:01:18Z";s:7:"updated";s:20:"2011-05-20T17:03:19Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:12:"Robin Sowell";s:10:"author_uri";s:21:"http://media-cow.com/";s:12:"atom_content";s:1035:"
+        <p>A security and maintenance release for 1.7.1 is now available for <a href="https://secure.expressionengine.com/download.php">download</a>.&nbsp; The release addressed a <a href="http://expressionengine.com/bug_tracker/bug/15753/">critical bug</a> where each member&#8217;s settings for &#8216;Enable Avatar&#8217; and &#8216;Enable Signatures&#8217; were reset to &#8216;No&#8217; when preferences were updated in the control panel&#8217;s General Configuration page.&nbsp; The release also addresses a security issue where an SQL injection was at least theoretically possible.&nbsp; There are no known cases of a successful exploit and such an attack could only be executed by someone with control panel access and access to the admin area with &#8220;Can administrate general preferences&#8221;. </p>
+
+<p>Given the potential security exploit (however unlikely) and the chance for data loss, we decided a small, fast release to address these issues was in order.&nbsp; This release is recommended for all users.
+</p>      ";}i:6;a:9:{s:5:"title";s:36:"ExpressionEngine 2.1.5 Beta Released";s:4:"link";s:76:"http://expressionengine.com/blog/entry/expressionengine_2.1.5_beta_released/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15768";s:9:"published";s:20:"2011-05-12T15:27:32Z";s:7:"updated";s:20:"2011-05-12T18:11:33Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:12:"Robin Sowell";s:10:"author_uri";s:21:"http://media-cow.com/";s:12:"atom_content";s:4140:"
+        <p>The EE 2.1.5 Beta has been released. This will be the final beta version before all functionality is rolled into ExpressionEngine 2.2 in June, which will become the new stable version and mark the beginning of our brand new release schedule, quality assurance guidelines (aka, how bugs are handled in a way you can count on), along with a host of other changes here at EllisLab that are geared to make EE the rock solid choice you need it be. We’ve been listening carefully these past five months and we’re excited about bringing changes you’ve asked for very soon. We’ll be writing about these changes between this release and EE 2.2! Now, let’s talk about 2.1.5 and what it brings.</p>
+
+<p>The most significant change in this release is the move to storing file information in the database. The release also includes includes over 50 bug fixes, the removal of the Blogger API module, as well as the addition of some feature requests. During the update process, you’ll see a link for an optional survey to help us identify the core strengths and weaknesses of ExpressionEngine as it is right now. It is completely option, but we’d appreciate it if you could fill it out.</p>
+
+<p>As with the prior beta, this release should not be used on mission critical sites and you do so at your own risk. Please consider using the beta on development sites, personal sites, and sites that are easily rolled back to the stable version should an undiscovered issue prevent you from using the beta version.</p>
+
+<p>So&#8230;. you want a little more detail before checking out the beta?&nbsp; A lot has changed.&nbsp; File Upload Preferences have been moved from the Admin section to the File Manager, and a new permission has been added to control who accesses upload preferences.&nbsp; Also added is the ability to set &#8216;thumbnail&#8217; image sizes and watermark preferences per upload directory.&nbsp; These thumbnails will be created whenever a new image file is uploaded.&nbsp; </p>
+
+<p>A simple &#8216;Synchronization&#8217; on the File Upload Preferences page allows you to  have all files in that directory imported into the database, with the appropriate thumbnails added.&nbsp; You&#8217;ll want to synchronize your files as soon as you&#8217;re done updating!</p>
+
+<p>Significant changes have also occurred within the file upload modal, which is now used in both the File Manager and the Publish page.&nbsp; Expect more changes here as we add back image manipulation, category and other metadata fields, and greater flexibility when using the new thumbnail features.</p>
+
+<p>This version has been released as a beta version due to complexity and breadth of the changes to file handling.&nbsp; The Wiki, the Moblog, SafeCracker, and the Metaweblog API have all been updated to include the new file handling methods.&nbsp; Third party addons may need adjusting as well.</p>
+
+<p>There are several known issues with this release:</p>
+
+<p>*The &#8216;File&#8217; module is available in the installable modules, though tags are not yet available for frontend use<br />
+*Editing images is not yet reflected in the database records and can result in improper dimensions used in system generated HTML when an edited image is inserted into a textarea field<br />
+*The Profiler is displayed during a new install or update</p>
+
+<p>We&#8217;ll be working hard to address these issues and any others that arise during this final beta release.&nbsp; There are some &#8216;must have&#8217; features that you can expect to make it in as well (renaming files, resizing in the file modal, doing something with all of those handy thumbnails you can auto-generate).&nbsp; This beta represents the &#8216;big move&#8217; to the database approach to files.&nbsp; While we attack any issues that arise from that change, third party developers can catch up with the code changes before we move this to a stable release.</p>
+
+<p>So let us know what you think, what you want, what works and what doesn&#8217;t.&nbsp; We&#8217;re moving into the final stages of development on this one, and your input is more valuable than ever.
+</p>      ";}i:7;a:9:{s:5:"title";s:39:"Twitter Timeline Plugin Security Update";s:4:"link";s:79:"http://expressionengine.com/blog/entry/twitter_timeline_plugin_security_update/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15732";s:9:"published";s:20:"2011-05-03T22:28:57Z";s:7:"updated";s:20:"2011-05-03T22:30:58Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:13:"Pascal Kriete";s:10:"author_uri";s:24:"http://pascalkriete.com/";s:12:"atom_content";s:731:"
+        <p>Hi Everyone,</p>
+
+<p>We wanted to give you a heads up that we updated the Twitter Timeline plugin to address a security issue. We consider this one critical as it can result in unexpected information disclosure. Both ExpressionEngine 1 and 2 versions were affected. All users are encouraged to update to the latest version (tell your friends).</p>
+
+<p>To update, simply <a href="http://expressionengine.com/downloads/details/twitter_timeline/">download</a> the appropriate version and replace the existing file in the plugin folder.</p>
+
+<p>As with all security releases, we provide no further details to give our users time to update. If you have any questions or concerns, please contact our support staff.
+</p>      ";}i:8;a:9:{s:5:"title";s:25:"Round Up Post: April 29th";s:4:"link";s:64:"http://expressionengine.com/blog/entry/round_up_post_april_29th/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15719";s:9:"published";s:20:"2011-04-29T22:03:42Z";s:7:"updated";s:20:"2011-04-29T22:23:43Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:14:"Leslie Doherty";s:10:"author_uri";s:19:"http://ellislab.com";s:12:"atom_content";s:4175:"
+        <p>It&#8217;s after five somewhere! Possibly even where you are, so while you&#8217;re out at the pub drinking beer reading our ExpressionEngine blog from your iPhone, here is the top news from this week as supplied in our forums. Are you jealous? Want to appear here as well? <a href="http://expressionengine.com/forums/viewthread/187756/">Let me know</a>!</p>
+
+<p><strong>Add-Ons</strong><br />
+<a href="http://gwcode.com/add-ons/gwcode-categories">GWcode Categories 1.2.0</a> is launched by Leon. He says, it&#8217;s a &#8220;huge update with lots of new functionality, including the possibility to get a category’s child categories or parent categories.&#8221;</p>
+
+<p>Jesse, from Paramore|Redd released <a href="http://devot-ee.com/add-ons/automin/">Auto-Min</a>, a handy script that combines and compresses your CSS and JavaScript, outputting the result in a single, fully-customizable HTML tag.</p>
+
+<p><a href="http://pascalkriete.com">Pascal</a>, <a href="http://www.gregaker.net">Greg</a> and <a href="http://marcusneto.com">Marcus</a> released Version 1 of <a href="http://pkg.io">pkg.io</a>, the little package maker for ExpressionEngine addons that could.</p>
+
+<p>Pixel and Tonic released <a href="http://pixelandtonic.com/wygwam/releasenotes">Wygwam 2.3</a>, <a href="http://pixelandtonic.com/playa/releasenotes">Playa 4.0.5</a>, and <a href="http://pixelandtonic.com/matrix/releasenotes">Matrix 2.2.1</a> this week.</p>
+
+<p>Solspace released Rating 3.0, which now works with EE 2.x and EE 1.x, and also includes a Code Pack (sample templates). Blog post here: <a href="http://solsp.ac/e0fd">http://solsp.ac/e0fd</a>.</p>
+
+<p>EEHarbor released version 1.1.1 of the Polls module ( <a href="http://eeharbor.com/polls">http://eeharbor.com/polls</a> ) and earlier in the month they launched the new version of their site as well <a href="http://eeharbor.com/">http://eeharbor.com/</a>.</p>
+
+<p>DevDemon released <a href="http://www.devdemon.com/hits/">Hits 2.2</a>. which enables you to track hits/popularity on Channel Entries/Images/Files/Video/Brilliant Retail and much more.</p>
+
+<p>Nicolas released Zenbu 1.2.1. More display options, more search options, better entry list ordering, and too much to list here: <a href="http://nicolasbottari.com/expressionengine_cms/changelog/zenbu/">http://nicolasbottari.com/expressionengine_cms/changelog/zenbu/</a>, <a href="http://devot-ee.com/add-ons/zenbu/">http://devot-ee.com/add-ons/zenbu/</a>.</p>
+
+<p><strong>Events</strong><br />
+<a href="http://www.train-ee.com/courseware/classroom/detail/expressionengine-the-san-francisco-delicacy/">Train-EE training in June in San Francisco</a>.</p>
+
+<p>There was also a small informal EE get-together on Wednesday in Shinjuku, Tokyo, Japan. The group has hopes of building a structured EE community in Japan. For now, users can join the fun at the &#8220;Japanese ExpressionEngine study group&#8221; on Google Groups: <a href="http://groups.google.com/group/eeuj/">http://groups.google.com/group/eeuj/</a> (in Japanese)</p>
+
+<p><strong>Announcements from the Community</strong><br />
+<a href="http://percipio.me/">Percipio</a> launches a new site for their team full of ExpressionEngine websites.</p>
+
+<p><a href="http://mijingo.com/products/screencasts/playa-relationships-expressionengine/">New screencast from Mijingo on using everyone’s favorite add-on: Playa.</a> We also added &#8220;Team Packs&#8221; for our Learning ExpressionEngine 2 series so you can share the videos among co-workers. </p>
+
+<p><strong>Announcements from EllisLab</strong><br />
+We officially welcome Kevin Smith starting Monday as our new full time technical support specialist! You&#8217;ll be seeing him show up on the forums to answer questions as well as in your sales emails. We&#8217;re happy to have you aboard, Kevin!</p>
+
+<p><strong>Articles from our blog</strong><br />
+<a href="http://expressionengine.com/blog/entry/renaming_the_codeshare_corner_to_community_help/">Renaming the CodeShare corner to Community Help</a>.<br />
+<a href="http://expressionengine.com/blog/entry/troubleshooting_site_performance_issues/">Troubleshooting Site Performance Issues</a>.
+</p>      ";}i:9;a:9:{s:5:"title";s:47:"Renaming the CodeShare Corner to Community Help";s:4:"link";s:87:"http://expressionengine.com/blog/entry/renaming_the_codeshare_corner_to_community_help/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15717";s:9:"published";s:20:"2011-04-29T18:17:17Z";s:7:"updated";s:20:"2011-04-29T18:21:18Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:9:"Lisa Wess";s:10:"author_uri";s:23:"http://www.lisajill.net";s:12:"atom_content";s:1273:"
+        <p>Hello to our wonderful community.&nbsp; It has been too long since I wrote.</p>
+
+<p>The community that has sprung up around EllisLab is, in a word, inspiring.&nbsp; I love our community, and I know that you guys do, too.</p>
+
+<p>In honor of that, we are pleased to introduce to you the <strong>Community Help</strong> forum.&nbsp; It is the go-to place for finding help and sharing your ideas for implementing, customizing, and brainstorming how to execute your vision with ExpressionEngine.</p>
+
+<p>We actually had this in place already, but you&#8217;ve told us that the name was confusing, making it difficult to tell where the appropriate location was for community inspired help.&nbsp; &#8220;CodeShare Corner&#8221; has thus been renamed, and redecorated with a new description:</p>
+
+<blockquote><p>
+Share EE ideas, post clever tips and tricks, explore potential solutions, and work together to help each other succeed.</p>
+
+<p>Please read <a href="http://expressionengine.com/forums/viewannounce/160514_114/">Community Help Guidelines</a> to determine if this is the correct place for your post.
+</p></blockquote><p> </p>
+
+<p>So head on over to Community Help to find assistance or help others.</p>
+
+<p>See you all in the forums!</p>
+
+<p>-Lisa
+</p>      ";}i:10;a:9:{s:5:"title";s:39:"Troubleshooting Site Performance Issues";s:4:"link";s:79:"http://expressionengine.com/blog/entry/troubleshooting_site_performance_issues/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15706";s:9:"published";s:20:"2011-04-28T19:47:22Z";s:7:"updated";s:20:"2011-04-29T00:04:23Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:9:"Greg Aker";s:10:"author_uri";s:23:"http://www.gregaker.net";s:12:"atom_content";s:49450:"
+        <p>I love a good challenge. Aside from teaching others how to succeed and surpass my knowledge, scalability and performance is probably what I&#8217;m most passionate about.&nbsp; During my time with EllisLab I&#8217;ve had the fortune to work with developers of some of the largest ExpressionEngine-based websites. And sometimes even the best of developer runs into performance issues.&nbsp; The more I help people with their performance issues the more I notice it&#8217;s the same few things causing performance issues.&nbsp; The following is an outline of how I like to approach troubleshooting, along with some tips and tricks to consider as you are developing and deploying your ExpressionEngine-based websites.</p>
+
+<p>I realize this is really long, and there&#8217;s a ton to digest.&nbsp; We&#8217;ll be creating a new section in the ExpressionEngine <a href="http://expressionengine.com/user_guide">User Guide</a> where these tips are broken apart for easier consumption.</p>
+
+<h2>Output Profiler</h2>
+
+<p>The output profiler and template debugging options in ExpressionEngine are, in my opinion one of the most powerful features we have at our disposal.&nbsp; Everything you need to diagnose performance issues is right there in your browser. You don&#8217;t need to be a sysadmin or know a thing about how your web server works in order to see what&#8217;s going on. In fact, as a sysadmin I rarely, if ever shell into a system while troubleshooting because you could never get this information from the webservers. However, I do highly recommend everyone have some sysadmin-foo, just so you understand the tireless work they perform.</p>
+
+<p>The Super Admin should make it a habit to never turn off Display Output Profiler and Display Template Debugging. These tools provide a wealth of information on what exactly ExpressionEngine is doing to render the page.&nbsp; </p>
+
+<p>In ExpressionEngine 2.x, the Output Profiler displays query times along with the queries being executed.&nbsp; With proper MySQL caches and buffers in place, an ideal query time should be sub 0.02 seconds on channel entries queries, however most should typically be sub 0.00 seconds.&nbsp; Carefully study query times.&nbsp; </p>
+
+<p>Template Debugging shows the amount of time it takes to process a template, as well as the total processing time, and memory usage.&nbsp; Here, look for unusually large jumps in time.&nbsp; If you see a large jump or spike this is a bottle neck, and you should review your templates to see if you can alleviate it.</p>
+
+<h2>Templates</h2>
+
+<p>Templates are where most performance issues start.&nbsp; Since ExpressionEngine provides the developer with near infinite control over the display of their markup and code, the possibilities are endless.&nbsp; When developing your ExpressionEngine-based websites with template debugging and Show MySQL queries on, please keep the following in mind.</p>
+
+<h3>Nesting Tags</h3>
+
+<p>As a general rule, never nest tags such as the channel tag within a channel tag, or a channel tag within a categories tag.&nbsp; The inner tag will be run and parsed on every iteration through the outer tag, and depending on the number of results returned from the outer tag, queries can add up in a hurry.&nbsp; </p>
+
+<h3>Advanced Conditionals</h3>
+
+<p>Placing &#8216;heavy duty&#8217; tags such as channel entries/categories tags within advanced conditionals will lead to unnecessary overhead on both the web server and database server.&nbsp; As per ExpressionEngine&#8217;s Template Engine&#8217;s <a href="http://expressionengine.com/wiki/Parse_Order/">Parse Order</a>, Advanced Conditionals are among the last things parsed.&nbsp; This means tags such as channel/categories entries on the templates are fully parsed and removed from the final template at the last moment.</p>
+
+<p>If you find yourself with a template like:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #0000BB">&#123;if&nbsp;segment_2&nbsp;</span><span style="color: #007700">==&nbsp;</span><span style="color: #DD0000">'test'</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"test"</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #FF8000">//&nbsp;Code&nbsp;here<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br />&#123;if</span><span style="color: #007700">:elseif&nbsp;</span><span style="color: #0000BB">segment_2&nbsp;</span><span style="color: #007700">==&nbsp;</span><span style="color: #DD0000">'another'</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"another"</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #FF8000">//&nbsp;Code&nbsp;here<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br />&#123;if</span><span style="color: #007700">:</span><span style="color: #0000BB">else&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"site"</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #FF8000">//&nbsp;Code&nbsp;here<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br />&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">if&#125;&nbsp;</span>
+</span>
+</code></div>
+
+<p>It is recommended to refactor the template as follows:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #0000BB">&#123;if&nbsp;segment_2&nbsp;</span><span style="color: #007700">==&nbsp;</span><span style="color: #DD0000">'test'</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"test"</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #FF8000">//&nbsp;Code&nbsp;here<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br />&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">if&#125;<br />&#123;if&nbsp;segment_2&nbsp;</span><span style="color: #007700">==&nbsp;</span><span style="color: #DD0000">'another'</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"another"</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #FF8000">//&nbsp;Code&nbsp;here<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br />&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">if&#125;<br />&#123;if&nbsp;segment_2&nbsp;</span><span style="color: #007700">!=&nbsp;</span><span style="color: #DD0000">'test'&nbsp;</span><span style="color: #007700">&amp;&amp;&nbsp;</span><span style="color: #0000BB">segment_2&nbsp;</span><span style="color: #007700">!=&nbsp;</span><span style="color: #DD0000">'another'</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"site"</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #FF8000">//&nbsp;Code&nbsp;here<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br />&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">if&#125;&nbsp;</span>
+</span>
+</code></div>
+
+<h3>disable=&#8217;&#8217; Parameter</h3>
+
+<p>The disable=&#8221;&#8221; parameter is extremely important and should be used on every channel:entries tag where applicable.&nbsp; If final rendering includes no member_data, disable it.&nbsp; The same goes for the other options.&nbsp; In addition to rendering the variables useless, it will reduce the number of MySQL tables needed to be JOINed on to provide the data the tag requires.&nbsp; This will help to cut down on the MySQL server CPU Load and Memory Usage.</p>
+
+<h3>Using Embeds Wisely</h3>
+
+<p>Embedded templates are a wonderful way to abstract your templates and keep your development DRY.&nbsp; I have noticed that they tend to be overused.&nbsp; Each embed requires a query and an iteration through the ExpressionEngine Template Parser, which leads to overhead.&nbsp; So what&#8217;s important here is to use the right tool for the right job.&nbsp; In addition to embedded templates, you have Global Variables and Snippets in your arsenal.&nbsp; Fresh Variables are distributed as a first-party addon for ExpressionEngine 1.x, and were incorporated into ExpressionEngine 2 Core as Snippets.&nbsp; Snippets can contain any number of ExpressionEngine tags and are added to the template early in the parse order, along with Global Variables.</p>
+
+<p>As a general rule, if you have an embed that contains static HTML such as Google Analytics Code, or pieces of your HTML header, drop them in a global variable.&nbsp; If you have a sidebar on every page that doesn&#8217;t change depending on the URI, drop that code in a snippet.&nbsp; If you have a chunk of code that relies on dynamic, per-template variables or need a small bit of PHP executed in your template, an embed is a fantastic choice.</p>
+
+<p>For instance, we can slice up a template like:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #007700">&lt;!</span><span style="color: #0000BB">DOCTYPE&nbsp;html</span><span style="color: #007700">&gt;<br />&lt;</span><span style="color: #0000BB">html&nbsp;lang</span><span style="color: #007700">=</span><span style="color: #DD0000">"en"</span><span style="color: #007700">&gt;<br />&lt;</span><span style="color: #0000BB">head</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #0000BB">meta&nbsp;charset</span><span style="color: #007700">=</span><span style="color: #DD0000">"utf-8"</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #0000BB">link&nbsp;rel</span><span style="color: #007700">=</span><span style="color: #DD0000">"stylesheet"&nbsp;</span><span style="color: #0000BB">href</span><span style="color: #007700">=</span><span style="color: #DD0000">"&#123;stylesheet=master/css&#125;"&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">type</span><span style="color: #007700">=</span><span style="color: #DD0000">"text/css"&nbsp;</span><span style="color: #0000BB">charset</span><span style="color: #007700">=</span><span style="color: #DD0000">"utf-8"</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #0000BB">title</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;if&nbsp;segment_2&nbsp;</span><span style="color: #007700">==&nbsp;</span><span style="color: #DD0000">'article'</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;disable</span><span style="color: #007700">=</span><span style="color: #DD0000">"pagination|member_data|categories"</span><span style="color: #0000BB">&#125;&#123;title&#125;&nbsp;</span><span style="color: #007700">|&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">if&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;My&nbsp;Awesome&nbsp;Blog<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">title</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&lt;/</span><span style="color: #0000BB">head</span><span style="color: #007700">&gt;<br />&lt;</span><span style="color: #0000BB">body</span><span style="color: #007700">&gt;<br /></span><span style="color: #0000BB">&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"news"&nbsp;</span><span style="color: #0000BB">disable</span><span style="color: #007700">=</span><span style="color: #DD0000">"member_data"&nbsp;</span><span style="color: #0000BB">limit</span><span style="color: #007700">=</span><span style="color: #DD0000">"10"</span><span style="color: #0000BB">&#125;<br /></span><span style="color: #007700">&lt;</span><span style="color: #0000BB">article</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #0000BB">h1</span><span style="color: #007700">&gt;</span><span style="color: #0000BB">&#123;title&#125;</span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">h1</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;body&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">&lt;</span><span style="color: #0000BB">p</span><span style="color: #007700">&gt;&lt;</span><span style="color: #0000BB">a&nbsp;href</span><span style="color: #007700">=</span><span style="color: #DD0000">"&#123;url_title_path=news/article&#125;"&nbsp;</span><span style="color: #0000BB">title</span><span style="color: #007700">=</span><span style="color: #DD0000">"&#123;title&#125;"</span><span style="color: #007700">&gt;</span><span style="color: #0000BB">Read&nbsp;More</span><span style="color: #007700">&amp;</span><span style="color: #0000BB">hellip</span><span style="color: #007700">;&lt;/</span><span style="color: #0000BB">a</span><span style="color: #007700">&gt;&lt;/</span><span style="color: #0000BB">p</span><span style="color: #007700">&gt;<br />&lt;/</span><span style="color: #0000BB">article</span><span style="color: #007700">&gt;<br /></span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br /><br /></span><span style="color: #007700">&lt;</span><span style="color: #0000BB">aside</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #0000BB">h3</span><span style="color: #007700">&gt;</span><span style="color: #0000BB">Categories</span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">h3</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">categories&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"news"&nbsp;</span><span style="color: #0000BB">style</span><span style="color: #007700">=</span><span style="color: #DD0000">"linear"</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">&lt;</span><span style="color: #0000BB">a&nbsp;href</span><span style="color: #007700">=</span><span style="color: #DD0000">"&#123;path='news/archives'&#125;"</span><span style="color: #007700">&gt;</span><span style="color: #0000BB">&#123;category_name&#125;</span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">a</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">categories&#125;<br /></span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">aside</span><span style="color: #007700">&gt;<br /><br /></span><span style="color: #FF8000">//&nbsp;Google&nbsp;analytics&nbsp;and&nbsp;Mint&nbsp;tracking&nbsp;code&nbsp;here<br /><br /></span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">body</span><span style="color: #007700">&gt;<br />&lt;/</span><span style="color: #0000BB">html</span><span style="color: #007700">&gt;&nbsp;</span>
+</span>
+</code></div>
+
+<p>Into the following:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #0000BB">&#123;html_top&#125;&nbsp;&nbsp;&nbsp;&nbsp;&#123;</span><span style="color: #007700">!--&nbsp;Global&nbsp;</span><span style="color: #0000BB">Variable&nbsp;</span><span style="color: #007700">--</span><span style="color: #0000BB">&#125;<br /><br />&#123;html_meta&#125;&nbsp;&#123;</span><span style="color: #007700">!--&nbsp;</span><span style="color: #0000BB">Snippet&nbsp;containing&nbsp;title</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">link</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">meta&nbsp;tags&nbsp;</span><span style="color: #007700">--</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /></span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">head</span><span style="color: #007700">&gt;<br />&lt;</span><span style="color: #0000BB">body</span><span style="color: #007700">&gt;<br /></span><span style="color: #0000BB">&#123;exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&nbsp;channel</span><span style="color: #007700">=</span><span style="color: #DD0000">"news"&nbsp;</span><span style="color: #0000BB">disable</span><span style="color: #007700">=</span><span style="color: #DD0000">"member_data"&nbsp;</span><span style="color: #0000BB">limit</span><span style="color: #007700">=</span><span style="color: #DD0000">"10"</span><span style="color: #0000BB">&#125;<br /></span><span style="color: #007700">&lt;</span><span style="color: #0000BB">article</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #0000BB">h1</span><span style="color: #007700">&gt;</span><span style="color: #0000BB">&#123;title&#125;</span><span style="color: #007700">&lt;/</span><span style="color: #0000BB">h1</span><span style="color: #007700">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;body&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">&lt;</span><span style="color: #0000BB">p</span><span style="color: #007700">&gt;&lt;</span><span style="color: #0000BB">a&nbsp;href</span><span style="color: #007700">=</span><span style="color: #DD0000">"&#123;url_title_path=news/article&#125;"&nbsp;</span><span style="color: #0000BB">title</span><span style="color: #007700">=</span><span style="color: #DD0000">"&#123;title&#125;"</span><span style="color: #007700">&gt;</span><span style="color: #0000BB">Read&nbsp;More</span><span style="color: #007700">&amp;</span><span style="color: #0000BB">hellip</span><span style="color: #007700">;&lt;/</span><span style="color: #0000BB">a</span><span style="color: #007700">&gt;&lt;/</span><span style="color: #0000BB">p</span><span style="color: #007700">&gt;<br />&lt;/</span><span style="color: #0000BB">article</span><span style="color: #007700">&gt;<br /></span><span style="color: #0000BB">&#123;</span><span style="color: #007700">/</span><span style="color: #0000BB">exp</span><span style="color: #007700">:</span><span style="color: #0000BB">channel</span><span style="color: #007700">:</span><span style="color: #0000BB">entries&#125;<br /><br />&#123;sidebar&#125;<br /><br />&#123;footer&#125;&nbsp;&nbsp;&nbsp;&nbsp;&#123;</span><span style="color: #007700">!--&nbsp;Global&nbsp;</span><span style="color: #0000BB">Variable&nbsp;with&nbsp;analytics&nbsp;code&nbsp;</span><span style="color: #007700">and&nbsp;</span><span style="color: #0000BB">ending&nbsp;body</span><span style="color: #007700">/</span><span style="color: #0000BB">html&nbsp;tags&nbsp;</span><span style="color: #007700">--</span><span style="color: #0000BB">&#125;&nbsp;</span>
+</span>
+</code></div>
+
+<p>And there we have a beautiful template with all the DRY bits we want and we&#8217;re using the right tools for the right job!</p>
+
+<h3>Relationships</h3>
+
+<p>While a very important feature, one to many relationships can be taxing, regardless of the platform.&nbsp; ExpressionEngine works around this by caching the result of relationships in the exp_relationships table.&nbsp; As the size of the table grows, a performance hit can occur as relationships for that entry are recompiled.</p>
+
+<h3>PHP in templates</h3>
+
+<p>On a high traffic website, one should be very cognizant of what PHP in the templates is doing.&nbsp; Looking through Template Debugging, you will see the start/stop time of PHP processing on Input and Output.&nbsp; If you notice a disproportionately high amount of time for the processing, you can troubleshoot by inserting Template Debugging markers into your code.</p>
+
+<p>For instance:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #0000BB">&lt;?php<br /><br />$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">TMPL</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">log_item</span><span style="color: #007700">(</span><span style="color: #DD0000">'starting&nbsp;the&nbsp;query&nbsp;to&nbsp;grab&nbsp;channel&nbsp;title&nbsp;info'</span><span style="color: #007700">);<br /><br /></span><span style="color: #0000BB">$qry&nbsp;</span><span style="color: #007700">=&nbsp;</span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">db</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">select</span><span style="color: #007700">(</span><span style="color: #DD0000">'channel_id,&nbsp;url_title'</span><span style="color: #007700">)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt;</span><span style="color: #0000BB">get</span><span style="color: #007700">(</span><span style="color: #DD0000">'channel_titles'</span><span style="color: #007700">);<br /><br /></span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">TMPL</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">log_item</span><span style="color: #007700">(</span><span style="color: #DD0000">'finished&nbsp;up&nbsp;the&nbsp;query'</span><span style="color: #007700">);<br /><br />if&nbsp;(</span><span style="color: #0000BB">$qry</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">num_rows</span><span style="color: #007700">()&nbsp;&gt;&nbsp;</span><span style="color: #0000BB">0</span><span style="color: #007700">)&nbsp;<br /></span><span style="color: #0000BB">&#123;<br />&nbsp;&nbsp;&nbsp;&nbsp;$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">TMPL</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">log_item</span><span style="color: #007700">(</span><span style="color: #DD0000">'starting&nbsp;the&nbsp;loop'</span><span style="color: #007700">);<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;foreach&nbsp;(</span><span style="color: #0000BB">$query</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">result</span><span style="color: #007700">()&nbsp;as&nbsp;</span><span style="color: #0000BB">$row</span><span style="color: #007700">)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#123;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #FF8000">//&nbsp;Do&nbsp;stuff<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">&#125;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">TMPL</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">log_item</span><span style="color: #007700">(</span><span style="color: #DD0000">'Finished&nbsp;the&nbsp;loop'</span><span style="color: #007700">);<br /></span><span style="color: #0000BB">&#125;<br />?&gt;&nbsp;</span>
+</span>
+</code></div>
+
+<p>Adding the <samp>$this->EE->TMPL->log_item()</samp> calls, you will be provided with more granular information on the processing time of the PHP.&nbsp; We do, however, recommend PHP be moved to Plugins.&nbsp; This prevents accidental removal of code a front end designer may not be familiar with, which could result in PHP errors on the site.&nbsp; Additionally, you will have reusable DRY code and should see a performance boost since the PHP in your template will not be processed through the PHP <a href="http://php.net/eval">eval()</a> function. Nonetheless, take advantage of <samp>$this->EE->TMPL->log_item()</samp> while you&#8217;re building these plugins!&nbsp; </p>
+
+<h3>Addons</h3>
+
+<p>One of my favorite things about ExpressionEngine is the add-on culture.&nbsp; I do, however want to caution you.&nbsp; Be very judicious in exactly when you decide to use an add-on.&nbsp; An add-on, extra module, extension, etc can add overhead to every page load.&nbsp; If you&#8217;re not using an extension, module or fieldtype, uninstall it.&nbsp; Keep your add-ons up to date.&nbsp; If you notice a performance issue an add-on introduces to your site, work with the add-on developer to get it fixed.&nbsp; If you have PHP chops, try troubleshooting it yourself, and send a patch back to the original author.&nbsp; </p>
+
+<p>When choosing add-ons, I caution you to not jump to install it just because you see a link on Twitter, BitBucket or GitHub.&nbsp; Look at the developers history.&nbsp; Do they work well with website developers to ensure bugs get fixed?&nbsp; If you know PHP, do a code review of the add-on to ensure it lives up to your high standards.&nbsp; I&#8217;m thankful we haven&#8217;t seen it in our community, but an add-on could be released with malicious code which could compromise your application.</p>
+
+<p>I&#8217;m by no means saying there isn&#8217;t a wealth of amazing developers producing extremely high quality add-ons for ExpressionEngine out there.&nbsp; Moral of the story is, do your homework first.</p>
+
+<h2>Server Tuning</h2>
+
+<p>ExpressionEngine can run on a wide variety of hosting configurations and setups.&nbsp; We strive to make it compatible in the worst and the best of hosting situations.&nbsp; If you are self-hosting, there are a few things to remember.</p>
+
+<p>As you scale, jumping to a single server to handle all of your web and database traffic is usually the wrong move.&nbsp; If you have MySQL and your web server of choice properly configured, they will be constantly competing for resources when they are on the same box.&nbsp; The key here is resource distribution, and your first step should always be to move to using a separate database server.&nbsp; </p>
+
+<h3>MySQL</h3>
+
+<p>ExpressionEngine is setup to run using MyISAM.&nbsp; In general, it is not recommended to mix MyISAM and InnoDB on the same database, as they would be sharing resources for cache and buffers.&nbsp; </p>
+
+<h3>Web Servers</h3>
+
+<p>Apache is our web server of choice, although a lot can be said for running Nginx with PHP-FPM or PHP-FastCGI if you are running a small VPS where resources are limited.&nbsp; </p>
+
+<p>As your website grows, the first step to scaling should be moving your database to a stand-alone database server.&nbsp; From there, load-balancing front end web servers is next.&nbsp; We highly discourage separate installations of ExpressionEngine per web server, so NFS (Network File Storage) should be used to house a single installation that can be seen by each of your web servers.&nbsp; </p>
+
+<p>If you find yourself out growing that, the next step is to move to a dedicated &#8220;static assets&#8221; server, and I highly recommend <a href="http://wiki.nginx.org/">Nginx</a> to do this job.&nbsp; Nginx is small, sleek and serves static files lightning fast.&nbsp; This will free up resources on the Apache servers to do what it does best, serve your PHP.&nbsp; Again, using central NFS storage makes this transition extremely easy, as you simply mount a drive, configure Nginx, change a few settings in EE to serve from a new subdomain, and you&#8217;re off to the races.</p>
+
+<p>At this point, if your visitors are having slow download times getting static resources, I recommend moving to a global Content Delivery Network.&nbsp; There are two kinds.&nbsp; One that reverse-proxies to your file server and then caches the files on their distributed nodes, or one where you need to upload the files to a third-party service such as Amazon&#8217;s Cloud Front, or Rackspace Cloud Files.&nbsp; For me personally, I find the former easier to manage.</p>
+
+<h2>Static Resources</h2>
+
+<p>A much lesser concern, however a perfectly valid one is ensuring your templates are valid HTML, and you are not making requests to resources that do not exist (404s).&nbsp; Moving Javascript loading to just above the closing body tag is recommended by Google Page Speed and Y-Slow.&nbsp; Sending far-future expires headers on all static assets is a good idea as well.&nbsp; It is also recommend to use CSS Sprites and combine &amp; compress CSS and Javascript when possible.<br />
+&nbsp;   <br />
+The reason I say this is a lesser concern is most performance issues start with high database usage.&nbsp; When rendered templates have a low number of queries, and CPU/Memory Resource usage on the DB server is at an acceptable level, this is the next step to troubleshoot.&nbsp;  &nbsp;  </p>
+
+<p>Care should be taken to ensure it will be easy to offload your requests to a Content Delivery Network (CDN) if needed.&nbsp; So I recommend keeping all static resources in a single directory eg: &#8220;/static/&#8221; or &#8220;/media/&#8221;<br />
+&nbsp;   
+</p><h2>Load Balanced Web Servers and Caching</h2>
+
+<p>Caching in ExpressionEngine utilizes flat files that are written to a cache directory.&nbsp; This works very well when running on a singular machine, however when moving to running ExpressionEngine in a load balanced setup with centralized NFS storage, we do discourage overly aggressive tag and database caching.&nbsp; Your database server should be adequately tuned to be serving as many query results from memory as possible.&nbsp; This operation is faster than reading a cache file and transferring the contents of said file over the network to the web servers so PHP can manipulate it as needed.</p>
+
+<p>Additionally, be judicious with how often you use tag caching.&nbsp; When the cache clears, you can run into performance issues when the tag caching directory needs to be cleared.&nbsp; There are extremely smart and elegant ways to use tag caching, such as caching a REST call that appears on a single page, or adding quick caching on a particularly heavy single usage plugin you have written.&nbsp; However, I advise against using it many times on every page.</p>
+
+<h2>Benchmarking</h2>
+
+<p>If you are developing locally, while paying attention to your output profiler and Template Debugging, it is recommended to benchmark as you make changes to your templates.&nbsp; The best ways to do this are using <a href="http://joedog.org/index/siege-manual">Siege</a> or <a href="http://httpd.apache.org/docs/2.0/programs/ab.html">Apache Benchmark</a>. </p>
+
+<p>Siege is easily available to Mac users by installing it with <a href="https://github.com/mxcl/homebrew/">Homebrew</a> and &#8220;ab&#8221; comes standard on every Mac with the built in Apache installation.</p>
+
+<p>Example usage of Siege:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #0000BB">siege&nbsp;</span><span style="color: #007700">-</span><span style="color: #0000BB">c&nbsp;3&nbsp;</span><span style="color: #007700">-</span><span style="color: #0000BB">b&nbsp;</span><span style="color: #007700">-</span><span style="color: #0000BB">t&nbsp;10s&nbsp;http</span><span style="color: #007700">:</span><span style="color: #FF8000">//example.com/index.php/test<br /><br /></span><span style="color: #0000BB">Lifting&nbsp;the&nbsp;server&nbsp;siege</span><span style="color: #007700">...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">done</span><span style="color: #007700">.<br /></span><span style="color: #0000BB">Transactions</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">540&nbsp;hits<br />Availability</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">100.00&nbsp;</span><span style="color: #007700">%<br /></span><span style="color: #0000BB">Elapsed&nbsp;time</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">9.60&nbsp;secs<br />Data&nbsp;transferred</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0.04&nbsp;MB<br />Response&nbsp;time</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0.05&nbsp;secs<br />Transaction&nbsp;rate</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">56.25&nbsp;trans</span><span style="color: #007700">/</span><span style="color: #0000BB">sec<br />Throughput</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0.00&nbsp;MB</span><span style="color: #007700">/</span><span style="color: #0000BB">sec<br />Concurrency</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">2.98<br />Successful&nbsp;transactions</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">540<br />Failed&nbsp;transactions</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0<br />Longest&nbsp;transaction</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0.12<br />Shortest&nbsp;transaction</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0.04&nbsp;</span>
+</span>
+</code></div>
+
+<p>So you can see a total of 540 hits in a little less than 10 seconds.&nbsp; Additionally, you can see we are doing 56.25 transactions a second.</p>
+
+<p>Example Usage of Apache Bench:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #007700">&gt;&nbsp;</span><span style="color: #0000BB">ab&nbsp;</span><span style="color: #007700">-</span><span style="color: #0000BB">n&nbsp;1000&nbsp;</span><span style="color: #007700">-</span><span style="color: #0000BB">c&nbsp;3&nbsp;http</span><span style="color: #007700">:</span><span style="color: #FF8000">//example.com/index.php/test<br /><br /></span><span style="color: #0000BB">This&nbsp;is&nbsp;ApacheBench</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">Version&nbsp;2.3&nbsp;</span><span style="color: #007700">&lt;</span><span style="color: #0000BB">$Revision</span><span style="color: #007700">:&nbsp;</span><span style="color: #0000BB">655654&nbsp;</span><span style="color: #007700">$&gt;<br /></span><span style="color: #0000BB">Copyright&nbsp;1996&nbsp;Adam&nbsp;Twiss</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">Zeus&nbsp;Technology&nbsp;Ltd</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">http</span><span style="color: #007700">:</span><span style="color: #FF8000">//www.zeustech.net/<br /></span><span style="color: #0000BB">Licensed&nbsp;to&nbsp;The&nbsp;Apache&nbsp;Software&nbsp;Foundation</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">http</span><span style="color: #007700">:</span><span style="color: #FF8000">//www.apache.org/<br /><br /></span><span style="color: #0000BB">Benchmarking&nbsp;example</span><span style="color: #007700">.</span><span style="color: #0000BB">com&nbsp;</span><span style="color: #007700">(</span><span style="color: #0000BB">be&nbsp;patient</span><span style="color: #007700">)<br /></span><span style="color: #0000BB">Completed&nbsp;100&nbsp;requests<br />Completed&nbsp;200&nbsp;requests<br />Completed&nbsp;300&nbsp;requests<br />Completed&nbsp;400&nbsp;requests<br />Completed&nbsp;500&nbsp;requests<br />Completed&nbsp;600&nbsp;requests<br />Completed&nbsp;700&nbsp;requests<br />Completed&nbsp;800&nbsp;requests<br />Completed&nbsp;900&nbsp;requests<br />Completed&nbsp;1000&nbsp;requests<br />Finished&nbsp;1000&nbsp;requests<br /><br /><br />Server&nbsp;Software</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">nginx</span><span style="color: #007700">/</span><span style="color: #0000BB">0.8.53<br />Server&nbsp;Hostname</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">example</span><span style="color: #007700">.</span><span style="color: #0000BB">com<br />Server&nbsp;Port</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">80<br /><br />Document&nbsp;Path</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/</span><span style="color: #0000BB">index</span><span style="color: #007700">.</span><span style="color: #0000BB">php</span><span style="color: #007700">/</span><span style="color: #0000BB">test</span><span style="color: #007700">/<br /></span><span style="color: #0000BB">Document&nbsp;Length</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">117&nbsp;bytes<br /><br />Concurrency&nbsp;Level</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">3<br />Time&nbsp;taken&nbsp;</span><span style="color: #007700">for&nbsp;</span><span style="color: #0000BB">tests</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">16.253&nbsp;seconds<br />Complete&nbsp;requests</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">1000<br />Failed&nbsp;requests</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0<br />Write&nbsp;errors</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0<br />Total&nbsp;transferred</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">634000&nbsp;bytes<br />HTML&nbsp;transferred</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">117000&nbsp;bytes<br />Requests&nbsp;per&nbsp;second</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">61.53&nbsp;&#91;</span><span style="color: #FF8000">#/sec&#93;&nbsp;(mean)<br /></span><span style="color: #0000BB">Time&nbsp;per&nbsp;request</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">48.760&nbsp;&#91;ms&#93;&nbsp;</span><span style="color: #007700">(</span><span style="color: #0000BB">mean</span><span style="color: #007700">)<br /></span><span style="color: #0000BB">Time&nbsp;per&nbsp;request</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">16.253&nbsp;&#91;ms&#93;&nbsp;</span><span style="color: #007700">(</span><span style="color: #0000BB">mean</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">across&nbsp;all&nbsp;concurrent&nbsp;requests</span><span style="color: #007700">)<br /></span><span style="color: #0000BB">Transfer&nbsp;rate</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">38.09&nbsp;&#91;Kbytes</span><span style="color: #007700">/</span><span style="color: #0000BB">sec&#93;&nbsp;received<br /><br />Connection&nbsp;Times&nbsp;</span><span style="color: #007700">(</span><span style="color: #0000BB">ms</span><span style="color: #007700">)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">min&nbsp;&nbsp;mean&#91;</span><span style="color: #007700">+/-</span><span style="color: #0000BB">sd&#93;&nbsp;median&nbsp;&nbsp;&nbsp;max<br />Connect</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">0&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br />Processing</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">39&nbsp;&nbsp;&nbsp;49&nbsp;&nbsp;&nbsp;3.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;49&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;66<br />Waiting</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">39&nbsp;&nbsp;&nbsp;49&nbsp;&nbsp;&nbsp;3.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;48&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;66<br />Total</span><span style="color: #007700">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">39&nbsp;&nbsp;&nbsp;49&nbsp;&nbsp;&nbsp;3.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;49&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;66<br /><br />Percentage&nbsp;of&nbsp;the&nbsp;requests&nbsp;served&nbsp;within&nbsp;a&nbsp;certain&nbsp;time&nbsp;</span><span style="color: #007700">(</span><span style="color: #0000BB">ms</span><span style="color: #007700">)<br />&nbsp;&nbsp;</span><span style="color: #0000BB">50</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">49<br />&nbsp;&nbsp;66</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">50<br />&nbsp;&nbsp;75</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">51<br />&nbsp;&nbsp;80</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">52<br />&nbsp;&nbsp;90</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">53<br />&nbsp;&nbsp;95</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">55<br />&nbsp;&nbsp;98</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">57<br />&nbsp;&nbsp;99</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">58<br />&nbsp;100</span><span style="color: #007700">%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #0000BB">66&nbsp;</span><span style="color: #007700">(</span><span style="color: #0000BB">longest&nbsp;request</span><span style="color: #007700">)&nbsp;</span>
+</span>
+</code></div>
+
+<p>Given this output, we can see 1,000 requests took approximately 16 seconds and approximately 51.63 requests/second.&nbsp; As you make changes, continue to benchmark, you will easily be able to see if template code is causing performance issues if there is a fluctuation in those numbers.</p>
+
+<h2>What we (EllisLab) are doing to make EE better</h2>
+
+<p>As a member of the EllisLab Dev Team, I can say we are constantly striving to tweak and optimize ExpressionEngine so it can take even more.&nbsp; As our fearless leader Leslie Camacho has stated, we&#8217;ve broken the dev team into two separate teams.&nbsp; A feature team, and a core team.&nbsp; </p>
+
+<h2>Enterprise Services</h2>
+
+<p>EllisLab is rolling out Enterprise Services to help developers of large, high-traffic websites with problems such as these.&nbsp; If you want to take advantage of this, please contact </p>
+
+<h2>Conclusion</h2>
+
+<p>I hope this gives you a bit of insight on what I do when troubleshooting ExpressionEngine-based websites having performance issues.&nbsp; If you&#8217;re having these problems and they are because of a sudden traffic influx, congrats.&nbsp; You&#8217;re having issues the vast majority of developers can only dream about.&nbsp; </p>
+
+<p>So do it.&nbsp; Roll up those sleeves, put your thinking cap on, and fix it up!
+</p>      ";}i:11;a:9:{s:5:"title";s:26:"Round Up Post: April 22nd.";s:4:"link";s:64:"http://expressionengine.com/blog/entry/round_up_post_april_22nd/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15677";s:9:"published";s:20:"2011-04-22T17:52:25Z";s:7:"updated";s:20:"2011-04-22T18:02:26Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:14:"Leslie Doherty";s:10:"author_uri";s:19:"http://ellislab.com";s:12:"atom_content";s:3982:"
+        <p>Another great, productive week in the #eecms community. I&#8217;ve seen your tweets of addons, website launches and publications but sometimes miss things so please be sure <a href="http://expressionengine.com/forums/viewthread/187160/">to let me know</a> if you&#8217;re up to something awesome. </p>
+
+<p>Here in no particular order are The Awesome from the community this week.</p>
+
+<p><strong>Add-Ons</strong><br />
+<a href="https://github.com/erskinedesign/ed.language_switcher.ee_addon">EE2 language switcher extension</a> by Erskine.<br />
+<a href="http://devot-ee.com/add-ons/zoo-triggers/">Zoo Triggers</a> is the add-on that fills the gap between Structure and &#8216;categories and archives&#8217;. By ExpressionEngine Zoo.<br />
+<a href="http://www.theadman.net/">The Adman: A banner module for ExpressionEngine</a> by Hippo.<br />
+<a href="http://devot-ee.com/add-ons/tubee/">TubeEE</a> for embeding or linking to video on YouTube, Vimeo or Dailymotion by Charlie Hawker.<br />
+<a href="http://www.devdemon.com/hits">Hits</a> is a robust tracking system that allows you to track visits from unique visitors to ExpressionEngine entries as well as Channel Images, Channel Videos, Channel Files, or Brilliant Retail Products. By Dev Demon.<br />
+<a href="http://devot-ee.com/add-ons/wyvern/">Wyvern</a>, <a href="http://devot-ee.com/add-ons/super-globals/">Super Globals</a>, and <a href="http://devot-ee.com/add-ons/super-globals-lite/<br />
+">Super Globals Lite</a> by Brian Litzer.<br />
+<a href="http://duktee.com/addons/image-editor">Image Editor Add-On</a> now avaible for free by Duktee.<br />
+<a href="http://ee-garage.com/nsm-twitter">NSM Twitter</a> allows you to post to twitter from your control panel by Newism. <br />
+<a href="http://devot-ee.com/add-ons/switchboard/">Switchboard</a> is a live search engine for your control panel. It includes results for your entries, addons, fields, templates and lots more. By Vaya Design.</p>
+
+<p><strong>Events</strong><br />
+<a href="http://codeigniter.com/news/press_release_cicon/">CICON tickets went on sale</a> this week.<br />
+<a href="http://eeciconf.com/">EECI NY is 75% sold out already!</a>. Get your tickets before they&#8217;re gone!</p>
+
+<p><strong>Announcements from the Community</strong><br />
+<a href="http://www.northbaywebconference.com/uploads/presentations/1302626350-9e5d5cabbe8f8dce9/ExpressionEngine.pdf">Make Your Designers and Clients Happy: User ExpressionEngine</a> by Chad Crowell is available from the NorthBay Web Conference last week.<br />
+<a href="http://natural-logic.com/blog/article/introducing-geotagger-3.0">Introducing Geotagger 3.0</a> by Natural Logic.</p>
+
+<p>There was a bit of a conversation on twitter about MultiLanguage sites. John Henry made his <a href="http://www.slideshare.net/vinnyio/multilanguage-websites-in-expressionengine">Multi-Language in EE Slides available</a>.</p>
+
+<p><strong>Announcements from EllisLab</strong><br />
+We&#8217;ve been interviewing both for the <a href="ttp://ellislab.com/blog/comments/now_hiring_practitioner_of_visual_delight">Visual Designer</a> and the Support position. It&#8217;s been wonderful to see so many talented applicants. We&#8217;re excited to move forward in these two needed areas and will look forward to announcing those new hires as soon as offers are made.</p>
+
+<p>This week we answered one of your questions from Twitter, &#8220;Why are you using Disqus?&#8221; Derek laid our our reasoning, and had a great round of involvement, <a href="http://ellislab.com/blog/comments/lets_discuss_disqus">on the EllisLab blog</a>. Thank you for being so willing to interact with us. </p>
+
+<p>Don&#8217;t forget to <a href="http://expressionengine.com/forums/viewthread/187160/">let me know</a> what sites you&#8217;re launching, what addons you&#8217;re making, what articles you&#8217;re writing or events that are coming up. I&#8217;ll include it next week!</p>
+
+<p>Go forth and keep up the Awesome.
+</p>      ";}i:12;a:9:{s:5:"title";s:50:"Introducing our newest Community Partner: Creat-EE";s:4:"link";s:89:"http://expressionengine.com/blog/entry/introducing_our_newest_community_partner_creat-ee/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15670";s:9:"published";s:20:"2011-04-21T15:31:55Z";s:7:"updated";s:20:"2011-04-21T17:49:56Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:14:"Leslie Doherty";s:10:"author_uri";s:19:"http://ellislab.com";s:12:"atom_content";s:6784:"
+        <p>We&#8217;re happy to announce a new Community Partner! <a href="http://creat-ee.com">Creat-EE</a> offers online training in ExpressionEngine. From their website, &#8220;The idea behind Creat//ee is simple: to provide professional, practical, yet affordable classes on web design in a personal, friendly, and convenient setting.&#8221;</p>
+
+<p>I had a chance to interview Jae Barclay this week to get to know him a bit more. </p>
+
+<p>&#8212;&#8212;Start Interview&#8212;&#8212;&#8212;</p>
+
+<p><strong>Can you tell me about your background? You&#8217;re a University Professor turned ExpressionEngine online trainer? How did this shift in career happen?</strong></p>
+
+<p>Sure, I got my first job way back in `96, driving 16 hours through a huge snow storm from Upstate New York to Boston. The manager hired me on the spot, but it was pretty crazy when I look back at it.</p>
+
+<p>After working at agencies in New York and Boston, I had a chance to teach at Alfred University, New York (also my alma mater).&nbsp; The incredible Fred Troller, who was the head of the program at that time, gave me the opportunity to teach. I couldn’t refuse this chance even though it was during the height of the internet boom.</p>
+
+<p>After a few amazing years teaching, I went back to New York City for several years to work on some very large projects for Agency.com, including being the Creative Director for the global Samsung.com project (30 people team, across 70 countries, many sleepless nights).</p>
+
+<p>Then in 2007 we finally decided to break out on our own, and started ejaeDesign. Actually, most of the credit goes to my wife (and boss!) Angelina, who always had the vision of us running our own studio (and starting Creat-ee as well).</p>
+
+<p>When we started our fledgling studio, we couldn’t afford the expensive CMS that we were used to. So, we did an extensive survey of all the CMS that were available at that time. It was pretty clear after a short period that ExpressionEngine was absolutely the right choice for us.</p>
+
+<p>And we really haven’t looked back since – building the site for some high profile sites like TopGear.com (designed by the uber-talented Cuban Council, under the expert guidance of <a href="http://chalkdustconsulting.com">Chalkdustconsulting.com</a>), and working with the wondeful Dominican priests at <a href="http://op-stjoseph.org">Op-stjoseph.org</a> (apparently our work caught the eyes of the Vatican, but we never heard from them.)</p>
+
+<p>Creat-ee happened because we felt we were ready to combine our two passions: EE and teaching. The agency side and the teaching side actually work really well together, and sort of feed each other. I discover new approaches while preparing for the classes, and lessons learned from actual projects become part of Creat-ee.</p>
+
+
+
+<p><strong>How do you run your courses on line?</strong></p>
+
+<p>We have anywhere from 1 to 3 courses a month. They include the CSS/XHTML class for beginners and two popular  ExpressionEngine courses: “Building Dynamic Websites with ExpressionEngine” (geared towards those new to EE), and “Advanced ExpressionEngine” course (geared towards more experienced designers, builders, and site owners.)</p>
+
+<p>We recently started to offer an 1-hour “1-on-1 Live Support and Training” class, which has been surprisingly popular with folks who already run their sites on EE.</p>
+
+<p><br />
+<strong>What types of students do you have in your courses? If you have a blend of abilities, do you find that blend is beneficial or detrimental to the learning of the class as a whole and why?</strong></p>
+
+<p>Oh boy – it really is varied! From print designers making the switch to web design, WordPress or Drupal developers jumping over to EE, in-house creative team tasked to build their next site on EE and wants a jump-start on their projects, and anywhere in between. Then there are EE site owners who’d like to learn new techniques, or even different approaches than what they’re doing now.</p>
+
+<p>It’s funny but we just talked about the fact that even after you earn a “black belt” in EE, there are always 2nd, 3rd, 4th degrees to go for. It’s like that Korean proverb that says, “if you’re walking, there’s always someone running infront of you. And if you’re running, there’s always someone flying above you.” I can tell you that we also learn new stuff practically every day, even after buildng over 30 sites on EE.</p>
+
+<p>I do think that having a “blend of abilities” cannot be anything but advantageous when learning EE. Because a great EE site is also a well designed site – not just on the front-end but on the back-end as well, in providing the absolute optimal “MX” (Managing Experience) for the end-users. It really becomes half-art and half-science, especially for more complex sites.</p>
+
+<p><br />
+<strong>What is your favorite aspect of teaching online EE courses?</strong></p>
+
+<p>There are many, but it has to be those times when you can almost hear the “aha!”s on the other side, even across the web and sometimes with their microphones turned off.</p>
+
+<p>You also develop a camaraderie as a group, and many former students are stay in touch with me and each other afterwards. That’s something that I really appreciate and am lucky to be a part of it.</p>
+
+<p><br />
+<strong>What type of classes are coming up and how often do you run these?</strong></p>
+
+<p>The next EE class is the “<a href="http://www.creat-ee.com/classes/more/building_dynamic_websites_with_expressionengine_cms">Building Dynamic Websites with ExpressionEngine</a>” course starting on May 3rd running through the 26th, followed by “<a href="http://www.creat-ee.com/classes/more/advanced_expressionengine_2.0">Advanced ExpressionEngine</a>” course from June 6th through 29th.</p>
+
+<p>Both classes runs for 4 weeks, Tuesdays and Thursdays for the “Building with EE” class and Mondays and Wednesdays for the “Advanced” class. All classes start at 7:30pm EST and runs for 90 minutes per session.</p>
+
+<p><br />
+<strong>Are there any other points you&#8217;d like to let our community know? Like what kind of chocolate you like best so Creat-EE fans can send you some?</strong></p>
+
+<p>I should send our fans chocolates! They’ve been really supportive, and the feedback has been overwhelmingly positive. We really do love working with EE and it’s great to see the community grow. And yes, #eecms Twitter hash tag is awesome and invaluable.</p>
+
+<p>&#8212;&#8212;- / Interview&#8212;&#8212;&#8212;&#8212;</p>
+
+<p>You can find out more on the <a href="http://www.creat-ee.com/">Creat-EE</a>. Check out other Community Partners on the <a href="http://expressionengine.com/community/">community page</a>!
+</p>      ";}i:13;a:9:{s:5:"title";s:35:"Friday Round Up Post: April Showers";s:4:"link";s:74:"http://expressionengine.com/blog/entry/friday_round_up_post_april_showers/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15647";s:9:"published";s:20:"2011-04-15T20:50:37Z";s:7:"updated";s:20:"2011-04-15T21:00:38Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:14:"Leslie Doherty";s:10:"author_uri";s:19:"http://ellislab.com";s:12:"atom_content";s:4013:"
+        <p>I&#8217;m sure not everyone is having bad thoughts about <a href="http://voices.washingtonpost.com/compost/2011/02/groundhog_day_2011_results_spr.html">groundhogs that lie</a>, but here in Seattle we&#8217;re anxiously counting days until the sun makes its bi-annual visit.&nbsp; Luckily I hear other <a href="http://rickellis.com">EllisLab</a> <a href="http://gregaker.net">folks</a> are enjoying <a href="http://salvator.me/">sunny</a> days and <a href="http://marcusneto.com">beaches</a>. Lucky ducks.</p>
+
+<p>With that said, here is a list of some hot topics since our last round up post. </p>
+
+<p><strong>Add-Ons</strong><br />
+<a href=" https://github.com/timkelty/wygwam_html5_video/">New HTML5 Video plugin in your Wygwam toolbar.</a><br />
+<a href="http://gist.github.com/918376">Create internal ExpressionEngine thumbnails for all those images you uploaded via FTP</a>.<br />
+<a href="http://www.vayadesign.net/code/addon/switchboard">Switchboard</a>,&nbsp; <a href="http://www.vayadesign.net/code/addon/missing_link">Missing Link</a> and <a href="http://www.vayadesign.net/code/addon/freeform_antispam">Freeform Anti-Spam</a> released by VayaCode.<br />
+<a href="http://devot-ee.com/add-ons/automin/">AutoMin</a> released by Jesse from Paramore|Redd.<br />
+<a href="https://github.com/vmichnowicz/vwm_polls">Free Beta VWM Polls</a> is available. Feedback is appreciated via <a href="http://expressionengine.com/forums/member/159549/">Elvicmic</a>.</p>
+
+<p><br />
+<strong>Articles</strong><br />
+<a href="http://moresoda.co.uk/blog/article/expressionengine-beanstalk-web-hook-addon">ExpressionEngine Beanstalk Web hook Addon</a> discussed.<br />
+<a href="http://www.pedrera.com/blog/expressionengine-on-rackspace-cloud/">Installing ExpressionEngine on a rackspace cloud</a> by Pedra.<br />
+<a href="http://www.cgstream.co.cc/50-stunning-examples-of-websites-powered-by-expression-engine/?utm_source=twitterfeed&amp;utm_medium=twitter">CG Stream announced 50 studding websites on ExpressionEngine</a>.<br />
+<a href="http://www.mayfielddigital.co.uk/blog/reviews/training-screencast-review-mijingo-expressionengine-2-ryan-irelan/">Training screencast review: Learning ExpressionEngine 2 by Ryan Irelan (Mijingo)</a>.<br />
+<a href="http://ericmillerdesign.com/blog/post/designing_the_enginehosting_control_panel">Designing the EngineHosting Control Panel.</a></p>
+
+<p><br />
+<strong>Events</strong><br />
+<a href="http://www.northbaywebconference.com/speaker/269736-chad-crowell">North Bay Web Conference</a> welcomes our #eecms community member Chad Crowell.</p>
+
+<p><br />
+<strong>Announcements from the Community</strong><br />
+<a href="http://16toads.wufoo.com/forms/state-of-the-communitee/">16 Toads Community Survey &#8220;State of the Communit-ee.&#8221;</a> Please take a few minutes to fill out the survey for Paul&#8217;s <a href="http://eeciconf.com">EECI talk</a>.<br />
+<a href="http://ericmillerdesign.com/blog/post/eric_miller_design_partners_with_solspace_for_add_on_design">Eric Miller Design Partners with Solspace for ExpressionEngine Add-On Design.</a><br />
+<a href="http://www.addonbakery.com/blog/2011/04/expressionengine-premium-themes-move-to-addonbakery/">ExpressionEngine Premium Themes move to AddonBakery</a>.</p>
+
+<p>Special Congratulations to EE websites that made it to the Webby Awards this year!<br />
+<a href="http://ericmillerdesign.com/blog/post/eric_miller_design_selected_as_official_honoree_in_2011_webby_awards">Eric Miller Design blogs a bout the honor.</a><br />
+<a href="http://www.hopstudios.com/">Hop Studios</a> has two entrances in the Webby Awards: <a href="http://www.foursquare.org/">Four Square</a> and <a href="http://www.truthdig.com/">Truth Dig</a>.</p>
+
+<p>Congrats!</p>
+
+<p><strong>Want to share?</strong><br />
+Please <a href="http://expressionengine.com/forums/viewthread/186623/">let me know what&#8217;s up</a> so I can include it in the Round Up post. No go forth and conquer the weekend and may it be dryer than mine.
+</p>      ";}i:14;a:9:{s:5:"title";s:63:"ExpressionEngine 2.1.3 and 2.1.4 beta (20110411 build) released";s:4:"link";s:101:"http://expressionengine.com/blog/entry/expressionengine_2.1.3_and_2.1.4_beta_20110411_build_released/";s:2:"id";s:43:"tag:expressionengine.com,2011:blog/12.15626";s:9:"published";s:20:"2011-04-11T22:08:23Z";s:7:"updated";s:20:"2011-04-11T23:30:24Z";s:6:"author";s:32:"
+            
+                  ";s:11:"author_name";s:12:"Robin Sowell";s:10:"author_uri";s:21:"http://media-cow.com/";s:12:"atom_content";s:953:"
+        <p>New builds (20110411) of ExpressionEngine 2.1.3 and 2.1.4 were released to fix problems introduced by the 20110406 builds .&nbsp; This release contains all of the recommended security and critical bug fixes from the initial <a href="http://expressionengine.com/forums/viewthread/185897/">Security Releases</a> as well as repairing a number of issues introduced by a bad build script.&nbsp; This release is recommended for anyone on an earlier build.</p>
+
+<p>In the <a href="http://expressionengine.com/forums/viewthread/186196/">Rollback Announcement</a> this morning, I gave a brief explanation of what went wrong with the last release.&nbsp; I&#8217;d like to talk about that, and what we&#8217;re doing to address it, in more detail.&nbsp; But that post needs to perk in my brain for a little while before it&#8217;s coherent.&nbsp; For now, I just want to say I truly appreciate how patient you all have been about it.&nbsp; </p>
+
+      ";}}s:7:"channel";a:8:{s:5:"title";s:7:"EE Blog";s:8:"subtitle";s:29:"EE Blog:ExpressionEngine Blog";s:4:"link";s:33:"http://expressionengine.com/blog/";s:9:"link_self";s:42:"http://expressionengine.com/xml/atom/full/";s:7:"updated";s:20:"2011-07-06T15:50:42Z";s:6:"rights";s:33:"Copyright (c) 2011, EllisLab Inc.";s:9:"generator";s:16:"ExpressionEngine";s:2:"id";s:35:"tag:expressionengine.com,2011:06:27";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:4:"Atom";s:12:"feed_version";N;s:8:"encoding";s:5:"utf-8";s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:13:"current_field";s:0:"";s:17:"current_namespace";b:0;s:4:"etag";b:0;s:5:"ERROR";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:15:"source_encoding";s:5:"UTF-8";s:13:"last_modified";s:31:"Wed, 06 Jul 2011 15:50:42 GMT
+";}

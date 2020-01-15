@@ -1,0 +1,255 @@
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: "Lucida Grande", Arial, sans-serif;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+   display: block;
+}
+           
+ol, ul {
+   list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+    content: none;
+}
+            
+
+/* End of css reset */
+
+.clear {
+    clear: both;
+}
+
+b {
+   	font-weight: bold;
+}
+    		
+i {
+ 	font-style: italic;
+}
+    		
+em {
+   	font-style: italic;
+}
+
+ul.bulletCircle1 {
+	margin-left: -2px;
+}
+           
+
+            
+
+body {
+	margin: 20px 0 20px 0;
+	padding: 0;
+	color: #333;
+	font-family: "Lucida Grande", Arial, sans-serif;
+	font-size: 14px;
+	background: #fff none;
+}
+
+.clear {
+	clear: both;
+}
+
+
+.Liste li {
+	padding: 0 0 3px 3px;
+	margin: 0 0 5px 0;
+	line-height: 16px;
+	background-position: 0px 4px;
+}
+
+#mainWrapper {
+	width: 940px;
+	margin: 20px auto 0 auto;
+	padding: 0;
+	
+}
+
+#header {
+	position: relative;
+	width: 940px;
+	background: #ffffff;
+}
+
+#mainContent {
+	margin: 0px 0px 0px 0px;
+	padding: 0;
+	background-color: #ffffff;
+}
+
+#contentLeft {
+	float: left;
+	margin: 0;
+	padding: 35px 0px 25px 25px;
+	width: 530px;
+	: ;
+}
+
+#contentRight {
+	float: right;
+	width: 307px;
+	padding: 5px 0 0 0;
+	margin: 0 0 0 0;
+}
+
+h1 {
+	margin: 0px 0 25px 0;
+	padding: 0;
+	font-size: 24px;
+	font-weight: bold;
+	color: #333;
+}
+
+h2 {
+	margin: 0 0 20px 0;
+	padding: 0;
+	font-size: 16px;
+	font-weight: bold;
+	color: #333;
+}
+
+p {
+	margin: 0;
+	padding: 0 0 10px 0;
+}
+
+a {
+	font-weight: bold;
+  	color: #333333; 
+}
+
+ul {
+	font-size: 14px;
+}
+
+.headContentRight1 {
+	font-size: 23px;
+	font-weight: bold;
+	color: #333;
+	margin: 0;
+}
+
+.headContentRight2 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #333;
+	margin: 0 0 10px 0;
+}
+
+.sidebarBoxTelephone {
+	margin: 32px 0 10px 0 !important;
+	padding: 15px 15px 15px 20px;
+	border: 1px solid #ededed;
+	: #ededed !important;
+}
+
+.number {
+	color: #333;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 5px 0 5px 0;
+}
+
+#footer {
+	padding: 10px 15px 10px 25px;
+	font-size: 13px;
+	text-align: left;
+	position: relative;
+	width: 900px;
+	height: 65px;
+	color: #ababab;
+}
+
+#footer p {
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+	color: #333333;
+}
+
+#footer a {
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+}
+
+
+#footer .company:after, #footer .contact span:after {
+	content: " |";
+}
+
+#footer .contact span.contactZip:after {
+	content: none;
+}
+
+
+#header a {
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
+
+.boxHilight {
+	padding: 25px 25px 17px 25px;
+	/* background: #f4f4f4 none; */
+	margin: 20px 0 40px 0;
+	border: 0px solid #ababab;
+	line-height: 2;
+}
+
+
+
+#footer h1 {
+	margin-bottom: 5px;
+	font-size: 18px;
+	color: #333;
+	padding-top: 7px;
+}
+
+
+.sidebarBox {
+	border: 1px solid #ababab;
+	margin: 0 0 10px 0;
+	padding: 15px 15px 15px 20px;
+	width: 270px;
+	//box-shadow: 2px 2px 2px #bfbfbf;
+}
+
+
+.number a {
+	text-decoration: none;
+	color: #333;
+}
+
+h3 {
+	margin: 0 0 5px 0;
+	padding: 0;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+}
+
+.black{
+	height:30px;
+	margin-left: 24px;
+	display: block;
+	background-color: #333;
+}
+
+#header > a > div > img{
+	float: right;
+}

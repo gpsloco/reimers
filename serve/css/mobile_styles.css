@@ -1,0 +1,75 @@
+@media screen and (max-width: 960px){
+	
+.zivil, .arbeit, .www, .faq, .skurril, .insolvent, .podcast, 
+.mehr, .links, .glossar, .impressum{ display: none; }
+	
+	
+	select{
+	
+	display: inline-block; 
+	width: 200px;
+	}
+
+#rareimers{
+
+	display: none;
+	}
+
+h1{
+
+	height:  28px;
+	width: 100%;
+	overflow: hidden;
+	background: #333;
+	z-index: 1;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-top: 5px;
+	text-indent: 3px;
+}
+
+
+#content {
+	border-color: black;
+	border-style: solid;
+	border-width: 0px;
+	width: 100%;
+	float: right;
+	margin: 0 auto;
+	margin-top: 50px;
+	
+}
+
+#text {
+border-color: red;
+border-style: solid;
+border-width: 0px;
+float: left;
+background-color: #fff;
+width: 100%;
+}
+
+
+}
+	
+
+@media screen and (max-width: 480px){
+	
+.zivil, .arbeit, .www, .faq, .skurril, .insolvent, .podcast, 
+.mehr, .links, .glossar, .impressum{ display: none; }
+	
+
+#headback{
+
+	font-size: 10px;
+	}
+	
+
+#headback nobr{
+
+	font-size: 10px;
+	}
+	
+}

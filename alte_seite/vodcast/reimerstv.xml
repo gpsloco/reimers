@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Reimers TV</title>
+        <link>http://www.reimers.de/index.html</link>
+        <copyright>Copyright 2007 Thilo Reimers</copyright>
+        <itunes:author>Thilo Reimers</itunes:author>
+        <itunes:block>no</itunes:block>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category text="Education"></itunes:category>
+        <itunes:keywords>Recht Jura Reimers Rechtsanwalt</itunes:keywords>
+        <itunes:image href=""></itunes:image>
+        <managingEditor>th@qtvr.com</managingEditor>
+        <webMaster>Tilman Hampl</webMaster>
+        <generator>VODCaster</generator>
+        <itunes:owner>
+            <itunes:name>Thilo Reimers</itunes:name>
+            <itunes:email>th@qtvr.com</itunes:email>
+        </itunes:owner>
+        <itunes:summary>Neue Urteile, besprochen von dem Würzburger Rechtsanwalt Thilo Reimers</itunes:summary>
+        <language>de</language>
+        <item>
+            <title>Folge 2</title>
+            <pubDate>Tue, 27 Feb 2007 19:39:36 +0100</pubDate>
+            <link>http://www.reimers.de/vodcast/juracast-02.mp4</link>
+            <description>Neue Urteile, besprochen von dem Würzburger Rechtsanwalt Thilo Reimers</description>
+            <source url="http://www.reimers.de/vodcast/reimerstv.xml"></source>
+            <itunes:subtitle>Die Februar Ausgabe</itunes:subtitle>
+            <itunes:duration>00:05:45</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:keywords>Recht Jura Reimers Rechtsanwalt</itunes:keywords>
+            <itunes:author>RA Thilo Reimers</itunes:author>
+            <guid>http://www.reimers.de/vodcast/juracast-02.mp4</guid>
+            <enclosure url="http://www.reimers.de/vodcast/juracast-02.mp4" length="4511136" type="video/mp4"></enclosure>
+        </item>
+        <item>
+            <title>Folge 1</title>
+            <pubDate>Mon, 22 Jan 2007 19:00:00 +0100</pubDate>
+            <link>http://www.reimers.de/vodcast/juracast-01.mp4</link>
+            <description>Neue Urteile, besprochen von dem Würzburger Rechtsanwalt Thilo Reimers</description>
+            <source url="http://www.reimers.de/vodcast/reimerstv.xml"></source>
+            <itunes:subtitle>Neue Urteile, besprochen von dem Würzburger Rechtsanwalt Thilo Reimers</itunes:subtitle>
+            <itunes:duration>00:03:56</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:keywords>Recht Jura Reimers Rechtsanwalt</itunes:keywords>
+            <itunes:author>Thilo Reimers</itunes:author>
+            <guid>http://www.reimers.de/vodcast/juracast-01.mp4</guid>
+            <enclosure url="http://www.reimers.de/vodcast/juracast-01.mp4" length="15166652" type="video/mp4"></enclosure>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?php
+ function echo_link($col, $link, $text) {
+                echo "<TD BGCOLOR=\"$col\" ALIGN=CENTER VALIGN=MIDDLE>\r";
+                echo "<A ";
+
+                /* by default, inline style is used to print the links in
+                a small, white, sans-serif font with no underline */
+
+                echo "STYLE=\"text-decoration: none; font-weight: bold; ";
+                echo "font-family: ariel, helvetica, sans-serif; ";
+                echo "color: #FFFFFF; font-size: small\" ";
+
+                echo "HREF=\"$link\">$text</A></SMALL></TD>\r";
+        }
+
+        // Okay, let's open the TABLE and print the first default link
+
+        echo "<TABLE WIDTH=\"100%\"><TR>\r";
+        echo_link("#114711", "/index.phtml", "home");
+
+        // Now, the "up" link
+
+        echo_link("#111146", "../", "up");
+
+        /* If you're including this script from a function, you'll need
+        to make $SCRIPT_FILENAME a global variable. */
+
+        if (!$SCRIPT_FILENAME)
+                global $SCRIPT_FILENAME;
+
+        // We'll have to loop through all the files in the current directory
+
+        $d = dir(dirname($SCRIPT_FILENAME));
+        while($file=$d->read()):
+		
+        /* we don't want this file or any directories, but we do want all
+        .html and .phtml files */
+
+                if (($file != basename($SCRIPT_FILENAME)) && (is_file($file))
+                && eregi("html$", $file)):
+                
+                        $fp = fopen("$file", "r");
+
+                        $build = "";
+                        $flag = 0;
+
+                        for ($i = 0; !feof($fp); $i++) {
+                                $line = fgets($fp, 1024);
+                                
+                               
+                                /* The <TITLE> tag MUST be opened at the
+                                beginning of a new line */
+                               
+
+                                if (ereg("^[[:space:]]+<TITLE>", $line)):
+                                $lone = (ereg_replace("[[:space:]]+","",$line));
+                                    if (ereg("<TITLE>", $lone))
+                                        $flag = 1;
+                                endif;
+                                
+                                if (ereg("^[[:space:]]+<title>", $line)):
+                                $lone = (ereg_replace("[[:space:]]+","",$line));
+                                    if (ereg("<title>", $lone))
+                                        $flag = 1;
+                                endif;
+                               
+                               
+                               if (ereg("^<TITLE>", $line))
+                                        $flag = 1;
+                                        
+                               if (ereg("^<title>", $line))
+                                        $flag = 1;
+                               
+
+                                if ($flag == 1)
+                                        $build = $build.$line;
+                                        /*echo $build;*/
+
+                                if (ereg("</TITLE>", $line))
+                                        $flag = 0;
+                                        
+                                if (ereg("</title>", $line))
+                                        $flag = 0;
+                        }
+
+                        if ($build > ""):
+                                $build = ereg_replace("<TITLE>", "", $build);
+                                $build = ereg_replace("<title>", "", $build);
+                                $build = ereg_replace("</TITLE>", "", $build);
+                                $build = ereg_replace("</title>", "", $build);
+                                $build = trim($build);
+                                echo_link("#111111", $file, $build);
+                        endif;
+                endif;
+
+        endwhile;
+
+        // To finish off the bar, the other fixed link
+
+        echo_link("#114711", "/intranet/index.phtml", "intranet");
+        echo "</TR></TABLE>";
+
+        // and finally, close the directory
+
+        $d->close();
+?>

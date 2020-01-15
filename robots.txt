@@ -1,0 +1,6 @@
+Sitemap: http://reimers.de/sitemap.xml
+User-agent: *
+Disallow:/alte_seite/
+Disallow:/piwik/
+Disallow:/alte_htmls/
+Disallow:/webalizer/
