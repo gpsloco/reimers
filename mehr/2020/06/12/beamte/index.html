@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset=utf-8 />
+	<title>Die UG</title>
+	<meta name="description" content=" Die UG |  Rechtsanwalt Thilo Reimers" />
+	<meta name="keywords" content="RA Reimers, Rechtsanwalt, Würzburg, Rechtsanwalt Würzburg" />
+	<meta name="viewport" content="user-scalable=0, width=device-width, initial-scale=1, maximum-scale=1" />
+	<style type="text/css">
+     @media screen and (min-width:992px) { #contact {display: none;} }
+
+		#menu,
+		#text {
+			border-color: red;
+			border-style: solid;
+			border-width: 0;
+			float: left
+		}
+
+		a,
+		body {
+			color: #333
+		}
+
+		h2,
+		p {
+			margin-bottom: 20px
+		}
+
+		body {
+			line-height: 20px;
+			font: 14px/28px "Lucida Grande", Arial, sans-serif
+		}
+
+		h1,
+		h2 {
+			font-weight: 700
+		}
+
+		select {
+			display: none
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			margin-top: 0;
+			padding-top: 0
+		}
+
+		#rareimers {
+			position: absolute;
+			top: 0;
+			right: 0
+		}
+
+		h1 {
+			position: relative;
+			height: 28px;
+			overflow: hidden;
+			width: 150%;
+			background: #333;
+			top: -70px;
+			z-index: 1;
+			color: #fff;
+			font-size: 14px;
+			text-transform: uppercase;
+			padding-top: 5px;
+			padding-right: 5px;
+			text-indent: 3px;
+			padding-left: 3px
+		}
+
+		h2 {
+			font-size: 20px
+		}
+
+		h3 {
+			margin-left: -40px
+		}
+
+		#content {
+			border-color: #000;
+			border-style: solid;
+			border-width: 0;
+			width: 80%;
+			float: right;
+			margin: 220px 0 0
+		}
+
+		#menu {
+			width: 30%;
+			height: 100%;
+			margin-right: 30px
+		}
+
+		#text {
+			background-color: #fff;
+			width: 500px
+		}
+
+		a {
+			text-decoration: none
+		}
+
+		a:hover {
+			color: #77a3cc
+		}
+
+		ul {
+			list-style-type: none
+		}
+
+		#menu li {
+			line-height: 40px
+		}
+
+		.arbeit,
+		.faq,
+		.glossar,
+		.impressum,
+		.insolvent,
+		.links,
+		.mehr,
+		.podcast,
+		.skurril,
+		.www,
+		.zivil {
+			padding-left: 30px
+		}
+
+		.zivil {
+			background: url(/img/zivil_1.png) left no-repeat
+		}
+
+		.zivil:hover {
+			background: url(/img/zivil_2.png) left no-repeat
+		}
+
+		.arbeit {
+			background: url(/img/arbeit_1.png) left no-repeat
+		}
+
+		.arbeit:hover {
+			background: url(/img/arbeit_2.png) left no-repeat
+		}
+
+		.www {
+			background: url(/img/www_1.png) left no-repeat
+		}
+
+		.www:hover {
+			background: url(/img/www_2.png) left no-repeat
+		}
+
+		.skurril {
+			background: url(/img/skuril_1.png) left no-repeat
+		}
+
+		.skurril:hover {
+			background: url(/img/skuril_2.png) left no-repeat
+		}
+
+		.insolvent {
+			background: url(/img/insolvent_1.png) left no-repeat
+		}
+
+		.insolvent:hover {
+			background: url(/img/insolvent_2.png) left no-repeat
+		}
+
+		.podcast {
+			background: url(/img/podcast_1.png) left no-repeat
+		}
+
+		.podcast:hover {
+			background: url(/img/podcast_2.png) left no-repeat
+		}
+
+		.mehr {
+			background: url(/img/mehr_1.png) left no-repeat
+		}
+
+		.mehr:hover {
+			background: url(/img/mehr_2.png) left no-repeat
+		}
+
+		.faq {
+			background: url(/img/faq_1.png) left no-repeat
+		}
+
+		.faq:hover {
+			background: url(/img/faq_2.png) left no-repeat
+		}
+
+		.links {
+			background: url(/img/links_1.png) left no-repeat
+		}
+
+		.links:hover {
+			background: url(/img/links_2.png) left no-repeat
+		}
+
+		.glossar {
+			background: url(/img/links_1.png) left no-repeat
+		}
+
+		.glossar:hover {
+			background: url(/img/links_2.png) left no-repeat
+		}
+
+		.impressum {
+			background: url(/img/links_1.png) left no-repeat
+		}
+
+		.impressum:hover {
+			background: url(/img/links_2.png) left no-repeat
+		}
+
+		ul.entries li h3 {
+			left: 0;
+			font-size: 14px;
+			padding: 0
+		}
+
+		ul.entries a {
+			color: #333
+		}
+
+		ul.entries a:hover {
+			color: #77a3cc
+		}
+
+		@media screen and (max-width:960px) {
+
+			#rareimers,
+			.arbeit,
+			.faq,
+			.glossar,
+			.impressum,
+			.insolvent,
+			.links,
+			.mehr,
+			.podcast,
+			.skurril,
+			.www,
+			.zivil {
+				display: none
+			}
+
+			#content,
+			#text {
+				border-style: solid;
+				border-width: 0;
+				width: 100%
+			}
+
+			select {
+				display: inline-block;
+				width: 200px
+			}
+
+			#headback,
+			h1 {
+				height: 28px;
+				width: 100%;
+				overflow: hidden;
+				background: #333;
+				z-index: 1;
+				font-weight: 700;
+				color: #fff;
+				font-size: 14px;
+				text-transform: uppercase;
+				padding-top: 5px;
+				text-indent: 3px
+			}
+
+			#content {
+				border-color: #000;
+				float: right;
+				margin: 50px auto 0
+			}
+
+			#text {
+				border-color: red;
+				float: left;
+				background-color: #fff
+			}
+		}
+
+		@media screen and (max-width:480px) {
+
+			.arbeit,
+			.faq,
+			.glossar,
+			.impressum,
+			.insolvent,
+			.links,
+			.mehr,
+			.podcast,
+			.skurril,
+			.www,
+			.zivil {
+				display: none
+			}
+
+			#headback,
+			#headback nobr {
+				font-size: 10px
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div id=content>
+		<div id="menu">
+			<ul>
+				<li><a class="links" href="/">Startseite</a></li>
+				<li><a class="zivil" href="/zivilrecht/">Zivilrecht</a></li>
+				<li><a class="arbeit" href="/arbeitsrecht/">Arbeitsrecht</a></li>
+				<li><a class="www" href="/www-recht/">www-Recht</a></li>
+				<li><a class="faq" href="/faq/">FAQ</a></li>
+				<li><a class="skurril" href="/recht_skurriles/">recht Skurriles</a></li>
+				<li><a class="insolvent" href="/verkehrsrecht/">Verkehrsrecht</a></li>
+				<li><a class="podcast" href="/podcast/">Podcast</a></li>
+				<li><a class="mehr" href="/mehr/">Allerlei</a></li>
+				<li><a class="links" href="/links/">Links</a></li>
+				<li><a class="glossar" href="/glossar/">Glossar</a></li>
+				<li><a class="glossar" href="/datenschutz/">Datenschutz</a></li>
+				<li><a class="impressum" href="/impressum/">Impressum</a></li>
+			</ul>
+			<form name="menuform">
+				<select name="menu2" onChange="top.location.href = this.form.menu2.options[this.form.menu2.selectedIndex].value;
+	return false;">
+					<option value="/" selected>Menü</option>
+					<option value="/">Startseite</option>
+					<option value="/zivilrecht/">Zivilrecht</option>
+					<option value="/arbeitsrecht/">Arbeitsrecht</option>
+					<option value="/www-recht/">www-Recht</option>
+					<option value="/faq/">FAQ</option>
+					<option value="/recht_skurriles/">recht Skurriles</option>
+					<option value="/verkehrsrecht/">Verkehrsrecht</option>
+					<option value="/podcast/">Podcast</option>
+					<option value="/mehr/">Allerlei</option>
+					<option value="/links/">Links</option>
+					<option value="/glossar/">Glossar</option>
+					<option value="/datenschutz/">datenschutz</option>
+					<option value="/impressum/">Impressum</option>
+				</select>
+			</form>
+		</div>
+		<div id="text">
+			<h1>
+				<nobr>Thilo Reimers Rechtsanwalt, Dipl. Volkswirt, Würzburg</nobr>
+			</h1>
+			<h2>So schnell stehen Beamte vor dem Nichts</h2>
+<p>
+			Erfolgreiche Klage gegen Entfernung aus der Beamtenschaft
+			<br><br>
+			Ein Internetauftritt bringt es mit sich, dass man sich oftmals nicht persönlich kennt.
+			<br>
+			Vor dem Verwaltungsgericht habe ich einen Mandanten, der nach der Beantragung eines (legalen) Staatsangehörigkeitsausweises automatisch als Reichsbürger klassifiziert wurde, vertreten.
+			<br><br>
+			Wer mich nun kennt, wird wohl kaum auf die Idee kommen, mich in die Nähe der Reichsbürgerbewegung zu bringen. Auch hier war es de facto so, dass kleine Fehler ( und hier kann man wirklich darum streiten, ob überhaupt ein Fehlverhalten vorlag ) einen großen Auftritt der Landesanwaltschaft nach sich zog. Obwohl der Beamte sich hier formalrechtlich nichts zu schulden kommen ließ, sollte ihm ein vor 4 Jahren gestellter Antrag auf Feststellung seiner Deutschen Staatsangehörigkeit zum Verhängnis werden. Nolens volens bestand die Landesanwaltschaft auf Entfernung des Beamten aus der Beamtenschaft, was für diesen schlicht zur Folge hätte: Keine Pension, keine Arbeit, kein Einkommen.
+			<br><br>
+			Umso erfreulicher ist die Entscheidung des Verwaltungsgerichts in der Sache.
+			<br>
+			Der Disziplinarklage lag folgender Vorwurf zugrunde:
+			<br><br>
+			I. Vor dem 09.09.2015 habe der Beamte eine Internetseite auf Feststellung der deutschen Staatsangehörigkeit und die dazu gehörigen Formulare vom Bundesverwaltungsamt heruntergeladen.
+			<br><br>
+			Der Beklagte habe die Formulare selbst ausgefüllt und die dort gewünschten Angaben gemacht, diese unterschrieben und beim Landratsamt eingereicht. Der Staatsangehörigkeitsausweis ( sog. gelber Schein ) wurde vom Landratsamt ausgestellt und an den Beklagten ausgehändigt. Die Gebühr von € 25,-- wurde entrichtet.
+			<br><br>
+			In 2016 habe der Beklagte beim Bundesverwaltungsamt in Köln unter Verwendung des vom Bundesverwaltungsamts vorgesehenen Formulars einen Antrag auf Selbstauskunft gestellt.
+			<br><br>
+			An diesem Punkt ist das Gericht mit keinem Wort auf die Tatsache eingegangen, dass es sich hierbei um ein rechtsstaatliches Verfahren handelte. Entsprechend der geltenden Vorschriften waren die Ämter verfahren und hatten die entsprechend der geltenden Vorschriften notwendigen Angaben bzw. Ausweise ausgestellt.
+			<br><br>
+			Gleichwohl - wovon man derzeit wohl ausgehen muss –  müssen Personen, die dieses Verfahren beantragt haben, damit rechnen, als "Reichsbürger" qualifiziert zu werden.
+			<br><br>
+			Die Landesanwaltschaft beantragte deshalb, den Beklagten aus dem öffentlichen Dienst zu entfernen, dies, obwohl der Beklagte sowohl in einem Gespräch mit dem Vorgesetzten, als auch in einem Gespräch mit dem Landesanwalt im Beisein des Unterfertigten, ausdrücklich erklärt hatte, dass er voll und ganz hinter der Bundesrepublikanischen Verfassung stehe.
+			<br><br>
+			Allein die aktuellen Entwicklungen der EU und der EZB sehe man mit Sorge.
+			<br><br>
+			Auch wenn eine irgendwie geartete Definition der "Reichsbürger" ( was ist das bitte ? ) fehle, distanziere man sich hiervon, insbesondere vom Waffengebrauch und von der Annahme, man gehöre nicht zum Deutschen Hoheitsgebiet. Vielmehr fühle er sich auch heute zu seinem Amtseid verpflichtet und stehe zu diesem.
+			<br><br>
+			Die Landesanwaltschaft hingegen erklärte, dass der Beklagte durch die festgestellten Äußerungen und Handlungen gegen Dienstpflichten verstoßen habe, und sich durch das gesamte Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes zu bekennen und für deren Einhaltung einzutreten, verstoßen habe.
+			<br><br>
+			Zudem liege noch ein Verstoß gegen die Pflicht zur Achtung und vertrauenswürdigen Verhalten ( § 34 S. BeamtStG ) vor. Die Pflicht zur Verfassungstreue und die politische Treupflicht stellten Kernpflichten des Beamten dar. Die politische Treuepflicht verlange von Beamten, dass er sich eindeutig von Gruppierungen und Bestrebungen distanziere, die den Staat, seine verfassungsmäßigen Organe und die Geltung der Verfassungsordnung angriffen, bekämpften und diffamierten.
+			<br><br>
+			Diesen Anforderungen genüge der Beamte nicht, wenn er als "Reichsbürger" oder Anhänger der "Reichsbürgerbewegung", aber auch unabhängig von der Zugehörigkeit dieser Bewegung und dem Verfolgen dieser Theorien, die Geltung des Grundgesetztes und die verfassungsmäßige Struktur der Bundesrepublik Deutschland infrage stelle.
+			<br><br>
+			Nach den Ergebnissen der Ermittlungen sei mein Mandant als Anhänger der "Reichsbürgerbewegung" anzusehen.
+			<br><br>
+			Dies sei belegt durch die Beantragung des Staatsangehörigkeitsausweises und die dort gemachten Angaben. Durch die Beantragung des Staatsangehörigkeitsausweises und der Berufung auf das RuStAG in der Fassung von 1913 mit behaupteter Staatsangehörigkeit "in Bayern" der Angabe von Geburts- und Wohnsitz "Bayern", sei eindeutig nach außen gegenüber dem Landratsamt zu erkennen gewesen, dass für "Reichsbürger" typische Ziele verfolgt würden.
+			<br><br>
+			An dieser Stelle muss ich einhaken, da dieser Vorwurf in gewisser Weise absurd ist. Zu meiner eigenen Überraschung musste ich, um als Anwalt zugelassen zu werden, diesen Staatsangehörigkeitsausweis vor vielen Jahren vorlegen. Bis zum damaligen Zeitpunkt wusste ich auch nicht, dass es so etwas gibt, wurde aber durch die Regierung von Unterfranken eines Besseren belehrt. Die Landesanwaltschaft führte weiter aus, dass durch die Beantragung beim Bundesverwaltungsamt Köln ein eindeutiger Hinweis auf die Zugehörigkeit zur "Reichsbürgerbewegung" vorliege. Durch dieses pflichtwidrige Verhalten sei das Vertrauen des Dienstherren und die Allgemeinheit in eine künftige ordnungsgemäße Pflichtenerfüllung vollständig und unwiderruflich verloren. Wer den Staat infrage stelle, könne als Beamter nicht mehr Teil der staatlichen Ordnung sein.
+			<br><br>
+			Weder aus dem Gespräch mit dem Dienstvorgesetzten, noch aus dem persönlichen Gespräch mit dem Landesanwalt lasse sich ableiten, dass angesichts der Schwere des Dienstvergehens von der Höchstmaßnahme abgesehen werden könne. Auch lägen Milderungsgründe, die ein Absehen von der Höchstmaßnahme naheliegen würden, nicht vor.
+			<br><br>
+			In der Gesamtschau sei festzustellen, dass durch die schwerwiegende Pflichtverletzung das Vertrauen des Dienstherren und der Allgemeinheit verloren gegangen sei. Die Entfernung aus dem Beamtenverhältnis sei auch nicht unverhältnismäßig.
+			<br><br>
+			Hiergegen wies ich darauf hin, dass in den letzten 10 Jahren 174.000 Personen einen solchen Ausweis beantragt hatten und das zudem konkrete Vorwürfe hier nicht vorliegen. Nicht jeder Bürger, der einen solchen Ausweis beantragt habe, sei "Reichsbürger".
+			<br><br>
+			Hier habe mein Mandant sich wiederholt zur freiheitlich demokratischen Grundordnung bekannt. Ein anderes Verhalten sei niemals nach außen gedrungen. Die Argumentation der Landesanwaltschaft entspreche der zum Radikalenerlass aus dem Jahre 1995, der aber seit 25 Jahren gekippt sei.
+			<br><br>
+			II.
+			<br>
+			URTEIL
+			<br><br>
+			Als Disziplinarmaßnahme wird die Kürzung der Dienstbezüge auf die Dauer von 12 Monaten um 1/10 erkannt.
+			<br>
+			Das Verwaltungsgericht stellte in seinen Entscheidungsgründen fest, dass nach dem dargestellten Gesamtverhalten, ein fehlendes Eintreten für die freiheitlich demokratische Grundordnung und damit ein Verstoß gegen politische Treuepflichten nicht festzustellen sei.
+			<br><br>
+			Gleichwohl sei durch das Verhalten gegen beamtenrechtliche Pflichten zum achtung- und vertrauenswürdigen Verhalten verstoßen worden ( § 34 S. BeamtStG ). Ein Beamter sei im Interesse des Vertrauens der Öffentlichkeit in eine dem freiheitlich demokratischen Rechtsstaat verpflichtender Beamtenschaft gehalten zu vermeiden, dass er durch sein öffentliches außerdienstliches Verhalten in vorhersehbarer und ihm daher zurechenbarer Weise den Anschein setzt, sich mit der "Reichsbürgerszene" zu identifizieren ( verweise auf Bundesverwaltungsgericht vom 17.05.2001, AZ: 1 DB 15/01-Juris ).
+			<br><br>
+			Denn im Interesse der Akzeptanz und der Legitimation staatlichen Handelns ist der Beamte verpflichtet, bereits den Schein der Identifikation mit einem freiheitlichen Rechtsstaat diametral entgegengesetzten Gedankengut und mit Gruppierungen zu vermeiden, die sich zu einem solchen Gedankengut bekennen. Schon das zurechenbare Setzen eines solchen Scheins stellt eine disziplinarrechtlich bedeutsame Dienstpflichtverletzung dar
+			<br><br>
+			( Bundesverwaltungsgericht ebenda ).
+			<br><br>
+			Deshalb sei hier pflichtwidrig gehandelt worden, obwohl keine Gegnerschaft zur freiheitlich demokratischen Grundordnung vorliege. Es sei aber ein solcher Rechtsschein hervorgerufen worden. Dies sei durch die Beantragung des Staatsangehörigkeitsausweises hervorgerufen worden.
+			<br><br>
+			Dies stelle demnach vorsätzliche ein außerdienstliches Dienstvergehen nach § 47 Abs. 1 S. 2 BeamtStG dar. Es liegen auch die qualifizierten Voraussetzungen nach § 47 Abs. 1 S. 2 BeamtStG vor.
+			<br><br>
+			Nach dieser Vorschrift ist ein Verhalten außerhalb des Dienstes nur dann ein Dienstvergehen, wenn es nach den Umständen des Einzelfalls im besonderen Maß geeignet ist, das Vertrauen in eine für das Amt bedeutsamen Weise zu beeinträchtigen.
+			<br><br>
+			Ob und in welchem Umfang durch das außerdienstliche Verhalten des Beamten, das für sein Amt erforderliche Vertrauen beeinträchtigt wird, hänge in maßgeblicher Weise von Art und Intensität der jeweiligen Verfehlung ab.
+			<br><br>
+			Welche Disziplinarmaßnahme zur Ahndung des Dienstvergehens erforderlich ist, richte sich nach § 14 Abs. 1 BayDG, nach der Schwere des Dienstvergehens, der Beeinträchtigung des Vertrauens des Dienstherren oder der Allgemeinheit, dem Persönlichkeitsbild und dem bisherigen dienstlichen Verhalten. Zum anderen nach Form und Gewicht des Verschuldens und der Beweggründe des Beamten für sein pflichtwidriges Verhalten ( Bundesverwaltungsgericht vom 29.05.2008, AZ: 2 C 59/07 ).
+			<br><br>
+			Die Kammer kam hier zu der Einschätzung, dass ein mittelschweres Dienstvergehen vorlag und eine Kürzung der Dienstbezüge für ein Jahr um 1/10 angemessen und ausreichend sei ( Verweis Verwaltungsgericht München, Beschluss vom 24.01.2019, AZ. M 19 L DA 18.2281 ).
+			<br><br>
+			Dabei spreche zugunsten meines Mandanten, dass weder strafrechtlich noch disziplinarrechtliche Vorbelastungen existierten. Außerdem sei im dienstlichen Bereich niemals Gedankengut der "Reichsbürgerszene" verbreitet oder ein Verhalten gezeigt worden, welches in Verbindung mit der "Reichsbürgerszene" stehen würde. Außerdem sei der gestellte Antrag vor 4 Jahren gestellt worden und seitdem ein beanstandungsfreies Verhalten festzustellen. Zulasten spreche allerdings, dass man sich durch das Verhalten in die Nähe einer Gruppierung rücke, die die freiheitlich demokratische Grundordnung nicht nur verbal ablehne, sondern auch durch unterschiedliche, zum Teil strafbare Handlungen versuche, das bestehende Staatssystem gewaltsam zu bekämpfen ( Verfassungsschutzbericht Bayern 2018, S. 183 ). Es bedürfe daher einer durchaus deutlichen Pflichtenmahnung.
+			<br><br>
+			Im Ergebnis ist die Entscheidung hinnehmbar, wenn man sich auch gewünscht hätte, dass zum einen der Landesanwaltschaft auferlegt würde, endlich mal zu definieren, was eigentlich die "Reichsbürgerbewegung" sein soll. Eine entsprechende Definition steht bis heute aus. Auch die Tatsache, dass hier der Beamte formaljuristisch sich immer im Rahmen der bestehenden Gesetze hielt, mit anderen Worten also, sich legitim, besser gesetzestreu verhielt, wurde nicht beleuchtet.
+			<br>
+
+			<p>Rechtsanwalt
+				Reimers</p>
+
+
+
+			<br>
+			<br>
+
+			<div id="contact">
+				<p>Tel: <a href="tel:0931405158">0931 - 40 51 58</a></p>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+</body>
+
+</html>
